@@ -3368,40 +3368,260 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 #EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
-######### DOUYU MOVIE #########
+######### MOVIE SUB #########
 
-#EXTINF:-1 group-title="Douyu Movies" ,Douyu_Movies_1
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Douyu_Movies_2
+#EXTM3U
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" tvg-id="Arena2" tvg-name="&Prive HD" ,&Prive HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=155746.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" tvg-id="IMC" tvg-name="&Flix HD" ,&Flix HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=155990.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/KVvndVG/Pix.png" tvg-id="Sony Pix" tvg-name="Sony PIX" ,Sony PIX HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=1116481&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/KVvndVG/Pix.png" tvg-id="Sony Pix" tvg-name="Sony PIX" ,Sony PIX FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/96182.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" tvg-id="STAR Movies Eng-Sub Select HD" tvg-name="Star Movies Eng-Sub" ,Star Movies HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=155727&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" tvg-id="STAR Movies Eng-Sub Select HD" tvg-name="Star Movies Eng-Sub" ,Star Movies FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/93668.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/4jctxxs/str.png" tvg-id="STAR Movies Eng-Sub Select HD" tvg-name="Star Movies Eng-Sub Select" ,Star Movies Select HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=155729&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/4jctxxs/str.png" tvg-id="STAR Movies Eng-Sub Select HD" tvg-name="Star Movies Eng-Sub Select" ,Star Movies Select FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/93669.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/zs3yX9k/movies-now.png" tvg-id="HDMoviesNow.in" tvg-name="MOVIES NOW FHD" ,MOVIES NOW HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=156022&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/zs3yX9k/movies-now.png" tvg-id="HDMoviesNow.in" tvg-name="MOVIES NOW FHD" ,MOVIES NOW FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/93659.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/1mdMtJC/M7NX.png" tvg-id="MNX.in" tvg-name="MNX FHD" ,MNX HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=156021&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/1mdMtJC/M7NX.png" tvg-id="MNX.in" tvg-name="MNX FHD" ,MNX FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/93658.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/kKwSK96/MN.png" tvg-name="MN+ MOVIES FHD" ,MN+ HD
+http://protv.fun/play/live.php?mac=00:1a:79:63:12:55&stream=1532854&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/kKwSK96/MN.png" tvg-name="MN+ FHD" ,MN+ FHD
+http://sansat.net:88/live/vnZarTBRss1scE4/a6ofTn4UnmZja4O/93657.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 1
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Douyu_Movies_3
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Douyu_Movies_4
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Douyu_Movies_5
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 3
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 4
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 5
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 6
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Star Chinese Classic
-http://43.138.170.29:35455/yy/1355002394
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Jackie Chan Movies Collection
-https://live.metshop.top/huya/11342386
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Marvels Heroes Movies Collection
-http://43.138.170.29:35455/yy/1354932402
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Jet Li Movies Collection
-http://43.138.170.29:35455/yy/74613175
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Steven Chow Movies Collection
-http://223.109.210.49/txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" ,Shaw Brothers Movies Collection
-http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Chow Yun Fatt Movies Collection
-http://43.138.170.29:35455/yy/1354888733
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Hong Kong Movies Collection
-http://43.138.170.29:35455/yy/1382736910
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Sammo Hung Movies Collection
-http://43.138.170.29:35455/yy/1354924839
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Andy Lau Movies Collection
-http://43.138.170.29:35455/yy/1382745111
-#EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.ibb.co/MV1DPwp/dyu.png" , Dwayne Johnson Movies Collection
-https://live.metshop.top/huya/21059581
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 7
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 8
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 9
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,DOUYU•Bioskop 10
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" , Marvel Cinematic Universe
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,Marvel Cinematic Universe 2
+https://www.goodiptv.club/yy/1382745091
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,Avengers Movies
+https://www.goodiptv.club/yy/1382736863
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/5WGHf9L/x-men.png" ,X-Men Movies
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co/2qmg76T/PFIJ7cs.png" ,Thor
+https://www.goodiptv.club/yy/1354932441
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/999x9w8/harry-potter.png" ,Harry Potter
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/4J6TjLG/GOT.png" ,Game Of Thrones
+http://epg.112114.xyz/douyu/8945323
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/4J6TjLG/GOT.png" ,House Of The Dragon
+http://protv.fun/play/live.php?mac=00:1a:79:b3:24:d4&stream=1539569&extension=ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://i.ibb.co.com/kJMhXbP/007.png" ,James Bond
+https://www.goodiptv.club/huya/21059585
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO.png" tvg-id="hbo.us" tvg-name="HBO" ,HBO
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1265.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO.png" tvg-id="hbolatino.us" tvg-name="HBO LATINO" ,HBO LATINO
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118526.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO.png" tvg-id="hbowest.us" tvg-name="HBO WEST" ,HBO WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/77224.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO.png" tvg-id="hbolatinopacific.us" tvg-name="HBO LATINO WEST" ,HBO LATINO WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110777.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO2.png" tvg-id="hbo2.us" tvg-name="HBO 2" ,HBO 2
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95926.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO2.png" tvg-id="hbo2pacific.us" tvg-name="HBO 2 WEST" ,HBO 2 WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110774.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" ,HBO COMEDY
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1465.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBOComedy.png" tvg-id="hbocomedypacific.us" tvg-name="HBO COMEDY WEST" ,HBO COMEDY WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110775.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" tvg-id="hbofamily.us" tvg-name="HBO FAMILY" ,HBO FAMILY
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95925.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBOFamily.png" tvg-id="hbofamilypacific.us" tvg-name="HBO FAMILY WEST" ,HBO FAMILY WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110776.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" ,HBO SIGNATURE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/2515.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO%20Sig.png" tvg-id="hbosignaturepacific.us" tvg-name="HBO SIGNATURE WEST" ,HBO SIGNATURE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110778.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" tvg-id="hbozone.us" tvg-name="HBO ZONE" ,HBO ZONE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95924.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HBO%20Zone.png" tvg-id="hbozonepacific.us" tvg-name="HBO ZONE WEST" ,HBO ZONE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110779.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" tvg-id="cinemax.us" tvg-name="CINEMAX" ,CINEMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1282.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" tvg-id="cinemaxpacific.us" tvg-name="CINEMAX WEST" ,CINEMAX WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110767.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax.png" tvg-id="cinemaxlatin.us" tvg-name="CINEMAX LATINO" ,CINEMAX LATINO
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110770.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax%205%20Star.png" tvg-id="5starmax.us" tvg-name="CINEMAX 5STAR MAX" ,CINEMAX 5STAR MAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/89057.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" tvg-id="actionmax.us" tvg-name="CINEMAX ACTIONMAX" ,CINEMAX ACTIONMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95935.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax%20ActionMAX.png" tvg-id="actionmaxpacific.us" tvg-name="CINEMAX ACTIONMAX WEST" ,CINEMAX ACTIONMAX WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110769.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX" ,CINEMAX MOREMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95932.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Cinemax%20MoreMAX%20HD.png" tvg-id="moremaxpacific.us" tvg-name="CINEMAX MOREMAX WEST" ,CINEMAX MOREMAX WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110768.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/CinemaxMovieMAX.png" tvg-id="moviemax.us" tvg-name="CINEMAX MOVIEMAX" ,CINEMAX MOVIEMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/99584.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/outermax.png" tvg-id="outermax.us" tvg-name="CINEMAX OUTERMAX" ,CINEMAX OUTERMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95934.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLERMAX" ,CINEMAX THRILLERMAX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95933.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/ThrillerMAX.png" tvg-id="thrillermaxpacific.us" tvg-name="CINEMAX THRILLERMAX WEST" ,CINEMAX THRILLERMAX WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110771.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime.png" tvg-id="Showtime.us" tvg-name="SHOWTIME" ,SHOWTIME
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1580.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime.png" tvg-id="showtimewest.us" tvg-name="SHOWTIME WEST" ,SHOWTIME WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/39223.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" tvg-id="showtime2.us" tvg-name="SHOWTIME 2" ,SHOWTIME 2
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95922.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%202%20East.png" tvg-id="showtime2pacific.us" tvg-name="SHOWTIME 2 WEST" ,SHOWTIME 2 WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110780.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" tvg-id="shoxbet.us" tvg-name="SHOxBET" ,SHOxBET
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/90710.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/USA/shoxbet.png" tvg-id="shoxbetpacific.us" tvg-name="SHOxBET WEST" ,SHOxBET WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110781.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" ,SHOWTIME EXTREME
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95921.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%20Extreme%20East.png" tvg-id="showtimeextremepacific.us" tvg-name="SHOWTIME EXTREME WEST" ,SHOWTIME EXTREME WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110782.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest?cb=20121117045222" tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" ,SHOWTIME FAMILY ZONE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/99421.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest?cb=20121117045222" tvg-id="showtimefamilyzonepacific.us" tvg-name="SHOWTIME FAMILY ZONE WEST" ,SHOWTIME FAMILY ZONE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110786.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" ,SHOWTIME NEXT
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/89082.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%20Next.jpg" tvg-id="showtimenextpacific.us" tvg-name="SHOWTIME NEXT WEST" ,SHOWTIME NEXT WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110784.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" ,SHOWTIME SHOWCASE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1421.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Showtime%20Showcase%20East.png" tvg-id="showtimeshowcasepacific.us" tvg-name="SHOWTIME SHOWCASE WEST" ,SHOWTIME SHOWCASE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110783.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://www.pngitem.com/pimgs/m/490-4902138_showtime-women-logo-png-transparent-png.png" tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" ,SHOWTIME WOMEN
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/97654.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://www.pngitem.com/pimgs/m/490-4902138_showtime-women-logo-png-transparent-png.png" tvg-id="showtimewomenpacific.us" tvg-name="SHOWTIME WOMEN WEST" ,SHOWTIME WOMEN WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110785.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starz.us" tvg-name="STARZ" ,STARZ
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1271.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzwest.us" tvg-name="STARZ WEST" ,STARZ WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/98749.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" ,STARZ CINEMA
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/97655.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20Cinema.png" tvg-id="starzcinemapacific.us" tvg-name="STARZ CINEMA WEST" ,STARZ CINEMA WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110787.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY" ,STARZ COMEDY
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95919.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Comedy%20East.png" tvg-id="starzcomedypacific.us" tvg-name="STARZ COMEDY WEST" ,STARZ COMEDY WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110788.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" tvg-id="starzedge.us" tvg-name="STARZ EDGE" ,STARZ EDGE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95918.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Edge.png" tvg-id="starzedgepacific.us" tvg-name="STARZ EDGE WEST" ,STARZ EDGE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110789.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE.png" tvg-id="starzencore.us" tvg-name="STARZ ENCORE" ,STARZ ENCORE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/94991.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE.png" tvg-id="starzencorewest.us" tvg-name="STARZ ENCORE WEST" ,STARZ ENCORE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110791.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE.png" tvg-id="starzencoreespanol.us" tvg-name="STARZ ENCORE ESPANOL" ,STARZ ENCORE ESPANOL
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110790.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Encore%20Action.png" tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION" ,STARZ ENCORE ACTION
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95801.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Encore%20Action.png" tvg-id="starzencoreactionwest.us" tvg-name="STARZ ENCORE ACTION WEST" ,STARZ ENCORE ACTION WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118502.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencoreblack.us" tvg-name="STARZ ENCORE BLACK" ,STARZ ENCORE BLACK
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/97580.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencoreblackwest.us" tvg-name="STARZ ENCORE BLACK WEST" ,STARZ ENCORE BLACK WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118503.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencoreclassics.us" tvg-name="STARZ ENCORE CLASSIC" ,STARZ ENCORE CLASSIC
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95873.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencoreclassicwest.us" tvg-name="STARZ ENCORE CLASSIC WEST" ,STARZ ENCORE CLASSIC WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118504.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencorefamily.us" tvg-name="STARZ ENCORE FAMILY" ,STARZ ENCORE FAMILY
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/97581.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz.png" tvg-id="starzencorefamilywest.us" tvg-name="STARZ ENCORE FAMILY WEST" ,STARZ ENCORE FAMILY WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118505.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE%20Suspense.png" tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENSE" ,STARZ ENCORE SUSPENSE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95802.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20ENCORE%20Suspense.png" tvg-id="starzencoresuspensewest.us" tvg-name="STARZ ENCORE SUSPENSE WEST" ,STARZ ENCORE SUSPENSE WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118506.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Encore%20Westerns.png" tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS" ,STARZ ENCORE WESTERNS
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/92315.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20Encore%20Westerns.png" tvg-id="starzencorewesternswest.us" tvg-name="STARZ ENCORE WESTERNS WEST" ,STARZ ENCORE WESTERNS WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118507.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" tvg-id="starzinblack.us" tvg-name="STARZ IN BLACK" ,STARZ IN BLACK
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/89055.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Starz%20In%20Black.png" tvg-id="starzinblackpacific.us" tvg-name="STARZ IN BLACK WEST" ,STARZ IN BLACK WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110792.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY" ,STARZ KIDS & FAMILY
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/95916.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/STARZ%20Kids.png" tvg-id="starzkidsfamilypacific.us" tvg-name="STARZ KIDS & FAMILY WEST" ,STARZ KIDS & FAMILY WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114575.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://www.logolynx.com/images/logolynx/8d/8dd8772578618ecb55d6e77ede68d44c.jpeg" tvg-id="flix.us" tvg-name="FLIX" ,FLIX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114576.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://www.logolynx.com/images/logolynx/8d/8dd8772578618ecb55d6e77ede68d44c.jpeg" tvg-id="flixwest.us" tvg-name="FLIX WEST" ,FLIX WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118501.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/HDNETMV.png" tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" ,HDNET MOVIES
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/111040.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/plex-indieplex-hz-us.png" tvg-id="indieplex.us" tvg-name="INDIEPLEX" ,INDIEPLEX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118495.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/Encore%20MoviePlex.png" tvg-id="movieplex.us" tvg-name="MOVIEPLEX" ,MOVIEPLEX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110084.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://primestreamstv.com/logos/USA/retroplex.png" tvg-id="retroplex.us" tvg-name="RETROPLEX" ,RETROPLEX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110085.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://uspto.report/TM/78684910/mark.png" tvg-id="screenpix.us" tvg-name="SCREENPIX" ,SCREENPIX
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114257.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://uspto.report/TM/78684910/mark.png" tvg-id="screenpixaction.us" tvg-name="SCREENPIX ACTION" ,SCREENPIX ACTION
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114258.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://uspto.report/TM/78684910/mark.png" tvg-id="screenpixvoices.us" tvg-name="SCREENPIX VOICES" ,SCREENPIX VOICES
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114264.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://uspto.report/TM/78684910/mark.png" tvg-id="screenpixwesterns.us" tvg-name="SCREENPIX WESTERNS" ,SCREENPIX WESTERNS
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114259.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/2560px-The_Movie_Channel.svg.png" tvg-id="tmc.us" tvg-name="THE MOVIE CHANNEL" ,THE MOVIE CHANNEL
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/96959.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/2560px-The_Movie_Channel.svg.png" tvg-id="themoviechannelwest.us" tvg-name="THE MOVIE CHANNEL WEST" ,THE MOVIE CHANNEL WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118508.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/25/63451.jpg" tvg-id="tmcxtra.us" tvg-name="THE MOVIE CHANNEL EXTRA" ,THE MOVIE CHANNEL EXTRA
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114262.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/25/63451.jpg" tvg-id="themoviechannelextrawest.us" tvg-name="THE MOVIE CHANNEL EXTRA WEST" ,THE MOVIE CHANNEL EXTRA WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/118509.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/MGM+_logo.svg.png" tvg-id="MGMPlus.us" tvg-name="MGM+" ,MGM+
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/1360.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/MGM+_logo.svg.png" tvg-id="mgmpacific.us" tvg-name="MGM+ WEST" ,MGM+ WEST
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/110772.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/MGM+_logo.svg.png" tvg-id="mgmhits.us" tvg-name="MGM+ HITS" ,MGM+ HITS
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/98755.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/MGM+_logo.svg.png" tvg-id="mgmdrivein.us" tvg-name="MGM+ DRIVE-IN" ,MGM+ DRIVE-IN
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/99588.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="https://turbostarz.xyz/logos/tv-master/countries/united-states/mgmplusmarquee.png" tvg-id="mgmmarquee.us" tvg-name="MGM+ MARQUEE" ,MGM+ MARQUEE
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/38629.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" tvg-id="hollywoodsuite70s.ca" tvg-name="HOLLYWOOD SUITE 70S" ,HOLLYWOOD SUITE 70S
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114266.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" tvg-id="hollywoodsuite80s.ca" tvg-name="HOLLYWOOD SUITE 80S" ,HOLLYWOOD SUITE 80S
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114267.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" tvg-id="hollywoodsuite90s.ca" tvg-name="HOLLYWOOD SUITE 90S" ,HOLLYWOOD SUITE 90S
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114268.ts
+#EXTINF:-1 group-title="Movies Eng-Sub" tvg-logo="http://www.geekchicelite.com/wp-content/uploads/2020/09/hollywoodsuite-logo-1024x579.jpg" tvg-id="hollywoodsuite2000.ca" tvg-name="HOLLYWOOD SUITE 00S" ,HOLLYWOOD SUITE 00S
+http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114269.ts
+
 
 ######### JP CH #########
 
