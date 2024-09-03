@@ -3780,6 +3780,462 @@ https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/boomerang.png" tvg-id="BoomerangThailand.th" ,Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
+######### MOVIE24/7 #########
+
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 FRIENDS
+http://cord-cutter.net:8080/51169911/51169911/66407
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 RICK AND MORTY
+http://cord-cutter.net:8080/51169911/51169911/66302
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg"  , 24/7 DRAGON BALL Z
+http://cord-cutter.net:8080/51169911/51169911/79572
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 FULL HOUSE
+http://cord-cutter.net:8080/51169911/51169911/66269
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 FAMILY GUY
+http://cord-cutter.net:8080/51169911/51169911/66317
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , Game Of Thrones
+http://cord-cutter.net:8080/51169911/51169911/66318
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 KEEPING UP WITH THE KARDASHIANS
+http://cord-cutter.net:8080/51169911/51169911/66403
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 FRESH PRINCE OF BEL-AIR
+http://cord-cutter.net:8080/51169911/51169911/79559
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 THE FIRST 48HRS
+http://cord-cutter.net:8080/51169911/51169911/66393
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 RIDICULOUSNESS
+http://cord-cutter.net:8080/51169911/51169911/66397
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 SAVED BY THE BELL
+http://cord-cutter.net:8080/51169911/51169911/66344
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 SEINFELD
+http://cord-cutter.net:8080/51169911/51169911/66303
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , South Park*
+http://cord-cutter.net:8080/51169911/51169911/66401
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 PAW PATROL
+http://cord-cutter.net:8080/51169911/51169911/66311
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , The KING OF QUEENS
+http://cord-cutter.net:8080/51169911/51169911/79567
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , Knight Rider*
+http://cord-cutter.net:8080/51169911/51169911/83700
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: ANIMATION
+http://cord-cutter.net:8080/51169911/51169911/119420
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/51169911/51169911/119421
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: CLASSIC
+http://cord-cutter.net:8080/51169911/51169911/119422
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: COMEDY
+http://cord-cutter.net:8080/51169911/51169911/119423
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: CULT
+http://cord-cutter.net:8080/51169911/51169911/119424
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: FAMILY
+http://cord-cutter.net:8080/51169911/51169911/119425
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: GREATS
+http://cord-cutter.net:8080/51169911/51169911/119426
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/51169911/51169911/119427
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/51169911/51169911/119428
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 Horror Movies
+http://cord-cutter.net:8080/51169911/51169911/119429
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: MUSICAL
+http://cord-cutter.net:8080/51169911/51169911/119430
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: MYSTERY
+http://cord-cutter.net:8080/51169911/51169911/119431
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: PREMIERE
+http://cord-cutter.net:8080/51169911/51169911/119432
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: ROMANCE
+http://cord-cutter.net:8080/51169911/51169911/119433
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: SCI-FI
+http://cord-cutter.net:8080/51169911/51169911/119434
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: WESTERN
+http://cord-cutter.net:8080/51169911/51169911/119435
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: HITS
+http://cord-cutter.net:8080/51169911/51169911/119436
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , CINEBOX: THRILLER
+http://cord-cutter.net:8080/51169911/51169911/119437
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: 7NEWS SPOTLIGHT
+http://cord-cutter.net:8080/51169911/51169911/119438
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: ALL DOCUMENTERY
+http://cord-cutter.net:8080/51169911/51169911/119439
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: DISCOVERY
+http://cord-cutter.net:8080/51169911/51169911/119440
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: DW DOCUMENTERY
+http://cord-cutter.net:8080/51169911/51169911/119441
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: FREE DOCUMENTERY
+http://cord-cutter.net:8080/51169911/51169911/119442
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://cord-cutter.net:8080/51169911/51169911/119443
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: FRONTLINE PBS
+http://cord-cutter.net:8080/51169911/51169911/119444
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: NAT GEO WILD
+http://cord-cutter.net:8080/51169911/51169911/119447
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: NETFLIX
+http://cord-cutter.net:8080/51169911/51169911/119448
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: REAL CRIME
+http://cord-cutter.net:8080/51169911/51169911/119449
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , DOCUBOX: REAL WILD
+http://cord-cutter.net:8080/51169911/51169911/119451
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 THE GOLDEN GIRLS
+http://cord-cutter.net:8080/51169911/51169911/120948
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 THE FLINTSTONES
+http://cord-cutter.net:8080/51169911/51169911/120949
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 COMEDY MOVIES
+http://cord-cutter.net:8080/51169911/51169911/121096
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 STAR TREK
+http://cord-cutter.net:8080/51169911/51169911/121115
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 FAMILY MATTERS
+http://cord-cutter.net:8080/51169911/51169911/125634
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 TOM AND JERRY
+http://cord-cutter.net:8080/51169911/51169911/125635
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 DUCK TALES
+http://cord-cutter.net:8080/51169911/51169911/125636
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 TEEN TITANS GO!
+http://cord-cutter.net:8080/51169911/51169911/125637
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 LOONEY TUNES
+http://cord-cutter.net:8080/51169911/51169911/125638
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 THE SOPRANOS
+http://cord-cutter.net:8080/51169911/51169911/125971
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 SEX IN THE CITY
+http://cord-cutter.net:8080/51169911/51169911/125972
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 GUNSMOKE
+http://cord-cutter.net:8080/51169911/51169911/140069
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 Adventure Time
+http://cord-cutter.net:8080/51169911/51169911/178879
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 American Crime Story
+http://cord-cutter.net:8080/51169911/51169911/178876
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 Bar Rescue
+http://cord-cutter.net:8080/51169911/51169911/178865
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 Biography: WWE Legends
+http://cord-cutter.net:8080/51169911/51169911/178860
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , 24/7 Chuck
+http://cord-cutter.net:8080/51169911/51169911/178845
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Action
+http://cord-cutter.net:8080/51169911/51169911/215269
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Adventure
+http://cord-cutter.net:8080/51169911/51169911/215270
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Alien
+http://cord-cutter.net:8080/51169911/51169911/215271
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Animation
+http://cord-cutter.net:8080/51169911/51169911/215272
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Avengers
+http://cord-cutter.net:8080/51169911/51169911/215273
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Batman
+http://cord-cutter.net:8080/51169911/51169911/215274
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Biography
+http://cord-cutter.net:8080/51169911/51169911/215275
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Blade
+http://cord-cutter.net:8080/51169911/51169911/215276
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Blade Runner
+http://cord-cutter.net:8080/51169911/51169911/215277
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Comedy
+http://cord-cutter.net:8080/51169911/51169911/215278
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Creature
+http://cord-cutter.net:8080/51169911/51169911/215279
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Crime
+http://cord-cutter.net:8080/51169911/51169911/215280
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Deadpool
+http://cord-cutter.net:8080/51169911/51169911/215281
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Die Hard
+http://cord-cutter.net:8080/51169911/51169911/215282
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Drama
+http://cord-cutter.net:8080/51169911/51169911/215283
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Epic
+http://cord-cutter.net:8080/51169911/51169911/215284
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Family
+http://cord-cutter.net:8080/51169911/51169911/215285
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Fantasy
+http://cord-cutter.net:8080/51169911/51169911/215286
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Fast and the Furious
+http://cord-cutter.net:8080/51169911/51169911/215287
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Final Destination
+http://cord-cutter.net:8080/51169911/51169911/215288
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Ghostbusters
+http://cord-cutter.net:8080/51169911/51169911/215289
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Hangover
+http://cord-cutter.net:8080/51169911/51169911/215290
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Harry Potter
+http://cord-cutter.net:8080/51169911/51169911/215291
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: History
+http://cord-cutter.net:8080/51169911/51169911/215292
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Horror
+http://cord-cutter.net:8080/51169911/51169911/215293
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Ice Age
+http://cord-cutter.net:8080/51169911/51169911/215294
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Indiana Jones
+http://cord-cutter.net:8080/51169911/51169911/215295
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: James Bond (007)
+http://cord-cutter.net:8080/51169911/51169911/215296
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: John Wick
+http://cord-cutter.net:8080/51169911/51169911/215297
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jurassic Park
+http://cord-cutter.net:8080/51169911/51169911/215298
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Kingsman
+http://cord-cutter.net:8080/51169911/51169911/215299
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Legendary
+http://cord-cutter.net:8080/51169911/51169911/215300
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mad Max
+http://cord-cutter.net:8080/51169911/51169911/215301
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Maze Runner
+http://cord-cutter.net:8080/51169911/51169911/215302
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Men in Black
+http://cord-cutter.net:8080/51169911/51169911/215303
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mission Impossible
+http://cord-cutter.net:8080/51169911/51169911/215304
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Musical
+http://cord-cutter.net:8080/51169911/51169911/215305
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mystery
+http://cord-cutter.net:8080/51169911/51169911/215306
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mythological
+http://cord-cutter.net:8080/51169911/51169911/215307
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Oceans Eleven
+http://cord-cutter.net:8080/51169911/51169911/215308
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Pirates of the Caribbean
+http://cord-cutter.net:8080/51169911/51169911/215309
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Planet of Apes
+http://cord-cutter.net:8080/51169911/51169911/215310
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Post-Apocalyptic
+http://cord-cutter.net:8080/51169911/51169911/215311
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Resident Evil
+http://cord-cutter.net:8080/51169911/51169911/215312
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Robot
+http://cord-cutter.net:8080/51169911/51169911/215313
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Rocky
+http://cord-cutter.net:8080/51169911/51169911/215314
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Romantic
+http://cord-cutter.net:8080/51169911/51169911/215315
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Saw
+http://cord-cutter.net:8080/51169911/51169911/215316
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Science Fiction
+http://cord-cutter.net:8080/51169911/51169911/215317
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Sherlock Holmes
+http://cord-cutter.net:8080/51169911/51169911/215318
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Shrek
+http://cord-cutter.net:8080/51169911/51169911/215319
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Space
+http://cord-cutter.net:8080/51169911/51169911/215320
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Spiderman
+http://cord-cutter.net:8080/51169911/51169911/215321
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Sports
+http://cord-cutter.net:8080/51169911/51169911/215322
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Spy
+http://cord-cutter.net:8080/51169911/51169911/215323
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Star Wars
+http://cord-cutter.net:8080/51169911/51169911/215324
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Superhero
+http://cord-cutter.net:8080/51169911/51169911/215325
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Survival
+http://cord-cutter.net:8080/51169911/51169911/215326
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Bourne
+http://cord-cutter.net:8080/51169911/51169911/215327
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Conjuring
+http://cord-cutter.net:8080/51169911/51169911/215328
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Expendables
+http://cord-cutter.net:8080/51169911/51169911/215329
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Godfather
+http://cord-cutter.net:8080/51169911/51169911/215330
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Hobbit
+http://cord-cutter.net:8080/51169911/51169911/215331
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Hunger Games
+http://cord-cutter.net:8080/51169911/51169911/215332
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Karete Kid
+http://cord-cutter.net:8080/51169911/51169911/215333
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Lord of The Rings
+http://cord-cutter.net:8080/51169911/51169911/215334
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Matrix
+http://cord-cutter.net:8080/51169911/51169911/215335
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Mummy
+http://cord-cutter.net:8080/51169911/51169911/215336
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Purge
+http://cord-cutter.net:8080/51169911/51169911/215337
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: The Terminator
+http://cord-cutter.net:8080/51169911/51169911/215338
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Three Flavours Cornetto
+http://cord-cutter.net:8080/51169911/51169911/215339
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Thriller
+http://cord-cutter.net:8080/51169911/51169911/215340
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Toy Story
+http://cord-cutter.net:8080/51169911/51169911/215341
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Transformers
+http://cord-cutter.net:8080/51169911/51169911/215342
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Transporter
+http://cord-cutter.net:8080/51169911/51169911/215343
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Twilight Saga
+http://cord-cutter.net:8080/51169911/51169911/215344
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: War
+http://cord-cutter.net:8080/51169911/51169911/215345
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Western
+http://cord-cutter.net:8080/51169911/51169911/215346
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: X-Men
+http://cord-cutter.net:8080/51169911/51169911/215347
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Zombie
+http://cord-cutter.net:8080/51169911/51169911/215348
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Benedict Cumberbatch
+http://cord-cutter.net:8080/51169911/51169911/215349
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Bradley Cooper
+http://cord-cutter.net:8080/51169911/51169911/215350
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Christian Bale
+http://cord-cutter.net:8080/51169911/51169911/215351
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Cillian Murphy
+http://cord-cutter.net:8080/51169911/51169911/215352
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Edward Norton
+http://cord-cutter.net:8080/51169911/51169911/215353
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Hugh Jackman
+http://cord-cutter.net:8080/51169911/51169911/215354
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jack Nicholson
+http://cord-cutter.net:8080/51169911/51169911/215355
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jake Gyllenhaal
+http://cord-cutter.net:8080/51169911/51169911/215356
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jamie Foxx
+http://cord-cutter.net:8080/51169911/51169911/215357
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jeff Bridges
+http://cord-cutter.net:8080/51169911/51169911/215358
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jim Carrey
+http://cord-cutter.net:8080/51169911/51169911/215359
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Johnny Depp
+http://cord-cutter.net:8080/51169911/51169911/215360
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Keanu Reeves
+http://cord-cutter.net:8080/51169911/51169911/215361
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Liam Neeson
+http://cord-cutter.net:8080/51169911/51169911/215362
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mark Wahlberg
+http://cord-cutter.net:8080/51169911/51169911/215363
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Matt Damon
+http://cord-cutter.net:8080/51169911/51169911/215364
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Micheal Caine
+http://cord-cutter.net:8080/51169911/51169911/215365
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Morgan Freeman
+http://cord-cutter.net:8080/51169911/51169911/215366
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Russell Crowe
+http://cord-cutter.net:8080/51169911/51169911/215367
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Ryan Reynolds
+http://cord-cutter.net:8080/51169911/51169911/215368
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Samuel L. Jakson
+http://cord-cutter.net:8080/51169911/51169911/215369
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Tom Cruise
+http://cord-cutter.net:8080/51169911/51169911/215370
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Tom Hanks
+http://cord-cutter.net:8080/51169911/51169911/215371
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Will Smith
+http://cord-cutter.net:8080/51169911/51169911/215372
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Adam Sandler
+http://cord-cutter.net:8080/51169911/51169911/215373
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Arnold Schwarzenegger
+http://cord-cutter.net:8080/51169911/51169911/215374
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Daniel Craig
+http://cord-cutter.net:8080/51169911/51169911/215375
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Dwayne Johnson
+http://cord-cutter.net:8080/51169911/51169911/215376
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Gerard Butler
+http://cord-cutter.net:8080/51169911/51169911/215377
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jackie Chan
+http://cord-cutter.net:8080/51169911/51169911/215378
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jason Statham
+http://cord-cutter.net:8080/51169911/51169911/215379
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Kevin Hart
+http://cord-cutter.net:8080/51169911/51169911/215380
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Orlando Bloom
+http://cord-cutter.net:8080/51169911/51169911/215381
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Sylvester Stallone
+http://cord-cutter.net:8080/51169911/51169911/215382
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Tom Hardy
+http://cord-cutter.net:8080/51169911/51169911/215383
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Amy Adams
+http://cord-cutter.net:8080/51169911/51169911/215384
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Anne Hathaway
+http://cord-cutter.net:8080/51169911/51169911/215385
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Brie Larson
+http://cord-cutter.net:8080/51169911/51169911/215386
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Cate Blanchett
+http://cord-cutter.net:8080/51169911/51169911/215387
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Charlize Theron
+http://cord-cutter.net:8080/51169911/51169911/215388
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Halle Berry
+http://cord-cutter.net:8080/51169911/51169911/215389
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Helen Mirren
+http://cord-cutter.net:8080/51169911/51169911/215390
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Brad Pitt
+http://cord-cutter.net:8080/51169911/51169911/215391
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Al Pacino
+http://cord-cutter.net:8080/51169911/51169911/215392
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Denzel Washington
+http://cord-cutter.net:8080/51169911/51169911/215393
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Vin Diesel
+http://cord-cutter.net:8080/51169911/51169911/215394
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Bruce Willis
+http://cord-cutter.net:8080/51169911/51169911/215395
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Robert Downey Jr
+http://cord-cutter.net:8080/51169911/51169911/215396
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Leonardo DiCaprio
+http://cord-cutter.net:8080/51169911/51169911/215397
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Angelina Jolie
+http://cord-cutter.net:8080/51169911/51169911/215398
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Alicia Vikander
+http://cord-cutter.net:8080/51169911/51169911/215399
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Emma Stone
+http://cord-cutter.net:8080/51169911/51169911/215400
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Emma Watson
+http://cord-cutter.net:8080/51169911/51169911/215401
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jennifer Lawrence
+http://cord-cutter.net:8080/51169911/51169911/215402
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Julia Roberts
+http://cord-cutter.net:8080/51169911/51169911/215403
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Julianne Moore
+http://cord-cutter.net:8080/51169911/51169911/215404
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Kate Winslet
+http://cord-cutter.net:8080/51169911/51169911/215405
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Keira Knightley
+http://cord-cutter.net:8080/51169911/51169911/215406
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Kristen Stewart
+http://cord-cutter.net:8080/51169911/51169911/215407
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Lupita Nyong` o
+http://cord-cutter.net:8080/51169911/51169911/215408
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Margot Robbie
+http://cord-cutter.net:8080/51169911/51169911/215409
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Meryl Streep
+http://cord-cutter.net:8080/51169911/51169911/215410
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Michelle Pfeiffer
+http://cord-cutter.net:8080/51169911/51169911/215411
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Natalie Portman
+http://cord-cutter.net:8080/51169911/51169911/215412
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Nicole Kidman
+http://cord-cutter.net:8080/51169911/51169911/215413
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Rachel McAdams
+http://cord-cutter.net:8080/51169911/51169911/215414
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Reese Witherspoon
+http://cord-cutter.net:8080/51169911/51169911/215415
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Salma Hayek
+http://cord-cutter.net:8080/51169911/51169911/215416
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Sandra Bullock
+http://cord-cutter.net:8080/51169911/51169911/215417
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Saoirse Ronan
+http://cord-cutter.net:8080/51169911/51169911/215418
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Scarlett Johansson
+http://cord-cutter.net:8080/51169911/51169911/215419
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Viola Davis
+http://cord-cutter.net:8080/51169911/51169911/215420
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Cameron Diaz
+http://cord-cutter.net:8080/51169911/51169911/215421
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Catherine Zeta-Jones
+http://cord-cutter.net:8080/51169911/51169911/215422
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Drew Barrymore
+http://cord-cutter.net:8080/51169911/51169911/215423
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Eva Green
+http://cord-cutter.net:8080/51169911/51169911/215424
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jennifer Aniston
+http://cord-cutter.net:8080/51169911/51169911/215425
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Jessica Alba
+http://cord-cutter.net:8080/51169911/51169911/215426
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Lucy Liu
+http://cord-cutter.net:8080/51169911/51169911/215427
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Megan Fox
+http://cord-cutter.net:8080/51169911/51169911/215428
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Melissa McCarthy
+http://cord-cutter.net:8080/51169911/51169911/215429
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Mila Kunis
+http://cord-cutter.net:8080/51169911/51169911/215430
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Penope Cruz
+http://cord-cutter.net:8080/51169911/51169911/215431
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Sigourney Weaver
+http://cord-cutter.net:8080/51169911/51169911/215432
+#EXTINF:-1 group-title="24/7 CHANNELS " tvg-logo="https://iran.tech.blog/wp-content/uploads/2019/08/movie24.jpg" , M4: Zoe Saldana
+http://cord-cutter.net:8080/51169911/51169911/215433
 
 
 
