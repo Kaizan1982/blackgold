@@ -715,7 +715,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium78/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://dl.dropboxusercontent.com/s/p7y7domrmfxjo1j/tvrisport.png" group-title="PREMIUM SPORTS",TVRI SPORT
+#EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="PREMIUM SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="PREMIUM SPORTS",SporTV 2 
@@ -1229,52 +1229,52 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
                 ==========RAKUTEN TV========
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 1
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 2
 https://rakuten-action-12-fi.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 3
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 4
 https://rakuten-action-11-no.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 5
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 6
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 7
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 8
 https://rakuten-comedy-12-fi.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 9
 https://rakuten-comedy-13-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 10 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 10 
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", MOVIE 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 11
 https://rakuten-comedy-11-no.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", Action Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", Action Movies 1
 https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", Action Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", Action Movies 1
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", Action Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", Action Movies 1
 https://rakuten-drama-12-fi.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", Action Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", Action Movies 1
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN TV" tvg-id="" tvg-name="", Action Movies 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", Action Movies 1
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
@@ -1446,11 +1446,6 @@ http://opplex.tv:8080/nwdndw/736383/345797
                      
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="MOVIE 24/7" tvg-id="" tvg-name="", MOVIE 30
 http://opplex.tv:8080/nwdndw/736383/345798
-
-
-
-
-
 
 
                       =========SSC=======
@@ -2518,16 +2513,16 @@ https://m.vidio.com/videos/7183997/common_tokenized_playlist.m3u8
                  =========SPORT TV======
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•1_PT 
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•1_PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167742.ts
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•2_PT 
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•2_PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167743.ts
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•3_PT 
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•3_PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167744.ts
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/hlxxmcm3dcxd2hy/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•4_PT 
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sporttv.png" group-title="PREMIUM SPORTS",SPORTV•4_PT 
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 
@@ -3373,16 +3368,16 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b2cd7d940521074b
 
 ######### SONY SPORTS #########
 
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports 1
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ten1.png",Sony Sports 1
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157880.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports 2
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ten2.png",Sony Sports 2
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports 3
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ten3.png",Sony Sports 3
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
-#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports 4
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ten4.png",Sony Sports 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
 ######### MOVIE SUB #########
