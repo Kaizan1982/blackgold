@@ -63,6 +63,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" ,INDOSIAR HD2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" , INDOSIAR HD3
+http://opplex.tv:8080/3116580700/0700/350972
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png", ANTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -99,6 +102,9 @@ http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" ,MOJI HD2
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/moji.jpg" ,MOJI HD3
+http://opplex.tv:8080/3116580700/0700/350997
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://guki.my.id/logo/lokal/rtv.jpg", RTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -157,6 +163,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|l
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/kids/mentaritv.png" , Mentari TV
+http://opplex.tv:8080/3116580700/0700/350989
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/transtv.png", TRANS TV1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -511,12 +520,15 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop_indonesia.png" ,Bioskop Indonesia
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://opplex.tv:8080/3116580700/0700/350906
 
 #EXTINF:-1 group-title="PREMIUM MOVIE" tvg-id="flik.id" tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
+
+#EXTINF:-1 group-title="PREMIUM MOVIE" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/flik.png" ,FLIK
+http://opplex.tv:8080/3116580700/0700/350947
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PREMIUM MOVIE",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
