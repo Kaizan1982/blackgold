@@ -61,9 +61,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" ,INDOSIAR HD2
-http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash|license_type=com.widevine.alpha&license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" ,INDOSIAR HD3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/antv.png", ANTV 1
@@ -256,17 +253,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
-https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8/m3u8
-
 #EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 4
 http://108.181.132.217:8070/AmirBilali/76448035/162138
 
-#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" , LIVE 5
-https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash|license_type=com.widevine.alpha&license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm&user-agent=VidioPlayer/4.3.0-WITH_ADS
-
+#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,INDOSIAR HD2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
 
            
               ============DISCOVERY CHANNEL=====
