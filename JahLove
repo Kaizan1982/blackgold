@@ -247,22 +247,23 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
                         ==========BRI LIGA 1=====
 
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 2
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
-
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 4
-http://108.181.132.217:8070/AmirBilali/76448035/162138
-
-#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,INDOSIAR HD2
+#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,LIVE 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
 
-           
-              ============DISCOVERY CHANNEL=====
+#EXTINF:0 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
+https://dusk.biz.id/rplus/index.mpd?id=1002
 
-
+#EXTINF:0 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL" ,LIVE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
+http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+              
+       ============DISCOVERY CHANNEL=====
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
