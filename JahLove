@@ -4526,6 +4526,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EA%B
 
 #EXTINF:-1 tvg-id="KRBB500039Y5" tvg-chno="800" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" group-title="Samsung TV KR" , Bloomberg TV+ UHD
 https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 #EXTINF:-1 tvg-id="KRBB500044GP" tvg-chno="801" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" group-title="Samsung TV KR" , Bloomberg Originals
 https://dq6jn3uge31mm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BloombergQuicktake-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
