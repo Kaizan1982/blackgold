@@ -4396,6 +4396,11 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="BOCAH" , KIDOODLE TV 
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="BOCAH" tvg-logo="https://i.ibb.co/syQhN7B/Ch27.png" tvg-id="26" tvg-name="Dei Kids",Dei Kids
+https://e.siar.us/live/deikidstv.m3u8
+
+
+
 
 ######### SAM TV CH #########
 
