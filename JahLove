@@ -225,6 +225,11 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://dl.dropbox.com/scl/fi/7slpogdnv5te3lotbspfq/Sindonews.png?rlkey=rfmsc69pehmwvp7qfs529ku2o&dl=0" group-title="NASIONAL", SINDO NEWS TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jzE4Vfd.png?v=1.0.0.1" tvg-id="null" tvg-name="null", Vision Prime
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
+
+
+
 
                         ==========BRI LIGA 1=====
 
@@ -816,6 +821,11 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/premierhd1.png" group-title="OLAHRAGA",TRUE PREMIER 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://iptvtree.net:8080/F14995/a84c0963/162591
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
+
+
 
                   ============TSN=========
 
@@ -4376,6 +4386,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/3w5wgv3g/naruto.jpg" group-title="BOCAH",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="BOCAH" tvg-logo="https://i1.wp.com/nerdtec.net/wp-content/uploads/2016/06/anime-2.png" tvg-id="null" tvg-name="null",ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="BOCAH" , Baby Shark TV 
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://i.ibb.co/tJX1NDf/kidoodletv.png" tvg-chno="" group-title="BOCAH" , KIDOODLE TV 
+https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+
 
 ######### SAM TV CH #########
 
