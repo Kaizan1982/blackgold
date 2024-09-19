@@ -1219,7 +1219,7 @@ http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh_ejzibRHwEXFzMMXWbdeGc/ts
 
                   =========SSC=======
 
-#EXTINF:-1 group-title="OLAHRGA" tvg-id="SSC 1" tvg-logo="https://guki.my.id/logo/sports/sc1.jpg", SSC 1 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="SSC 1" tvg-logo="https://guki.my.id/logo/sports/sc1.jpg", SSC 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
