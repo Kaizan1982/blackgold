@@ -3365,3 +3365,91 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" tvg-id="discovery" , Discovery Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+
+          ######### DN MOVIES #########
+
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMORESERIES.png" ,C MORE SERIES 4K
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287656
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMORESERIES.png" ,C MORE SERIES FHD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/121760
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMOREFIRST.png" ,C MORE FIRST 4k
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287654
+#EXTINF:-1 group-title="DNMOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMORESTARS.png" ,C MORE STARS 4K
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/38963
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMORESTARS.png" ,C MORE STARS FHD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287657
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMOREHITS.png" ,C MORE HITS 4K
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/121767
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/CMOREHITS.png" ,C MORE HITS FHD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287655
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMSERIES.png" ,VIASAT SERIES 4k
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/121710
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMSERIES.png" ,VIASAT SERIES FHD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287662
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMPREMIERE.png" ,VIASAT FILM PREMIERE 4k
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/121759
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMPREMIERE.png" ,VIASAT FILM PREMIERA
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287661
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMHITS.png" ,VIASAT FILM HITS 4k
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/121712
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMHITS.png" ,VIASAT FILM HITS FHD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287660
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMACTION.png" ,VIASAT FILM ACTION
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/45076
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMACTION.png" ,VIASAT FILM ACTION
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287658
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMFAMILIY.png" ,VIASAT FILM FAMILY 4K
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/36756
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/SCANDINAVIAN/VIASATFILMFAMILIY.png" ,VIASAT FILM FAMILLY
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/287659
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 1 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53976
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 2 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53977
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 3 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53978
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 4 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53979
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 5 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53980
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 6 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53981
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 7 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53982
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 8 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53983
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 9 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53984
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time 10 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53985
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time MARVEL
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53986
+#EXTINF:-1 group-title="DN MOVIES" tvg-logo="http://go4.pw/CANADA/MTIME.png" ,Movie Time PREMIERA HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/53987
+
+         ######### RMC SPORTS #########
+
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT NEWS HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/335256
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC Sport 1 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408303
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC Sport 2 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408304
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC Sport 3 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408305
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC Sport 4 HD
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408306
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 5
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408307
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 6
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408308
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 7
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408309
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 8
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408310
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 9
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408311
+#EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 10
+http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408312
+
+
