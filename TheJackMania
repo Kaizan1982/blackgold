@@ -722,17 +722,29 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" , SOCCER CH
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA",Astro Supersport 1
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59220
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA",ASTRO ASSP 1
+http://ktpremium.xyz:2095/live/yv2268/22681081/26312.ts
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="OLAHRAGA",Astro Supersport 2
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59219
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP  1FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="OLAHRAGA",ASTRO ASSP 1FHD
+http://ktpremium.xyz:2095/live/yv2268/22681081/694537.ts
 
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="OLAHRAGA",Astro Supersport 3
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59218
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="OLAHRAGA",ASTRO ASSP 2
+http://ktpremium.xyz:2095/live/yv2268/22681081/26313.ts
 
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="OLAHRAGA",Astro Supersport 4
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/59217
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 2FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="OLAHRAGA",ASTRO ASSP 2FHD
+http://ktpremium.xyz:2095/live/yv2268/22681081/694538.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="OLAHRAGA",ASTRO ASSP 3
+http://ktpremium.xyz:2095/live/yv2268/22681081/26314.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 3FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="OLAHRAGA",ASTRO ASSP 3FHD
+http://ktpremium.xyz:2095/live/yv2268/22681081/694540.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="OLAHRAGA",ASTRO ASSP 4
+http://ktpremium.xyz:2095/live/yv2268/22681081/26315.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-name="ASTRO ASSP 4FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="OLAHRAGA",ASTRO ASSP 4FHD
+http://ktpremium.xyz:2095/live/yv2268/22681081/694542.ts
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sukan_rtm.png" group-title="OLAHRAGA",RTM Sukan 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
