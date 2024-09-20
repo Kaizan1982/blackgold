@@ -3600,7 +3600,7 @@ http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408312
 
           ########## CH BACKUP ##########
 
-#EXTINF:-1 group-title="BACKUP"  tvg-logo="" ,SOCCER CH
+#EXTINF:-1 group-title="BACKUP"  tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" ,SOCCER CH
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
 #EXTINF:-1 group-title="BACKUP"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" ,SPORTSTAR 1
@@ -3684,43 +3684,37 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299945
 #EXTINF:-1 group-title="BACKUP" tvg-logo="",DD Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56153
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Sony Sports Ten 1
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports Ten 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16622
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Sony Sports Ten 2
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports Ten 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16621
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Sony Sports Ten 3
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports Ten 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56191
-
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports 1
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3630
-
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports 2
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3631
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/62584
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports Select 1
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",StarSports Select 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports Select 2
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",StarSports Select 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",ASTRO SUPERSPORTS 1 HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 1 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 2 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",ASTRO SUPERSPORTS 3 HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 3 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",ASTRO SUPERSPORTS 4 HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 4 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS LALIGA HD
@@ -3921,13 +3915,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png",RTB ANEKA
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/440px-Realmadrid_Television_Logo.svg.png",REALMADRID TV
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png",REALMADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/400px-MUTV_logo.png",MU TV
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sport_TV_2023.svg/500px-Sport_TV_2023.svg.png",SPORTS TV
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 group-title="BACKUP" ,STRONGMAN C-LEAGUE
@@ -3939,4 +3933,86 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" ,NATURE
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+          ######### BACKUP 2 ##########
+
+
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" tvg-id="starsports1hd.in" ,Star Sports 1 HD (1)
+http://watchindia.net:8880/22453/32498/2232
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" tvg-id="starsports1hd.in" ,Star Sports 1 HD (2)
+http://watchindia.net:8880/22453/32498/2456
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" tvg-id="starsports2hd.in" ,Star Sports 2 HD (1)
+http://watchindia.net:8880/22453/32498/1069
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" tvg-id="starsports2hd.in" ,Star Sports 2 HD (2)
+http://watchindia.net:8880/22453/32498/2163
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-id="starsportsselect1hd.in" ,Star Sports Select 1 HD (1)
+http://watchindia.net:8880/22453/32498/1070
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-id="starsportsselect1hd.in" ,Star Sports Select 1 HD (2)
+http://watchindia.net:8880/22453/32498/2292
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" tvg-id="starsportsselecthd2.in" ,Star Sports Select 2 HD
+http://watchindia.net:8880/22453/32498/1071
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" tvg-id="skysportsmainevent.uk" ,Sky Sports Main Event
+http://watchindia.net:8880/22453/32498/2091
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" tvg-id="skysportspremiereleague.uk" ,Sky Sports Premier League
+http://watchindia.net:8880/22453/32498/2092
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" tvg-id="skysportscricket.uk" ,Sky Sports Cricket
+http://watchindia.net:8880/22453/32498/2090
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" tvg-id="skysportsf1.uk" ,Sky Sports F1
+http://watchindia.net:8880/22453/32498/2094
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png" tvg-id="skysportsarena.uk" ,Sky Sports Arena
+http://watchindia.net:8880/22453/32498/2095
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" tvg-id="skysportsgolf.uk" ,Sky Sports Golf
+http://watchindia.net:8880/22453/32498/2096
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" tvg-id="sonyten1hd.in" ,Sony Ten 1 HD (1)
+http://watchindia.net:8880/22453/32498/1756
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" tvg-id="sonyten1hd.in" ,Sony Ten 1 HD (2)
+http://watchindia.net:8880/22453/32498/2215
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" tvg-id="sonyten2hd.in" ,Sony Ten 2 HD (1)
+http://watchindia.net:8880/22453/32498/1757
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" tvg-id="sonyten2hd.in" ,Sony Ten 2 HD (2)
+http://watchindia.net:8880/22453/32498/2608
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" tvg-id="sonyten3hd.in" ,Sony Ten 3 HD (1)
+http://watchindia.net:8880/22453/32498/1758
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" tvg-id="sonyten3hd.in" ,Sony Ten 3 HD (2)
+http://watchindia.net:8880/22453/32498/2656
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" tvg-id="sports18.in" ,Sports 18 1 HD
+http://watchindia.net:8880/22453/32498/2423
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/TNT_Sports_1.png" tvg-id="tntsports1.uk" ,TNT Sports 1
+http://watchindia.net:8880/22453/32498/2657
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" tvg-id="foxsports1.us" ,Fox Sports 1
+http://watchindia.net:8880/22453/32498/2421
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" tvg-id="ddsports.in" ,DD Sports
+http://watchindia.net:8880/22453/32498/2380
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" tvg-id="willowcricket.us" ,Willow HD (1)
+http://watchindia.net:8880/22453/32498/1067
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" tvg-id="willowcricket.us" ,Willow HD (2)
+http://watchindia.net:8880/22453/32498/2145
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" ,Astro Cricket
+http://watchindia.net:8880/22453/32498/2174
 
