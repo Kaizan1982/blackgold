@@ -3598,4 +3598,354 @@ http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408311
 #EXTINF:-1 group-title="RMC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1600px-Logo_RMC_Sport_2018.svg.png" ,RMC SPORT LIVE 10
 http://bluedk.xyz:8880/191101535178/WENv6Uf6Gq/408312
 
+          ########## CH BACKUP ##########
+
+#EXTINF:-1 group-title="BACKUP"  tvg-logo="" ,SOCCER CH
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+
+#EXTINF:-1 group-title="BACKUP"  tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportstars-id.png" ,SPORTSTAR 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
+#EXTINF:-1 group-title="BACKUP"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" ,SPORTSTAR 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" , INDOSIAR_mpd
+https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|license_type=com.clearkey.alpha&license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" ,INDOSIAR__x
+http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.visionplus.id/images/repository/572/174572-SNAPSHOT-m.png" ,RCTI_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157591
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" ,SCTV_Gen
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",INews
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157579
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.visionplus.id/images/repository/574/174574-SNAPSHOT-m.png" ,MNC TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/165054
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" ,Moji
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" ,TVRI Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
+
+#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
+
+#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
+
+#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
+
+#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
+
+#EXTINF:-1 group-title="BACKUP" ,Astro Cricket
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157565
+
+#EXTINF:-1 group-title="BACKUP" ,Astro Arena
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157485
+
+#EXTINF:-1 group-title="BACKUP" ,Astro Arena 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287793
+
+#EXTINF:-1 group-title="BACKUP" ,Eurosport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/158353
+
+#EXTINF:-1 group-title="BACKUP" ,beINSports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157561
+
+#EXTINF:-1 group-title="BACKUP" ,One Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299947
+
+#EXTINF:-1 group-title="BACKUP" ,One Sports +
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290365
+
+#EXTINF:-1 group-title="BACKUP" ,PBA Rush
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299950
+
+#EXTINF:-1 group-title="BACKUP" ,Premier Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299965
+
+#EXTINF:-1 group-title="BACKUP" ,Premier Tennis
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276599
+
+#EXTINF:-1 group-title="BACKUP" ,TAP Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299945
+
+#EXTINF:-1 group-title="BACKUP" ,DD Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56153
+
+#EXTINF:-1 group-title="BACKUP" ,Sony Sports Ten 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16622
+
+#EXTINF:-1 group-title="BACKUP" ,Sony Sports Ten 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16621
+
+#EXTINF:-1 group-title="BACKUP" ,Sony Sports Ten 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56191
+
+#EXTINF:-1 group-title="BACKUP" ,StarSports 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3630
+
+#EXTINF:-1 group-title="BACKUP" ,StarSports 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3631
+
+#EXTINF:-1 group-title="BACKUP" ,StarSports 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/62584
+
+#EXTINF:-1 group-title="BACKUP" ,StarSports Select 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
+
+#EXTINF:-1 group-title="BACKUP" ,StarSports Select 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
+
+#EXTINF:-1 group-title="BACKUP" ,BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,ASTRO SUPERSPORTS 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5480.ts
+
+#EXTINF:-1 group-title="BACKUP" ,ASTRO SUPERSPORTS 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5481.ts
+
+#EXTINF:-1 group-title="BACKUP" ,ASTRO SUPERSPORTS 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
+
+#EXTINF:-1 group-title="BACKUP" ,ASTRO SUPERSPORTS 4 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SUPERSPORTS LALIGA HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SUPERSPORTS PSL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SUPERSPORTS PREMIERLEAGUE HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SUPERSPORTS FOOTBALL HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
+
+#EXTINF:-1 group-title="BACKUP" ,PremierSports 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
+
+#EXTINF:-1 group-title="BACKUP" ,PremierSports 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5030.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SkySports PremierLeague HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SKYSPORTS FOOTBALL
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/19.ts
+
+#EXTINF:-1 group-title="BACKUP" ,LIVERPOOL FC HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/30.ts
+
+#EXTINF:-1 group-title="BACKUP" ,TNT SPORTS 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/286.ts
+
+#EXTINF:-1 group-title="BACKUP" ,TNT SPORTS 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/285.ts
+
+#EXTINF:-1 group-title="BACKUP" ,TNT SPORTS 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/283.ts
+
+#EXTINF:-1 group-title="BACKUP" ,TNT SPORTS 4 FHD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/255259.ts
+
+#EXTINF:-1 group-title="BACKUP" ,SPORTS 18HD1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269596.ts
+
+#EXTINF:-1 group-title="BACKUP" ,IPL: STARSPORTS 1 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/303586.ts
+
+#EXTINF:-1 group-title="BACKUP" ,IPL: STARSPORTS 2 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/303592.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: STARSPORTS 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1080.ts
+
+#EXTINF:-1 group-title="BACKUP" ,EUROSPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/216.ts
+
+#EXTINF:-1 group-title="BACKUP" ,EUROSPORTS 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1920.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SPORTS 18 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: FAST SPORTS HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/87460.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: FLOW SPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/34489.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: T SPORTS.
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: RTA SPORTS
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/1039.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY TEN 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY Ten 2 HD.
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY TEN 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY TEN 4 (FHD)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY 5 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 group-title="BACKUP" ,CRICKET: SONY ESPN HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/155.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-id="1000009276" ,SONY TEN 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-id="1000009277" ,SONY TEN 2 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" tvg-id="1000009278" ,SONY TEN 3 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" tvg-id="1000119186" ,SONY TEN 4 HD
+http://xtv.ooo:8080/MansoorWapda/258741/351034
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-id="1000009275" ,SONY TEN 5 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 group-title="BACKUP" ,JA GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BACKUP" ,JA Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BACKUP" ,JA Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BACKUP" ,JA Sport 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BACKUP" ,JA Sport 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BACKUP" ,OPTUS
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576_&extension=m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,HUB SPORTS 1 SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554968_&extension=m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,HUB SPORTS 2 SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554967_&extension=m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,HUB SPORTS 3 SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554966_&extension=m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,HUB SPORTS 4 SG
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554965_&extension=m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,RCTI+
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
+
+#EXTINF:-1 group-title="BACKUP" ,INEWS+
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar" ,INDOSIAR EX
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar" ,INDOSIAR XTV
+http://xtv.ooo:8080/359052742/470428329/350972
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar" ,INDOSIAR ALFAX
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar" ,INDOSIAR VD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" tvg-name="ID: Indosiar" ,INDOSIAR INDI
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="BACKUP" ,SCTV INDI
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="BACKUP" ,TVONE INDI
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 group-title="BACKUP" ,TRANSTV INDI
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 group-title="BACKUP" ,TRANS7 INDI
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="BACKUP" ,JP SPORTS 1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,JP SPORTS 2
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,JP SPORTS 3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,JP SPORTS 4
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,GOLF NETWORK
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,GAORA SPORTS
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="BACKUP" ,TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",0KEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.rtbgo.bn/img/logo-rbh-go.8b8543d3.png",RTBGO
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b608000_sleng.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/RTB_Aneka.png",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b608000_sleng.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vietnam_Television_logo_from_2013.svg/260px-Vietnam_Television_logo_from_2013.svg.png",VTV
+http://171.238.181.52:18080/156.m3u8?Shareext/ts
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1344px-VTV5_logo_2013_final.svg.png",VTV5
+http://171.238.181.52:18080/194.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/440px-Realmadrid_Television_Logo.svg.png",REALMADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/400px-MUTV_logo.png",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sport_TV_2023.svg/500px-Sport_TV_2023.svg.png",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="BACKUP" ,STRONGMAN C-LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/440px-WWE_Network_logo.svg.png" ,WWE
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" ,NATURE
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
 
