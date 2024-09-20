@@ -3735,16 +3735,16 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 #EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS FOOTBALL HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",PremierSports 1
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/826px-Premier_sports_logo_2018.svg.png",PremierSports 1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",PremierSports 2
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/826px-Premier_sports_logo_2018.svg.png",PremierSports 2
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5030.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SkySports PremierLeague HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://media.info/l/o/1/1554.1507600205.png",SkySports PremierLeague HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SKYSPORTS FOOTBALL
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png",SKYSPORTS FOOTBALL
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/19.ts
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/400px-TNT_Sports_Logo.svg.png",TNT SPORTS 1
