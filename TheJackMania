@@ -2038,7 +2038,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901844ae4bddf4c90/5d0429a630ed4bf6853f17c4e278f5a4.jpg" group-title="TRANS VISION",Historical Sports
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68578b331d80178b98f30f521de/a183b673e94841bd8aba200be9599aac.png" group-title="TRANS VISION",Historical Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2056,7 +2056,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68572841ba301729d4562343c23/65e1930745784e8997b897dab82bf932.png" group-title="TRANS VISION",Horizon Sports
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/horizon_sports.png" group-title="TRANS VISION",Horizon Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3636,52 +3636,52 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" ,TVRI Sport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/166686
 
-#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" ,Astro SuperSport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/146068
 
-#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 2
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_2.png" ,Astro SuperSport 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
 
-#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 3
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_3.png" ,Astro SuperSport 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
 
-#EXTINF:-1 group-title="BACKUP" ,Astro SuperSport 4
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my_4.png" ,Astro SuperSport 4
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
 
-#EXTINF:-1 group-title="BACKUP" ,Astro Cricket
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" ,Astro Cricket
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157565
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Astro Arena
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png ",Astro Arena
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157485
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Astro Arena 2
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",Astro Arena 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287793
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Eurosport
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.seekpng.com/png/full/471-4717071_eurosport-hd-logo-euro-sport-hd.png",Eurosport
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/158353
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",beINSports
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_my.png",beINSports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157561
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",One Sports
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.onesports.ph/Images/OneSports.png",One Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299947
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",One Sports +
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/400px-OneSportsPlus_logo.svg.png",One Sports +
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290365
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",PBA Rush
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png",PBA Rush
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299950
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Premier Sports
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.premiersports.com/img/logo.svg.png",Premier Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299965
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",Premier Tennis
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/International_Premier_Tennis_League_2014_logo.jpg",Premier Tennis
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/276599
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",TAP Sports
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",TAP Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299945
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",DD Sports
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DD_Sports.png",DD Sports
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56153
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports Ten 1
@@ -3693,7 +3693,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16621
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Sports Ten 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/56191
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",StarSports 3
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg",StarSports 3
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/62584
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",StarSports Select 1
@@ -3702,7 +3702,7 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82628
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",StarSports Select 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16619
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",BILLIARD TV
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://streamstak.com/wp-content/uploads/billiardtv-jpg-1.webp",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 1 HD
@@ -3717,16 +3717,16 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5482.ts
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",ASTRO SUPERSPORTS 4 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5483.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS LALIGA HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://ktv.im:8080/images/748cdcde07d72a357535cd908fd5f1e3.png",SUPERSPORTS LALIGA HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS PSL HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://ktv.im:8080/images/27fdcae88e74cbf9bfac0962d526af70.png",SUPERSPORTS PSL HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/517.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS PREMIERLEAGUE HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://ktv.im:8080/images/caafa0c6ebe85f6984aa567650d06aef.png",SUPERSPORTS PREMIERLEAGUE HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="",SUPERSPORTS FOOTBALL HD
+#EXTINF:-1 group-title="BACKUP" tvg-logo="http://ktv.im:8080/images/c476d22ccfc8987f00750de3d334c748.png",SUPERSPORTS FOOTBALL HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/523.ts
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/826px-Premier_sports_logo_2018.svg.png",PremierSports 1
@@ -3894,7 +3894,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png",JP SPORTS 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec40cec31736f/7dafd20da33b44bb81f94118e64c8ecd.png",GOLF NETWORK
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://i.ibb.co/7Xrtdz4/Nbc-golf-hometv.jpg",GOLF NETWORK
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://www.espritjapon.com/wp-content/uploads/2023/07/gaora-1024x538.jpg",GAORA SPORTS
@@ -3927,7 +3927,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="BACKUP" ,STRONGMAN C-LEAGUE
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
-#EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/440px-WWE_Network_logo.svg.png" ,WWE
+#EXTINF:-1 group-title="BACKUP" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" ,WWE
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="BACKUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png" ,NATURE
