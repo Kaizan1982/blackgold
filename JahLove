@@ -4666,7 +4666,7 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/1707
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Warna-640x358.png" ,WARNA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1706
 
-#EXTINF:-1 group-title="JIRAN.CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Ria-TV-640x358.png" ,RIA
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Ria-TV-640x358.png" ,RIA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1705
 
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Awani-640x358.png" ,AWANI
@@ -4910,6 +4910,213 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/71147
 http://vo01.mohdtv.com:8880/voby5324/62119828/71148
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Awesome_TV_MY_logo.svg.png" ,Awesome TV
 http://vo01.mohdtv.com:8880/voby5324/62119828/71149
+
+########## EUROFA SPORT ##########
+
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SPORT1PLUS.png" tvg-id="sport1plus.de" ,SPORT 1+
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/423583
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTNEWS.png" tvg-id="skysportnews.de" ,SKY SPORT NEWS HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/585
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTF1.png" tvg-id="skysportf1.de" ,SKY SPORT F1
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/158115
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT1.png" tvg-id="skysport1.de" ,SKY SPORT 1 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/583
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT2.png" tvg-id="skysport2.de" ,SKY SPORT 2 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/581
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT3.png" tvg-id="skysport3.de" ,SKY SPORT 3 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127473
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT4.png" tvg-id="skysport4.de" ,SKY SPORT 4 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127472
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT5.png" tvg-id="skysport5.de" ,SKY SPORT 5 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127471
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT6.png" tvg-id="skysport6.de" ,SKY SPORT 6 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127470
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT7.png" tvg-id="skysport7.de" ,SKY SPORT 7 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127469
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT8.png" tvg-id="skysport8.de" ,SKY SPORT 8 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127468
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT9.png" tvg-id="skysport9.de" ,SKY SPORT 9 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127467
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT10.png" tvg-id="skysport10.de" ,SKY SPORT 10 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127466
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORT11.png" ,SKY SPORT 11 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/127465
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 1 BAR HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/580
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 2 BAR HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/579
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN NBA HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/307905
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN MBL HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/307904
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN LFC TV HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/307903
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SPORTDIGITALFUSSBALL.png" tvg-id="sportdigital.de" ,SPORT DIGITAL FUSSBALL HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/303541
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA1.png" ,SKY BUNDESLIGA 1 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/578
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA2.png" tvg-id="skybundesliga2.de" ,SKY BUNDESLIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/577
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA3.png" tvg-id="skybundesliga3.de" ,SKY BUNDESLIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/576
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA4.png" tvg-id="skybundesliga4.de" ,SKY BUNDESLIGA 4 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/575
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA5.png" tvg-id="skybundesliga5.de" ,SKY BUNDESLIGA 5 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/574
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA6.png" tvg-id="skybundesliga6.de" ,SKY BUNDESLIGA 6 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/573
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA7.png" tvg-id="skybundesliga7.de" ,SKY BUNDESLIGA 7 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/572
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA8.png" tvg-id="skybundesliga8.de" ,SKY BUNDESLIGA 8 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/571
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA9.png" tvg-id="skybundesliga9.de" ,SKY BUNDESLIGA 9 HD |ONLY DURING LIVE MATCHES
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/570
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTBUNDESLIGA10.png" tvg-id="skybundesliga10.de" ,SKY BUNDESLIGA 10 HD |ONLY DURING LIVE MATCHES|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/569
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/EUROSPORT1.png" tvg-id="eurosport1.de" ,EUROSPORT 1 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/568
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/EUROSPORT2.png" tvg-id="eurosport2.de" ,EUROSPORT 2 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/567
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MOTORVISION.png" tvg-id="motorvision.de" ,MOTORVISION TV
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/565
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SPORT1.png" tvg-id="sport1.de" ,SPORT1 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/564
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTSPREMIERLEAGUE.png" tvg-id="skysportpremierleague.de" ,SKY SPORT PREMIER LEAGUE HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/418354
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTTOPEVENT.png" tvg-id="skysporttopevent.de" ,SKY SPORT TOP EVENT
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/418358
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTSGOLF.png" tvg-id="skysportgolf.de" ,SKY SPORT GOLF HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/418357
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTTENNIS.png" tvg-id="skysporttennis.de" ,SKY SPORT TENNIS HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/418356
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/SKYSPORTSMIX.png" tvg-id="skysportmix.de" ,SKY SPORT MIX HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/418355
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/ESPORTS1.png" tvg-id="esports1.de" ,ESPORTS 1 HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440983
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 1 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283756
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 2 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283754
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 3 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283752
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 4 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283750
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 5 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283748
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 6 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283746
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 7 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283744
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,PRIME 8 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283742
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 1 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283787
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 1 HD [LIVE-EVENT] backup
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283758
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 2 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283786
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 3 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283785
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 4 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283784
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 5 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283783
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 6 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283782
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 7 HD |LIVE-EVENT|
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283781
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 8 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283780
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 9 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283779
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 10 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283778
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 11 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283777
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 12 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283776
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 13 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283775
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 14 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283774
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 15 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283773
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 16 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283772
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 17 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283771
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 18 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283770
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 19 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283769
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 20 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283768
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 21 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283767
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 22 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283766
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 23 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283765
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 24 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283764
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 25 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283763
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 26 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283762
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 27 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283761
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 28 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283760
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/DAZN.png" ,DAZN 29 HD [LIVE-EVENT]
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/283759
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/FCBAYERNTV.png" tvg-id="fcbayern.de" ,FC BAYERN TV HD
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/437144
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 1 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445694
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 2 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445693
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 3 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445692
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 4 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445691
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 5 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445690
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/RTLPLUSSHD.png" ,RTL+ SPORT 6 (Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/445689
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 1(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440395
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 2(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440394
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 3(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440393
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 4(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440392
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 5(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440391
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 6(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440390
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 7(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440389
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 8(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440388
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 9(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440387
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 10(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440386
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 11(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440385
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 12(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440384
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 13(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440383
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 14(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440382
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 15(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440381
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 16(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440380
+#EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 17(Event Only)
+http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440379
 
 
 
