@@ -4462,6 +4462,88 @@ http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440380
 #EXTINF:-1 group-title="EUROFA SPORT" tvg-logo="http://logo.ottcst.info/MAGENTASPORT.png" ,Magenta Sport 17(Event Only)
 http://line.pakufitv.com:80/pK7ZYZGJJkkTquv/GYOKQY6TJV&output=ts/440379
 
+########## FR SPORTS ##########
+
+#EXTINF:-1 group-title="FR Sports" tvg-id="bfm.fr"  tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,AMAZON PRIME 1 
+http://vo01.mohdtv.com:8880/voby5324/62119828/2847
+#EXTINF:-1 group-title="FR Sports" tvg-id="boing.fr"  tvg-logo="http://logo.ottcst.info/PrimeVideo.png" ,AMAZON PRIME 2 
+http://vo01.mohdtv.com:8880/voby5324/62119828/2846
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.1.fr"  tvg-logo="http://logo.ottcst.info/BEINSPORT1HD.png" ,BEIN SPORTS 1 FHD
+http://vo01.mohdtv.com:8880/voby5324/62119828/2830
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.2.fr" tvg-logo="http://logo.ottcst.info/BEINSPORT2HD.png" ,BEIN SPORTS 2 FHD
+http://vo01.mohdtv.com:8880/voby5324/62119828/2829
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.3.fr" tvg-logo="http://logo.ottcst.info/BEINSPORT3HD.png" ,BEIN SPORTS 3 FHD
+http://vo01.mohdtv.com:8880/voby5324/62119828/2828
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.10.fr" tvg-logo="http://logo.ottcst.info/BEINMAX.png" ,BEIN SPORTS MAX 10 FHD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2827
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.4.fr"  tvg-logo="http://logo.ottcst.info/BEINMAX.png" ,BEIN SPORTS MAX 4 FHD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2826
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.5.fr" tvg-logo="http://logo.ottcst.info/BEINMAX.png" ,BEIN SPORTS MAX 5 HD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2825
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.6.fr"  tvg-logo="http://logo.ottcst.info/BEINSPORTMAX6.png" ,BEIN SPORTS MAX 6 HD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2824
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.7.fr"  tvg-logo="http://logo.ottcst.info/BEINSPORTMAX7.png" ,BEIN SPORTS MAX 7 HD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2823
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.8.fr"  tvg-logo="http://logo.ottcst.info/BEINSPORTMAX8.png" ,BEIN SPORTS MAX 8 HD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2822
+#EXTINF:-1 group-title="FR Sports" tvg-id="bein.sports.max.9.fr"  tvg-logo="http://logo.ottcst.info/BEINSPORTMAX9.png" ,BEIN SPORTS MAX 9 HD (EVENT ONLY)
+http://vo01.mohdtv.com:8880/voby5324/62119828/2821
+#EXTINF:-1 group-title="FR Sports" tvg-id="canal.plus.motogp.fr"  tvg-logo="" ,CANAL+ MOTOGP
+http://vo01.mohdtv.com:8880/voby5324/62119828/2793
+#EXTINF:-1 group-title="FR Sports" tvg-id="canal.plus.sport.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT FHD
+http://vo01.mohdtv.com:8880/voby5324/62119828/2790
+#EXTINF:-1 group-title="FR Sports" tvg-id="canal.plus.sport360.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUS360.png" ,CANAL+ SPORT 360
+http://vo01.mohdtv.com:8880/voby5324/62119828/2789
+#EXTINF:-1 group-title="FR Sports" tvg-id="eurosport.1.fr"  tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" ,EUROSPORT 1
+http://vo01.mohdtv.com:8880/voby5324/62119828/28192
+#EXTINF:-1 group-title="FR Sports" tvg-id="eurosport.2.fr"  tvg-logo="http://logo.ottcst.info/EUROSPORT1HD.png" ,EUROSPORT 2
+http://vo01.mohdtv.com:8880/voby5324/62119828/28191
+#EXTINF:-1 group-title="FR Sports" tvg-id="eurosport.360.2.fr"  tvg-logo="http://logo.ottcst.info/EUROSPORT3602HD.png" ,EUROSPORT 360 2
+http://vo01.mohdtv.com:8880/voby5324/62119828/28190
+#EXTINF:-1 group-title="FR Sports" tvg-id="extreme.sports.fr"  tvg-logo="" ,EXTREME SPORTS
+http://vo01.mohdtv.com:8880/voby5324/62119828/28189
+#EXTINF:-1 group-title="FR Sports" tvg-id="golf.plus.fr"  tvg-logo="http://logo.ottcst.info/GOLFHD.png" ,GOLF+ CHANNEL
+http://vo01.mohdtv.com:8880/voby5324/62119828/28179
+#EXTINF:-1 group-title="FR Sports" tvg-id="golf.fr"  tvg-logo="http://logo.ottcst.info/GOLFHD.png" ,GOLF CHANNEL
+http://vo01.mohdtv.com:8880/voby5324/62119828/28178
+#EXTINF:-1 group-title="FR Sports" tvg-id="infosport.plus.fr"  tvg-logo="http://logo.ottcst.info/INFOSPORTHD.png" ,INFOSPORT+
+http://vo01.mohdtv.com:8880/voby5324/62119828/28172
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.1.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORT1.png" ,RMC SPORT 1
+http://vo01.mohdtv.com:8880/voby5324/62119828/28134
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.2.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORT2HD.png" ,RMC SPORT 2
+http://vo01.mohdtv.com:8880/voby5324/62119828/28133
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.3.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE3HD.png" ,RMC SPORT 3
+http://vo01.mohdtv.com:8880/voby5324/62119828/28132
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.4.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE4HD.png" ,RMC SPORT 4
+http://vo01.mohdtv.com:8880/voby5324/62119828/28131
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.5.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE5HD.png" ,RMC SPORT 5
+http://vo01.mohdtv.com:8880/voby5324/62119828/28130
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.6.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE6HD.png" ,RMC SPORT 6
+http://vo01.mohdtv.com:8880/voby5324/62119828/28129
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.7.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE7HD.png" ,RMC SPORT 7
+http://vo01.mohdtv.com:8880/voby5324/62119828/28128
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.8.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE8HD.png" ,RMC SPORT 8
+http://vo01.mohdtv.com:8880/voby5324/62119828/28127
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.9.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE9HD.png" ,RMC SPORT 9
+http://vo01.mohdtv.com:8880/voby5324/62119828/28126
+#EXTINF:-1 group-title="FR Sports" tvg-id="rmc.sport.live.10.fr"  tvg-logo="http://logo.ottcst.info/RMCSPORTLIVE10HD.png" ,RMC SPORT 10
+http://vo01.mohdtv.com:8880/voby5324/62119828/28125
+#EXTINF:-1 group-title="FR Sports" tvg-id="sundance.fr"  tvg-logo="" ,CANAL+ F1
+http://vo01.mohdtv.com:8880/voby5324/62119828/28111
+#EXTINF:-1 group-title="FR Sports" tvg-id="foot.plus.24.24.fr"  tvg-logo="" ,FOOT+ 24/24 HD
+http://vo01.mohdtv.com:8880/voby5324/62119828/28084
+#EXTINF:-1 group-title="FR Sports"  tvg-logo="http://logo.ottcst.info/DAZN1.png" ,DAZN
+http://vo01.mohdtv.com:8880/voby5324/62119828/28078
+#EXTINF:-1 group-title="FR Sports" tvg-id="canal.plus.sport.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 1
+http://vo01.mohdtv.com:8880/voby5324/62119828/2775
+#EXTINF:-1 group-title="FR Sports" tvg-id="cnews.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 2
+http://vo01.mohdtv.com:8880/voby5324/62119828/28146
+#EXTINF:-1 group-title="FR Sports" tvg-id="tvm.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 3
+http://vo01.mohdtv.com:8880/voby5324/62119828/28090
+#EXTINF:-1 group-title="FR Sports" tvg-id="cine.plus.classic.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 4
+http://vo01.mohdtv.com:8880/voby5324/62119828/28076
+#EXTINF:-1 group-title="FR Sports" tvg-id="cine+.classic.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 5
+http://vo01.mohdtv.com:8880/voby5324/62119828/28075
 
 
 
