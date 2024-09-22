@@ -4022,128 +4022,90 @@ http://watchindia.net:8880/22453/32498/2174
 
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" ,TV 1
 http://vo01.mohdtv.com:8880/voby5324/62119828/1734
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" ,TV 2
 http://vo01.mohdtv.com:8880/voby5324/62119828/1733
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png" ,TV 3
 http://vo01.mohdtv.com:8880/voby5324/62119828/1732
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-logo="https://didik.tv/images/logotv2.png" ,Didik
 http://vo01.mohdtv.com:8880/voby5324/62119828/1731
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" ,TV 8
 http://vo01.mohdtv.com:8880/voby5324/62119828/1730
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" ,TV 9
 http://vo01.mohdtv.com:8880/voby5324/62119828/1729
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Astro_QJ_3D_Logo.png" ,QUAN JIA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1728
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png" ,SHUANG XING
 http://vo01.mohdtv.com:8880/voby5324/62119828/1727
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Astro_Wah_Lai_Toi_Romanised_2D.png" ,Wah Lai Toi
 http://vo01.mohdtv.com:8880/voby5324/62119828/1726
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Huaheedaihd_eng.jpg" ,HUA HEE DAI
 http://vo01.mohdtv.com:8880/voby5324/62119828/1725
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_AOD_%28s17%29.png" ,AOD
 http://vo01.mohdtv.com:8880/voby5324/62119828/1724
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Astro_AEC_%282D%29.png" ,AEC
 http://vo01.mohdtv.com:8880/voby5324/62119828/1723
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png" ,Super Sport 1
 http://vo01.mohdtv.com:8880/voby5324/62119828/1722
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-id="AstroSuperSport2.my"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Astro_Supersport_2.png" ,Super Sport 2
 http://vo01.mohdtv.com:8880/voby5324/62119828/1721
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-id="AstroSuperSport3.my"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png" ,Super Sport 3
 http://vo01.mohdtv.com:8880/voby5324/62119828/1720
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-id="AstroSuperSport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png" ,Super Sport 4
 http://vo01.mohdtv.com:8880/voby5324/62119828/1719
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg" ,CELESTIAL
 http://vo01.mohdtv.com:8880/voby5324/62119828/1718
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Bernama-TV-640x358.png" ,BERNAMA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1717
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png" ,Kix HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/1716
-
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Star Chinese Channel
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Star_Chinese_Channel.png/revision/latest?cb=20110930093125" ,Star Chinese Channel
 http://vo01.mohdtv.com:8880/voby5324/62119828/1715
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Astro-xiao-tai-yang-2.png" ,XIAO TAI YANG
 http://vo01.mohdtv.com:8880/voby5324/62119828/1714
-
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Super Sport 5
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/astro-supersport-5.png" ,Super Sport 5
 http://vo01.mohdtv.com:8880/voby5324/62119828/1713
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVB CLASSIC
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/1280px-Tvb_logo.svg.png" ,TVB CLASSIC
 http://vo01.mohdtv.com:8880/voby5324/62119828/1712
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,HBO
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" ,HBO
 http://vo01.mohdtv.com:8880/voby5324/62119828/1711
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,CGTN
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/460px-CGTN.svg.png" ,CGTN
 http://vo01.mohdtv.com:8880/voby5324/62119828/1708
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,HBO Family
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1280px-HBO_Family_Asia_logo.svg.png" ,HBO Family
 http://vo01.mohdtv.com:8880/voby5324/62119828/1707
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Warna-640x358.png" ,WARNA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1706
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Ria-TV-640x358.png" ,RIA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1705
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Awani-640x358.png" ,AWANI
 http://vo01.mohdtv.com:8880/voby5324/62119828/1704
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Arena-640x358.png" ,ARENA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1703
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png" ,PRIMA
 http://vo01.mohdtv.com:8880/voby5324/62119828/1702
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Oasis_%282D%29.png" ,OASIS
 http://vo01.mohdtv.com:8880/voby5324/62119828/1701
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Suria_logo.svg.jpg" ,Singapore Suria
 http://vo01.mohdtv.com:8880/voby5324/62119828/1700
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/440px-Mediacorp_Vasantham_2023.svg.png" ,Singapore Vasantham
 http://vo01.mohdtv.com:8880/voby5324/62119828/1699
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.wwe.com/f/styles/talent_champion_full/public/wysiwyg/image/2015/07/wwe-network/20140123_Article_Network_NETWORK.jpg" ,WWE
 http://vo01.mohdtv.com:8880/voby5324/62119828/1698
-
 #EXTINF:-1 group-title="JIRAN CH" tvg-id="MY38WSBK.us"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/Astro-Boo-640x358.png" ,BOO
 http://vo01.mohdtv.com:8880/voby5324/62119828/1697
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ,Arena2
 http://vo01.mohdtv.com:8880/voby5324/62119828/1696
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" ,ASTRO ASSP HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/59220
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" ,ASTRO ASSP2 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/59219
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" ,ASTRO ASSP3 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/59218
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png" ,Ria
 http://vo01.mohdtv.com:8880/voby5324/62119828/71020
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" ,ASTRO ASSP4 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/59217
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/300px-Awesome_TV_Malaysia.png" ,Awesome TV
 http://vo01.mohdtv.com:8880/voby5324/62119828/71021
-
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png" ,Rania
 http://vo01.mohdtv.com:8880/voby5324/62119828/71022
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Alhijrah-640x358.png" ,TV ALHIJRAH
@@ -4152,67 +4114,65 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/71024
 http://vo01.mohdtv.com:8880/voby5324/62119828/71025
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Astro_Premier_2024_flat.png" ,Astro Premier 1
 http://vo01.mohdtv.com:8880/voby5324/62119828/71026
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,KBSW
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" ,KBSW
 http://vo01.mohdtv.com:8880/voby5324/62119828/71027
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Sun Music
-http://vo01.mohdtv.com:8880/voby5324/62119828/71029.ts
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TUTOR TV SK
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20240314122158" ,Sun Music
+http://vo01.mohdtv.com:8880/voby5324/62119828/71029
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TTV_SMK.png/revision/latest?cb=20220415132511" ,TUTOR TV SK
 http://vo01.mohdtv.com:8880/voby5324/62119828/71030
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,ASTRO Adithya
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,ASTRO Adithya
 http://vo01.mohdtv.com:8880/voby5324/62119828/71031
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,ASTRO Zee Tamil
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,ASTRO Zee Tamil
 http://vo01.mohdtv.com:8880/voby5324/62119828/71032
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Star Vijay Super
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,Star Vijay Super
 http://vo01.mohdtv.com:8880/voby5324/62119828/71033
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,ASTRO Star Vijay
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,ASTRO Star Vijay
 http://vo01.mohdtv.com:8880/voby5324/62119828/71034
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,ASTRO Colors Tamil
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,ASTRO Colors Tamil
 http://vo01.mohdtv.com:8880/voby5324/62119828/71035
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,SUN TV HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Astro_TV_logo.svg/440px-Astro_TV_logo.svg.png" ,SUN TV HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71036
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,HBO Hits
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO Hits
 http://vo01.mohdtv.com:8880/voby5324/62119828/71037
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,iQIYI HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IQIYI_%282022%2C_short%29.svg/revision/latest?cb=20220607180821" ,iQIYI HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71038
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,GO SHOP 2
-http://vo01.mohdtv.com:8880/voby5324/62119828/71039
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVB JADE
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1280px-TVB_Jade_logo.svg.png" ,TVB JADE
 http://vo01.mohdtv.com:8880/voby5324/62119828/71040
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,AOD 351 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" ,AOD 351 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71041
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,CTI Asia
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cti_tv_asia.png" ,CTI Asia
 http://vo01.mohdtv.com:8880/voby5324/62119828/71042
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVB E-NEWS
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/TVB_News_Logo.png" ,TVB E-NEWS
 http://vo01.mohdtv.com:8880/voby5324/62119828/71043
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVB XING HE HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-xinhe.jpg" ,TVB XING HE HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71044
-#EXTINF:-1 group-title="JIRAN CH" tvg-logo="" ,TVBS ASIA HD
+#EXTINF:-1 group-title="JIRAN CH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" ,TVBS ASIA HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71045
-#EXTINF:-1 group-title="JIRAN CH" tvg-logo="" ,CCM
+#EXTINF:-1 group-title="JIRAN CH" tvg-logo="https://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" ,CCM
 http://vo01.mohdtv.com:8880/voby5324/62119828/71046
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="",CCTV4 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/CCTV-4_Europe.png/revision/latest?cb=20220120184441",CCTV4 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71047
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,AOD 352 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" ,AOD 352 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71048
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,AOD 353 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" ,AOD 353 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71049
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,AOD 354 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" ,AOD 354 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71050
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,AOD 355 HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" ,AOD 355 HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71051
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,KBS World HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/520px-KBS_World_%282009%29.svg.png" ,KBS World HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71052
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,ONE HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" ,ONE HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71053
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Singapore Channel 8
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/440px-Mediacorp_Channel_8_2023.svg.png" ,Singapore Channel 8
 http://vo01.mohdtv.com:8880/voby5324/62119828/71054
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVN HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" ,TVN HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71055
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Hits Movies HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.hitstv.com/assets/hits.png" ,Hits Movies HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71056
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,Cinemax HD
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1280px-Cinemax_2016.svg.png" ,Cinemax HD
 http://vo01.mohdtv.com:8880/voby5324/62119828/71058
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,TVN Movies
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" ,TVN Movies
 http://vo01.mohdtv.com:8880/voby5324/62119828/71059
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/TV-Okey-640x358.png" ,OKEY TV
 http://vo01.mohdtv.com:8880/voby5324/62119828/71060
@@ -4322,7 +4282,7 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/71134
 http://vo01.mohdtv.com:8880/voby5324/62119828/71135
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png" ,Global Trekker
 http://vo01.mohdtv.com:8880/voby5324/62119828/71137
-#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="" ,SETi Chinese
+#EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US_Navy_110518-F-NJ219-100_Lt._Cmdr._Jeanne_Jimenez%2C_from_Los_Angeles%2C_inpatient_ward_department_head_aboard_the_Military_Sealift_Command_hospital.jpg/1280px-US_Navy_110518-F-NJ219-100_Lt._Cmdr._Jeanne_Jimenez%2C_from_Los_Angeles%2C_inpatient_ward_department_head_aboard_the_Military_Sealift_Command_hospital.jpg" ,SETi Chinese
 http://vo01.mohdtv.com:8880/voby5324/62119828/71139
 #EXTINF:-1 group-title="JIRAN CH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg.png" ,Lifetime
 http://vo01.mohdtv.com:8880/voby5324/62119828/71140
