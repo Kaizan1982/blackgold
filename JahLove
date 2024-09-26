@@ -726,10 +726,6 @@ https://canale.mizhls.ru/lb/premium79/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium80/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Qazsport_logo.svg/500px-Qazsport_logo.svg.png" group-title="OLAHRAGA", QAZSPORT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
-
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/unifi_sports.png" group-title="OLAHRAGA", UNIFI SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
@@ -770,21 +766,6 @@ http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789
 
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport DIRECT"  group-title="OLAHRAGA",Canal+ Sport DIRECT
 http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
-
-#EXTINF:-1 xui-id="14875" tvg-id="" tvg-name="SG: HUB SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="OLAHRAGA", HUB SPORTS 1
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36305.m3u8
-
-#EXTINF:-1 xui-id="14876" tvg-id="" tvg-name="SG: HUB SPORTS 2" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-rbs4Pz-QULFRChkHaKUWCulXfGooJGrno3tVu-klqR1s.png" group-title="OLAHRAGA", HUB SPORTS 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36304.m3u8
-
-#EXTINF:-1 xui-id="14877" tvg-id="" tvg-name="SG: HUB SPORTS 3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/Hub_Sports_3.png/revision/latest?cb=20220124031747&path-prefix=ru" group-title="OLAHRAGA", HUB SPORTS 3
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36303.m3u8
-
-#EXTINF:-1 xui-id="14878" tvg-id="" tvg-name="SG: HUB SPORTS 4" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 4
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36302.m3u8
-
-#EXTINF:-1 xui-id="14879" tvg-id="" tvg-name="SG: HUB SPORTS 5" tvg-logo="http://play.fastkobar.my.id:8080/images/tOhY6q2bn15KIkniX7y8dtRuFeiIPPayxZfHhZTy-F_m5arI1dPbY1Q68-OSH8-raeswklk6li9wh3NMOmu9uV3JNKom6CKAdlkqw_ClpWY.png" group-title="OLAHRAGA", HUB SPORTS 5
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/36301.m3u8
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -840,7 +821,7 @@ https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 
           ######### THAI SPORTS #########
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.imgur.com/p1q77RO.png" tvg-id="spotv.kr" ,SPOTV TRUE
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.imgur.com/p1q77RO.png" tvg-id="spotv.kr" ,SPOTV 1 TRUE
 https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0&referrer=https://www.youdooball.com/
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://i.imgur.com/5D0YW20.png" tvg-id="spotv2.kr" , SPOTV 2 TRUE
 https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0&referrer=https://www.youdooball.com/
@@ -1072,10 +1053,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
 
-
-
-
-
                      ========ASTRO GO=======
 
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaw.png" tvg-id="astroawani.my" ,MY| ASTRO AWANI HD
@@ -1132,12 +1109,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/38023
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocer.png" tvg-id="astroceria.my" ,MY| ASTRO CERIA HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 
-
-
-
-
               ==========TNT SPORT========
-
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="TNTSports1.uk" tvg-logo="https://guki.my.id/logo/sports/tnt1.png",TNT SPORTS 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1160,7 +1132,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="TNTSports4.uk" tvg-logo="https://guki.my.id/logo/sports/tnt4.png",TNT SPORTS 4 
+#EXTINF:-1 group-title="OAHRAGA" tvg-id="TNTSports4.uk" tvg-logo="https://guki.my.id/logo/sports/tnt4.png",TNT SPORTS 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1322,40 +1294,40 @@ https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
                   ==========ZONA ACTION=======
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 1
 http://opplex.tv:8080/nwdndw/736383/285183
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 2
 http://opplex.tv:8080/nwdndw/736383/301092
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 3
 http://opplex.tv:8080/nwdndw/736383/301093
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 4
 http://opplex.tv:8080/nwdndw/736383/301094
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 5
 http://opplex.tv:8080/nwdndw/736383/301095
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 6
 http://opplex.tv:8080/nwdndw/736383/301096
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 7
 http://opplex.tv:8080/nwdndw/736383/301097
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 8
 http://opplex.tv:8080/nwdndw/736383/301098
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 9
 http://opplex.tv:8080/nwdndw/736383/301099
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 10
 http://opplex.tv:8080/nwdndw/736383/341310
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 11
 http://opplex.tv:8080/nwdndw/736383/341311
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="ACTION" tvg-id="" tvg-name="", MOVIE 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="FILM" tvg-id="" tvg-name="", MOVIE 12
 http://opplex.tv:8080/nwdndw/736383/341312
 
 
@@ -1533,14 +1505,8 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-######### PLAY SPORTS #########
+                         ######### PLAY SPORTS #########
 
-#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Play Sports 1" tvg-logo="https://guki.my.id/logo/sports/P1.png" group-title="OLAHRAGA",Play Sports 1
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://guki.my.id/logo/sports/P2.png" group-title="OLAHRAGA",Play Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
-#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://guki.my.id/logo/sports/P3.png" group-title="OLAHRAGA",Play Sports 3
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
 
                          =========BEIN|AR=======
 
@@ -2469,28 +2435,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
                =========FOX SPORT======
 
-#EXTINF:-1 xui-id="16590" tvg-id="" tvg-name="FS1" tvg-logo="https://guki.my.id/logo/sports/fs1.png" group-title="OLAHRAGA", Fox Sports 1
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMmW31aUsDAdK6YVzIDt0WwC/ts
-
-#EXTINF:-1 xui-id="16591" tvg-id="" tvg-name="FS 2" tvg-logo="https://guki.my.id/logo/sports/fs2.png" group-title="OLAHRAGA", Fox Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMlkn9P4uOkS9GY8DftaPsZl/ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="OLAHRAGA",Fox Sports Racing CA
-http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="OLAHRAGA",Fox Sports 501
-http://premiumiptvmk.com:8080/F19236/516c41c7/279034
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="OLAHRAGA",Fox Sports 502
-http://premiumiptvmk.com:8080/F19236/516c41c7/81784
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="OLAHRAGA",Fox Sports 503
-http://premiumiptvmk.com:8080/F19236/516c41c7/280192
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="OLAHRAGA",Fox Sports 504
-http://premiumiptvmk.com:8080/F19236/516c41c7/280193
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="OLAHRAGA",Fox Sports 505
-http://premiumiptvmk.com:8080/F19236/516c41c7/144772
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="OLAHRAGA",Fox Sports 506
-http://premiumiptvmk.com:8080/F19236/516c41c7/279033
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="OLAHRAGA",Fox Sports 507
-http://premiumiptvmk.com:8080/F19236/516c41c7/280194
 
 
                  =========SPORT TV======
