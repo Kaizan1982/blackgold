@@ -583,7 +583,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" , SOCCER CH
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA",Soccer channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA" ,SOCCER CH HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -831,9 +831,6 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://iptvtree.net:8080/F14995/a84c0963/162591
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
-https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
-
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png" ,PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
@@ -881,15 +878,15 @@ https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|user-agent=Mozi
            ============TSN=========
 
 
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn1.png" group-title="TSN", TSN 1
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn1.png" group-title="OLAHRAGA", TSN 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn1.m3u8
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn2.png" group-title="TSN", TSN 2
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn2.png" group-title="OLAHRAGA", TSN 2
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn2.m3u8
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn3.png" group-title="TSN", TSN 3
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn3.png" group-title="OLAHRAGA", TSN 3
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn3.m3u8
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn4.png" group-title="TSN", TSN 4
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn4.png" group-title="OLAHRAGA", TSN 4
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn4.m3u8
-#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn5.png" group-title="TSN", TSN 5
+#EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn5.png" group-title="OLAHRAGA", TSN 5
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
 
 
@@ -1162,7 +1159,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="OAHRAGA" tvg-id="TNTSports4.uk" tvg-logo="https://guki.my.id/logo/sports/tnt4.png",TNT SPORTS 4 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="TNTSports4.uk" tvg-logo="https://guki.my.id/logo/sports/tnt4.png",TNT SPORTS 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
