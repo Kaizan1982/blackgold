@@ -650,7 +650,7 @@ https://melon-live-cdn.mncnow.id/live/eds/CHANNEL | MUSICChannel/sa_dash_vmx/CHA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://worker-little-bread-fe1e.aimiemah.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="CHANNEL | MUSIC",Musik Indonesia (Cbm)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="MUSIC",Musik Indonesia (Cbm)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://i.imgur.com/2hpyTyO.png" group-title="MUSIC",Musik Indonesia (Indi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -684,7 +684,7 @@ https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="MUSIC" , MTV Biggest Pop
 https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV Biggest Pop Japan
+#EXTINF:-1 group-title="MUSIC" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV Biggest Pop Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 channel-id="pluto-5d4af2a24f1c5ab2d298776b" tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" tvg-chno="857" group-title="MUSIC" , Pluto TV CHANNEL | MUSIC
 https://r.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
@@ -747,7 +747,7 @@ https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CMUSIC", Nagaswara Koplo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Koplo
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC", Nagaswara Pop
