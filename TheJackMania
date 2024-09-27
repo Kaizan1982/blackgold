@@ -1721,7 +1721,22 @@ http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574494
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="BEINSPORTS",beIN LQ 9
 http://elprofessor.otts.pro:80/omarHusby2412/PCRAGX1VED/574493
 
-             
+
+         ######### RMC SPORTS ##########
+
+#EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="OLAHRAGA", RMC Sport 1
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/675.m3u8
+
+#EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="OLAHRAGA", RMC Sport 2 HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/676.m3u8
+
+#EXTINF:-1 xui-id="7870" tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Logo_RMC_Sport_3_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133707" group-title="OLAHRAGA", RMC Sport 3 HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/677.m3u8
+
+#EXTINF:-1 xui-id="7871" tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Logo_RMC_Sport_4_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191012133111" group-title="OLAHRAGA", RMC Sport 4 HD
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/678.m3u8
+
+
          ##########TRANSVISION##########
 
 
