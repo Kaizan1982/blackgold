@@ -4954,5 +4954,42 @@ http://vo01.mohdtv.com:8880/voby5324/62119828/28076
 #EXTINF:-1 group-title="FR Sports" tvg-id="cine+.classic.fr"  tvg-logo="http://logo.ottcst.info/CANALPLUSSPORT.png" ,CANAL+ SPORT 5
 http://vo01.mohdtv.com:8880/voby5324/62119828/28075
 
+             ########## CCTV CHANNEL ############
 
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv1.jpg" group-title="CCTV",CCTV 1 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv2.jpg" group-title="CCTV",CCTV 2 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv3.jpg" group-title="CCTV",CCTV 3
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv4.jpg" group-title="CCTV",CCTV 4 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV",CCTV 5 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000025222/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="CCTV",CCTV 5+
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv6.jpg" group-title="CCTV",CCTV 6 
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv7.jpg" group-title="CCTV",CCTV 7
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv8.jpg" group-title="CCTV",CCTV 8
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv9.jpg" group-title="CCTV",CCTV 9 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv10.jpg" group-title="CCTV",CCTV 10 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv11.jpg" group-title="CCTV",CCTV 11 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031106/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031106
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv12.jpg" group-title="CCTV",CCTV 12 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv13.jpg" group-title="CCTV",CCTV 13
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv14.jpg" group-title="CCTV",CCTV 14 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000008170/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000008170
+#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="CCTV",CCTV 15 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031109/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031109
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv16.jpg" group-title="CCTV",CCTV 16
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CCTV",CCTV 17 
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
 
