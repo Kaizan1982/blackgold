@@ -5,143 +5,128 @@
 
          ======================= LIVE | LIGA INGGRIS ====================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 01
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 01
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL",TRUE PREMIER 1 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL",TRUE PREMIER 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL",TRUE PREMIER 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 02
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium130/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 03
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium7/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 04
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 04
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 05
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium125/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 06
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium414/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 07
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium400/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 08
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium401/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 09
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 09
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191686.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 10
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium572/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 11
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium913/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 12
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium68/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 13
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 14
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium55/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 15
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium599/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 16
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium91/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 17 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 17 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 18
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium15/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 19
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium59/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 20
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium68/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", LIVE 21
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium69/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", SkySPORTS EPL NZ
+#EXTINF:-1 tvg-id="SkySports EPL NZ" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium595/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", SkySPORTS 7 NZ
+#EXTINF:-1 tvg-id="SkySports 7 NZ" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium594/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 9 NZ" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", SkySPORTS 9 NZ
+#EXTINF:-1 tvg-id="SkySports 9 NZ" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://topembed.mizhls.ru/lb/premium596/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://i.postimg.cc/bJgvNdCR/pl.png" group-title="LIVE PL", SkySPORTS 4 NZ
+#EXTINF:-1 tvg-id="SkySports 2 NZ" tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="LIVE PL", LIVE 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://mhdtv.co.in/
 https://mhdtv.co.in/daddy/stream.m3u8?id=591
