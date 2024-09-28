@@ -370,7 +370,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 #EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 1
 http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 
-#EXTINF:-1 group-title="LIVE BOLA RI" tvg-logo="https://ln.run/LigaBRI" ,LIVE 2
+#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,LIVE 2
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|license_type=com.widevine.alpha&license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi&referrer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 3
