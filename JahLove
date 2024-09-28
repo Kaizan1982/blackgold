@@ -1,7 +1,207 @@
+404 error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
+#EXTM3U billed-msg="BY FLYNGDUTCHMAN * NOT FOR SALE * THIS PLAYLIST IS FREE"
 
-
-         ==========PLAYLIST IPTV BY FLYNGDUTCHMAN===========
+         ########## PLAYLIST BY FLYNGDUTCHMAN ##########
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/mnctv.png", MNCTV 
@@ -227,7 +427,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" tvg-id="null" tvg-name="null", Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
 
-                        ==========BRI LIGA 1=====
+                        ########## LIGA MAHAL ##########
 
 #EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,LIVE 1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
@@ -245,7 +445,7 @@ https://apisportvb90xltcbk-secure.nsnd.live/F_cRe5KV6i5_b8MeMMN3yg/Fv2lucGIbhPi2
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
               
-       ============DISCOVERY CHANNEL=====
+       ########## DISCOVERY CHANNEL ##########
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
@@ -304,7 +504,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 
 
 
-   ===========MOVE PREMIUM=======
+                      ########## FILM ##########
 
 #EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54xdstkj7RPrJEd_LE2bJEECLMJ26GHHfcWSbCMANA-jyYuv8Gka1fQos&amp;s=10" group-title="FILM",IMC (Vision+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -553,7 +753,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9379.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/253.ts
 
 
-                  ==========PREMIUM SPORT========
+                  ########## OLAHRAGA ##########
 
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png",SPOTV1
@@ -876,7 +1076,7 @@ https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8|user-agent=Mozi
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" tvg-id="TrueSport7.th" tvg-name="TrueSport7" ,True Sports 7
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0&referrer=https://www.youdooball.com/
 
-           ============TSN=========
+                    ########## TSN ##########
 
 
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/sports/tsn1.png" group-title="OLAHRAGA", TSN 1
@@ -892,7 +1092,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
 
 
 
-                          ========HK NOW SPORT=======
+                          ##########HK NOW SPORT##########
 
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 1
@@ -928,7 +1128,7 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
 
 
-                 =======DAZN=======
+                 ##########DAZN###########
 
 #EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -973,7 +1173,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 
-                 ========SETANTA LIVE======
+                 ########## SETANTA LIVE ##########
 
 
 #EXTINF:-1 group-title="SETANTA LIVE" tvg-logo="https://i.imgur.com/RWRTtIk.jpg", Setanta Sports Event 1
@@ -1081,7 +1281,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
 
-                     ========ASTRO GO=======
+                     ##########ASTRO##########
 
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaw.png" tvg-id="astroawani.my" ,MY| ASTRO AWANI HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191859
@@ -1137,7 +1337,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/38023
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocer.png" tvg-id="astroceria.my" ,MY| ASTRO CERIA HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 
-              ==========TNT SPORT========
+                   ##########TNT SPORT##########
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="TNTSports1.uk" tvg-logo="https://guki.my.id/logo/sports/tnt1.png",TNT SPORTS 1 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1168,7 +1368,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-                  ===========LIGA INGGRIS========
+                  ##########LIGA INGGRIS##########
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 1
@@ -1215,7 +1415,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
 
 
-          ==========BUUNDES LIGA======
+                   ##########BUUNDES LIGA##########
 
 
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 1
@@ -1267,7 +1467,7 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
 
 
 
-                ==========RAKUTEN TV========
+                           ##########RAKUTEN##########
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="RAKUTEN CH" tvg-id="" tvg-name="", MOVIE 1
