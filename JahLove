@@ -444,7 +444,22 @@ https://apisportvb90xltcbk-secure.nsnd.live/F_cRe5KV6i5_b8MeMMN3yg/Fv2lucGIbhPi2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
-              
+
+       ######### VOLI EVENT #########
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIVE EVENT VOLI", live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0lZ06LNGUzs/hqdefault.jpg" group-title="LIVE EVENT VOLI", KOVO CUP 2024 - RED spark vs PINK spiders
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727884502/ei/dhj9ZvTBIcbA4-EPxseuyQ4/ip/103.160.205.150/id/0lZ06LNGUzs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSMnwd5AMOPEtzau2ERT_TKSH5QyxY3nLV91_rmR1PiOM-UjX7UBwNpG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNpsBitfSFIuLikrmcqdxnv-SKCI_EYogl8eGzOz4sk8CIGi1iJuyhQb3adKcCyWaSP3cDJW5b4k9EuHEbiigipUt/file/index.m3u8
+
+
        ########## DISCOVERY CHANNEL ##########
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
