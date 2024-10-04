@@ -2155,6 +2155,22 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2126&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2125&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2124&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport ESPN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2123&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+http://dns20.xyz/play/live.php?mac=00:1A:79:7F:A1:A6&stream=302786&extension=ts
+
+
 #EXTINF:-1 xui-id="369" tvg-id="" tvg-name="Sport Digital" tvg-logo="https://cdn.lovesavingsgroup.com/logos/sportdigital.jpg" group-title="OLAHRAGA",Sport Digital Fussball
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh_ejzibRHwEXFzMMXWbdeGc/ts
 
@@ -2206,6 +2222,53 @@ http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh0IBEvQAx_LxZXNF0HPclV8/ts
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
 #EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Play Sports 3" tvg-logo="https://i.imgur.com/E2wVMVk.jpeg" group-title="OLAHRAGA",Play Sports 3
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh9b7f5u8LZ00S6TRHeA7Rag/ts
+
+              ############ SUPER SPORTS ##########
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSport Premier League
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350748&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350747&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350752&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350749&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350753&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350754&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350755&extension=ts
+
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350744&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350746&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350743&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350759&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350750&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350751&extension=ts
+
+#EXTINF:-1 tvg-id="" group-title="OLAHRAGA" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&extension=ts
+
+
 
 
                #########BEINSPORTSARAB#########
