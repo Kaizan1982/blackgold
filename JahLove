@@ -1470,24 +1470,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
 
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="OLAHRAGA",Canal+ sport 1
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2775
-
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 2"  group-title="OLAHRAGA",Canal+ Sport 2
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28146
-
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 3"  group-title="OLAHRAGA",Canal+ Sport 3
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/28090
-
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ MOTOGP"  group-title="OLAHRAGA", Canal+ MOTOGP
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2793
-
-#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="OLAHRAGA",Canal+ Sport 360 HD
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2789
-
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport DIRECT"  group-title="OLAHRAGA",Canal+ Sport DIRECT
-http://vo01.mohdtv.com:8880/voby0897/2q8wq9a5/2790
-
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1528,11 +1510,6 @@ http://iptvtree.net:8080/F14995/a84c0963/162591
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png" ,PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/deruj54-ae693061-ce77-4e19-864d-690f09037ea2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVydWo1NC1hZTY5MzA2MS1jZTc3LTRlMTktODY0ZC02OTBmMDkwMzdlYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lwedPtchbb5UUvYAJZnkrIcoV9DUelo_aUwwFCj6z6I" ,CCTV 5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" ,CCTV 5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" ,FIFA+
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
@@ -2022,52 +1999,6 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
                    ##########BUUNDES LIGA##########
 
 
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://getdazn.starlive.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun2.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun3.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun4.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun5.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 10
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun6.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 11
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun7.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/bundesliga.png" group-title="BUNDES LIGA", CH 12
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Lije/Bun8.m3u8
 
 
 
@@ -2165,37 +2096,37 @@ http://opplex.tv:8080/nwdndw/736383/341312
 
            ==========ZONA HORROR=====
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 1
 http://opplex.tv:8080/nwdndw/736383/341313
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 2
 http://opplex.tv:8080/nwdndw/736383/341314
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 3
 http://opplex.tv:8080/nwdndw/736383/341315
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 4
 http://opplex.tv:8080/nwdndw/736383/341316
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 5
 http://opplex.tv:8080/nwdndw/736383/341317
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 6
 http://opplex.tv:8080/nwdndw/736383/341318
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 7
 http://opplex.tv:8080/nwdndw/736383/341319
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 8
 http://opplex.tv:8080/nwdndw/736383/341320
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 9
 http://opplex.tv:8080/nwdndw/736383/341321
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 10
 http://opplex.tv:8080/nwdndw/736383/341322
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HORROR" tvg-id="" tvg-name="", MOVIE 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="HOROR" tvg-id="" tvg-name="", MOVIE 11
 http://opplex.tv:8080/nwdndw/736383/341323
 
 
