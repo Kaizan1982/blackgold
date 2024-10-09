@@ -940,7 +940,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png" tvg-id="" tvg-name="", Vision Prime
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-                        ==========BRI LIGA 1=====
+#EXTINF:-1 group-title="NASIONAL" tvg-id="magnachannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/400px-MagnaChannel.png",Magna Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="nusantaratv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/440px-Nusantara_TV_Logo.svg.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
+
+                   ==========BRI LIGA 1=====
 
 #EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 1
 http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
