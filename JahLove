@@ -1675,6 +1675,35 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+               ############ ESPN ##############
+
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" tvg-id="ESPN 2 FHD" tvg-name="ESPN 2 FHD" ,ESPN 2 FHD
+http://cdn.topk.live:80/karoline/123456/337727
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" ,ESPN 2 HD
+http://cdn.topk.live:80/karoline/123456/404921
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/5YXNxEMAnWdnMWf/download/espn2.png" tvg-id="ESPN 2 SD" tvg-name="ESPN 2 SD" ,ESPN 2 SD
+http://cdn.topk.live:80/karoline/123456/337725
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" tvg-id="ESPN 3 FHD" tvg-name="ESPN 3 FHD" ,ESPN 3 FHD
+http://cdn.topk.live:80/karoline/123456/338057
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" ,ESPN 3 HD
+http://cdn.topk.live:80/karoline/123456/338056
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/QyCSiBPr3YbS24Z/download/espn3.png" tvg-id="ESPN 3 SD" tvg-name="ESPN 3 SD" ,ESPN 3 SD
+http://cdn.topk.live:80/karoline/123456/337728
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" tvg-id="ESPN 4 FHD" tvg-name="ESPN 4 FHD" ,ESPN 4 FHD
+http://cdn.topk.live:80/karoline/123456/141559
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" tvg-id="ESPN 4 HD" tvg-name="ESPN 4 HD" ,ESPN 4 HD
+http://cdn.topk.live:80/karoline/123456/404924
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/2mPwXnjXQ7KA3oQ/download/espn4.png" tvg-id="ESPN 4 HD" tvg-name="ESPN 4 SD" ,ESPN 4 SD
+http://cdn.topk.live:80/karoline/123456/141544
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/W2oD8KFWrdTwJfr/download/espnextra.png" tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD" ,ESPN EXTRA HD
+http://cdn.topk.live:80/karoline/123456/404925
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" tvg-id="ESPN FHD" tvg-name="ESPN FHD" ,ESPN FHD
+http://cdn.topk.live:80/karoline/123456/404920
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" tvg-id="ESPN HD" tvg-name="ESPN HD" ,ESPN HD
+http://cdn.topk.live:80/karoline/123456/404919
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z3pJGCsGEXrm8XF/download/espn.png" tvg-id="ESPNBRS" tvg-name="ESPN SD" ,ESPN SD
+http://cdn.topk.live:80/karoline/123456/141540
+
 
                  ########## SETANTA LIVE ##########
 
