@@ -3510,42 +3510,6 @@ https://live.mocdn.tv/out/v1/0f558211487c4531ba911feca2036bb3/manifest_L1.mpd
 
             ########## DSTV SPORTS #########
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV]SUPERSPORT PREMIER LEAGUE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="DSTV SPORTS",SUPERSPORT PREMIER LEAGUE
-http://ktpremium.xyz:2095/live/yv2268/22681081/995191.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT Action" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="DSTV SPORTS",SUPERSPORT Action
-http://ktpremium.xyz:2095/live/yv2268/22681081/932575.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT BLITZ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="DSTV SPORTS",SUPERSPORT BLITZ
-http://ktpremium.xyz:2095/live/yv2268/22681081/932576.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT CRICKET" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="DSTV SPORTS",SUPERSPORT CRICKET
-http://ktpremium.xyz:2095/live/yv2268/22681081/932577.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT FOOTBALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="DSTV SPORTS",SUPERSPORT FOOTBALL
-http://ktpremium.xyz:2095/live/yv2268/22681081/932578.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT Golf" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="DSTV SPORTS",SUPERSPORT Golf
-http://ktpremium.xyz:2095/live/yv2268/22681081/932579.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT GRANDSTAND" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png" group-title="DSTV SPORTS",SUPERSPORT GRANDSTAND
-http://ktpremium.xyz:2095/live/yv2268/22681081/932580.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT LALIGA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="DSTV SPORTS",SUPERSPORT LALIGA
-http://ktpremium.xyz:2095/live/yv2268/22681081/932581.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT maximo 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-maximo-1-za.png" group-title="DSTV SPORTS",SUPERSPORT maximo 1
-http://ktpremium.xyz:2095/live/yv2268/22681081/932582.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT MOTORSPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="DSTV SPORTS",SUPERSPORT MOTORSPORT
-http://ktpremium.xyz:2095/live/yv2268/22681081/932583.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT PREMIER LEAGUE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="DSTV SPORTS",SUPERSPORT PREMIER LEAGUE
-http://ktpremium.xyz:2095/live/yv2268/22681081/932584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT PSL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="DSTV SPORTS",SUPERSPORT PSL
-http://ktpremium.xyz:2095/live/yv2268/22681081/932585.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT RUGBY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="DSTV SPORTS",SUPERSPORT RUGBY
-http://ktpremium.xyz:2095/live/yv2268/22681081/932586.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT TENNIS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="DSTV SPORTS",SUPERSPORT TENNIS
-http://ktpremium.xyz:2095/live/yv2268/22681081/932587.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT VARIETY 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="DSTV SPORTS",SUPERSPORT VARIETY 1
-http://ktpremium.xyz:2095/live/yv2268/22681081/932588.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT VARIETY 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="DSTV SPORTS",SUPERSPORT VARIETY 2
-http://ktpremium.xyz:2095/live/yv2268/22681081/932589.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT VARIETY 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="DSTV SPORTS",SUPERSPORT VARIETY 3
-http://ktpremium.xyz:2095/live/yv2268/22681081/932590.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[DSTV] SUPERSPORT VARIETY 4" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="DSTV SPORTS",SUPERSPORT VARIETY 4
-http://ktpremium.xyz:2095/live/yv2268/22681081/932591.ts
 
              ##########VOD HOROR#########
 
