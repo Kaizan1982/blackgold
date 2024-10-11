@@ -2036,11 +2036,124 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
 
 
-                   ##########BUUNDES LIGA##########
+                   ########## MUSIC ##########
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MgwNV67/mtv-live-logo-tv.jpg" group-title="MUSIC", MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0KkSYVW/MTV-S.jpg" group-title="MUSIC", MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HWLWSD/MTV-CLASSIC.jpg" group-title="MUSIC", MTV CLASSIC
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1171
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58589.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JR3znzy/music-tv-logo-mnc.jpg" group-title="MUSIC", MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="MUSIC", MUSIC INFORMATION CHANNEL
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/YB1bkjj/Smart-Select-20230609-105725-Picsart.jpg", NAGASWARA
+https://s.id/nagaswarahd
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/wRp0BJp/Musica-Studio.jpg", MUSICA STUDIOS
+https://kister.net/mpl/yt2m3u8?w=@MusicaStudios
+https://ythls.armelin.one/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+https://ythls.onrender.com/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/WfMdRN5/Aquarius-Musikindo.jpg", AQUARIUS MUSIKINDO
+https://s.id/aquariusmusikindo
+https://ythls.armelin.one/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
+https://kister.net/mpl/yt2m3u8?w=@AquariusMusikindo
+https://ythls.onrender.com/channel/UCpJRmMTfdv0iPbnjo6qBw_g.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fvqrvCz/Picsart-23-06-27-05-09-13-806.jpg" group-title="MUSIC", PRAMBORS
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1157.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/264761
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264761
+http://iptvtree.net:8080/F26646/f950f250/264761
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kXM7CvP/Picsart-24-05-02-06-04-13-095.jpg" group-title="MUSIC", POP MUSIK
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HtcsrLv/Picsart-24-05-02-06-06-39-541.jpg" group-title="MUSIC", MALEO
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVpYgTt/dens-showbiz-logo-tv.jpg" group-title="MUSIC", DENS SHOWBIZ
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensShowBiz
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/1vYtnYV/Smart-Select-20230609-100615-Picsart.jpg", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/n7j8L6J/1-mus-com.jpg", 1MUS.COM
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/8rVKsmG/Smart-Select-20230609-105314-Picsart.jpg", MOLAHITS TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="MUSIC", KPOP
+https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/NpQc5Sv/K-Pop.jpg" group-title="MUSIC", KPOP PLAY
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/nLTxfw1/K-pop.jpg" group-title="MUSIC", THE KPOP
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co.com/Zmb73kd/K-pop-2.jpg" group-title="MUSIC", THE KPOP 2
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/QQjngRr/Musik-Indo.jpg" group-title="MUSIC", MUSIK INDONESIA
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdrhtf9/Smart-Select-20230611-122931-Picsart.jpg" group-title="MUSIC", NUSANTARA
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ykcf7Gx/Smart-Select-20230610-155814-Picsart.jpg" group-title="MUSIC", CLUBBING
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qzCbqr/Picsart-23-06-12-11-29-57-494.jpg" group-title="MUSIC", SONG TV
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HnMB1c6/I-Konser.jpg" group-title="MUSIC", I-KONSER
+https://cdn09jtedge.indihometv.com/joss/130/ikonser/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
 
                            ##########RAKUTEN##########
 
