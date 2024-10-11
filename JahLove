@@ -1296,6 +1296,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
                ########## ASTRO SUPERSPORTS ##########
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport1.my" ,ASSP1
+http://mohdtv.com:8880/voby5019/58746247/1722
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport2.my" ,ASSP2
+http://mohdtv.com:8880/voby5019/58746247/1721
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport3.my" ,ASSP3
+http://mohdtv.com:8880/voby5019/58746247/1720
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport4.my" ,ASSP4
+http://mohdtv.com:8880/voby5019/58746247/1719
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sukan_rtm.png" group-title="OLAHRAGA",RTM Sukan 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
