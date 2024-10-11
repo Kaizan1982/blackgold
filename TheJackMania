@@ -1743,6 +1743,15 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="OLAHRAGA" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport1.my" ,ASSP1
+http://mohdtv.com:8880/voby5019/58746247/1722
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport2.my" ,ASSP2
+http://mohdtv.com:8880/voby5019/58746247/1721
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport3.my" ,ASSP3
+http://mohdtv.com:8880/voby5019/58746247/1720
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport4.my" ,ASSP4
+http://mohdtv.com:8880/voby5019/58746247/1719
+
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
