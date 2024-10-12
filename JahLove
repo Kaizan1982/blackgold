@@ -1304,6 +1304,12 @@ http://mohdtv.com:8880/voby5019/58746247/1721
 http://mohdtv.com:8880/voby5019/58746247/1720
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA" tvg-id="AstroSuperSport4.my" ,ASSP4
 http://mohdtv.com:8880/voby5019/58746247/1719
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA" ,ASSP5
+http://mohdtv.com:8880/voby5019/58746247/1713
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="OLAHRAGA" ,ARENA2
+http://mohdtv.com:8880/voby5019/58746247/1696
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="OLAHRAGA" ,ARENA1
+http://mohdtv.com:8880/voby5019/58746247/1703
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sukan_rtm.png" group-title="OLAHRAGA",RTM Sukan 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1331,7 +1337,7 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/astro_arena.png" group-title="OLAHRAGA", ARENA SPORT 1
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="OLAHRAGA", ARENA SPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1339,7 +1345,7 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/astro_arena.png" group-title="OLAHRAGA", ARENA SPORT 2
+#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="OLAHRAGA", ARENA SPORT 2
 group-title="Sports", BA: Arena Sport 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstreamaddon=inputstream.adaptive
