@@ -774,63 +774,63 @@ https://beststream.app/beststream/live113/playlist.m3u8?wsSecret=a23990be73a39b5
 
        ########## DISCOVERY CHANNEL ##########
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
+#EXTINF:-1 group-title="Documentary" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+#EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497254&extension=ts
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
+#EXTINF:-1 group-title="Documentary" tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497305&extension=ts
 
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://iili.io/JpsEnEJ.jpg" group-title="DISCOVERY", BBC EARTH
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://iili.io/JpsEnEJ.jpg" group-title="Documentary", BBC EARTH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-fly-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="DISCOVERY", CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="Documentary", CRIME INVESTIGATION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-fly-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="DISCOVERY", CURIOSITY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="Documentary", CURIOSITY
 https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="DISCOVERY", CURIOSITY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="Documentary", CURIOSITY CHANNEL
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="DISCOVERY",Discovery Asia
+#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="Documentary",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="Discovery HD World"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png", DISCOVERY HD
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery HD World"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png", DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="Discovery Science"  tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png", DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery Science"  tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png", DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="DISCOVERY" tvg-id="[London SD] DMAX"  tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png", DMAX
+#EXTINF:-1 group-title="Documentary" tvg-id="[London SD] DMAX"  tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png", DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JpiQj8x.jpg" group-title="DISCOVERY", LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JpiQj8x.jpg" group-title="Documentary", LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-fly-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="DISCOVERY", NATGEO
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="Documentary", NATGEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/31/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="DISCOVERY", REAL WILD
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="Documentary", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
               ========== NEWS ==========
@@ -1570,35 +1570,35 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Tsn5.m3u8
 
                     ########## DOCUMENTARY ##########
 
-#EXTINF:-1 group-title="Documentary" tvg-id="animal.planet.canada.ca" ,CA004:Animal Planet HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/440px-2018_Animal_Planet_logo.svg.png" tvg-id="animal.planet.canada.ca" ,Animal Planet HD
 http://mohdtv.com:8880/voby5019/58746247/3065
-#EXTINF:-1 group-title="Documentary" tvg-id="the.discovery.canada.ca" ,CA022:Discovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/440px-Discovery_Channel_-_Logo_2019.svg.png" tvg-id="the.discovery.canada.ca" ,Discovery HD
 http://mohdtv.com:8880/voby5019/58746247/3047
-#EXTINF:-1 group-title="Documentary" ,CA026:DIY Network HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/400px-Magnolia_Network.svg.png" ,DIY Network HD
 http://mohdtv.com:8880/voby5019/58746247/3043
-#EXTINF:-1 group-title="Documentary" tvg-id="historia.ca" ,CA040:History HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/240px-History_%282021%29.svg.png" tvg-id="historia.ca" ,History HD
 http://mohdtv.com:8880/voby5019/58746247/3029
-#EXTINF:-1 group-title="Documentary" tvg-id="investigation.discovery.ca" ,CA042:Investigation Discovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/300px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="investigation.discovery.ca" ,Investigation Discovery HD
 http://mohdtv.com:8880/voby5019/58746247/3027
-#EXTINF:-1 group-title="Documentary" tvg-id="national.geographic.canada.ca" ,CA049:National Geographic HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/480px-Natgeologo.svg.png" tvg-id="national.geographic.canada.ca" ,National Geographic HD
 http://mohdtv.com:8880/voby5019/58746247/3020
-#EXTINF:-1 group-title="Documentary" tvg-id="natgeo.wild.canada.ca" ,CA050:NAT GEO WILD HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/400px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeo.wild.canada.ca" ,NAT GEO WILD HD
 http://mohdtv.com:8880/voby5019/58746247/3019
-#EXTINF:-1 group-title="Documentary" tvg-id="smithsonian.canada.ca" ,CA057:Smithsonian HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Smithsonian_Channel.PNG/480px-Smithsonian_Channel.PNG" tvg-id="smithsonian.canada.ca" ,Smithsonian HD
 http://mohdtv.com:8880/voby5019/58746247/3012
-#EXTINF:-1 group-title="Documentary" tvg-id="savoir.madia.ca" ,CA095:CANAL Savoir
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cdn-radiotime-logos.tunein.com/s66872q.png" tvg-id="savoir.madia.ca" ,CANAL Savoir
 http://mohdtv.com:8880/voby5019/58746247/30219
-#EXTINF:-1 group-title="Documentary" tvg-id="crime.plus.investigation.ca" ,CA115:Crime & Investigation HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-id="crime.plus.investigation.ca" ,Crime & Investigation HD
 http://mohdtv.com:8880/voby5019/58746247/30199
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.velocity.ca" ,CA116:Discovery Velocity
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_Velocity_logo.jpg/360px-Discovery_Velocity_logo.jpg" tvg-id="discovery.velocity.ca" ,Discovery Velocity
 http://mohdtv.com:8880/voby5019/58746247/30198
-#EXTINF:-1 group-title="Documentary" tvg-id="discovery.science.ca" ,CA124:Discovery Science HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/400px-Discovery_Science_2017_Logo.svg.png" tvg-id="discovery.science.ca" ,Discovery Science HD
 http://mohdtv.com:8880/voby5019/58746247/30190
-#EXTINF:-1 group-title="Documentary" tvg-id="history2.canada.ca" ,CA140:MIRACLE
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://cdn.prod.website-files.com/5c87e4b7e902058fc439677f/60918047bc925d86a39d9b22_MC_Logo_Black.png" tvg-id="history2.canada.ca" ,MIRACLE
 http://mohdtv.com:8880/voby5019/58746247/30174
-#EXTINF:-1 group-title="Documentary" tvg-id="love.nature.ca" ,CA143:Love Nature
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/340px-Love_Nature_TV.png" tvg-id="love.nature.ca" ,Love Nature
 http://mohdtv.com:8880/voby5019/58746247/30171
-#EXTINF:-1 group-title="Documentary" tvg-id="rds.info.ca" ,CA220:RDS INFO
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/440px-Rds_info.svg.png" tvg-id="rds.info.ca" ,RDS INFO
 http://mohdtv.com:8880/voby5019/58746247/30094
 
 
