@@ -1919,6 +1919,44 @@ http://iptvtree.net:8080/F14995/a84c0963/162591
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
 
+           ######### CHAMP TV #########
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=17938 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6685 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6686 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6786 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9182 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png/revision/latest?cb=20221112221343" group-title="CTV",CTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9183 
+
            ######### SPORTS ZIONIST #########
 
 #EXTINF:-1 tvg-name="Sport 1 Israel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/092ca41b13e75bb3663f7edb9d51dd11.png" group-title="OLAHRAGA",Sport 1 Israel
@@ -1974,6 +2012,40 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+         ########## MEWATCH ###########
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SBS_Plus_logo_2018.svg/800px-SBS_Plus_logo_2018.svg.png" group-title="ENTERTAINMENT", SBS Korea Plus 
+#EXTVLCOPT:http-user-agent=AppleCoreMedia 
+https://thedream.biz.id/southkorea/sbs.php?id=S03 
+ 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd 
+ 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271 
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd 
+ 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306 
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd 
+ 
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417 
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd 
+ 
+#EXTINF:-1 tvg-id="SPL01" group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71 
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd 
+ 
+#EXTINF:-1 tvg-id="SPL02" group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mewatch_2023.svg/1599px-Mewatch_2023.svg.png?20230215110321",Mewatch 6 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a 
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd 
+ 
 
           #########SETANTA SPORTS#########
 
