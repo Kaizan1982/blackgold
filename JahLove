@@ -759,20 +759,7 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
        ######### VOLI EVENT #########
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="LIVE EVENT VOLI", live
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
-https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0lZ06LNGUzs/hqdefault.jpg" group-title="LIVE EVENT VOLI", KOVO CUP 2024
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727884502/ei/dhj9ZvTBIcbA4-EPxseuyQ4/ip/103.160.205.150/id/0lZ06LNGUzs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSMnwd5AMOPEtzau2ERT_TKSH5QyxY3nLV91_rmR1PiOM-UjX7UBwNpG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNpsBitfSFIuLikrmcqdxnv-SKCI_EYogl8eGzOz4sk8CIGi1iJuyhQb3adKcCyWaSP3cDJW5b4k9EuHEbiigipUt/file/index.m3u8
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Korea_Volleyball_Federation.png", tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="LIVE EVENT VOLI",SBS SPORT 🇰🇷
-https://beststream.app/beststream/live113/playlist.m3u8?wsSecret=a23990be73a39b5ca4ccd0599d22c5a2&wsTime=1727935098&site=
-
-       ########## DISCOVERY CHANNEL ##########
+########## DISCOVERY CHANNEL ##########
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal Planet HD World"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSCoEjDjxepj0m6SFkRQxEGNkA-ZHoD9-bquDchgVZooNzcW56ww9yPMxP_M93WKHyy3U&usqp=CAU", ANIMAL PLANET
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
@@ -1949,17 +1936,6 @@ http://dns20.xyz/play/live.php?mac=00:1A:79:7F:A1:A6&stream=302786&extension=ts
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="OLAHRAGA",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="OLAHRAGA",FOX SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487776&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="OLAHRAGA",FOX SPORT 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="OLAHRAGA",FOX SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="OLAHRAGA",FOX SOCCER PLUS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 
                  ############ SUPER SPORTS ###########
 
@@ -4603,159 +4579,8 @@ http://primestreams.tv:826/live/LathanJamison/N9BClpCnVX/114269.ts
 
 ######### JP CH #########
 
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" tvg-id="nhkg" , NHK G Osaka
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" tvg-id="mbs" , MBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" tvg-id="ytv" , Yomiuri TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" tvg-id="suntv" , SUN TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" tvg-id="nhkbs1" , NHK BS1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" tvg-id="nhkbsp" , NHK BS Premium 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" tvg-id="bsntv" , BS NTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="JAPAN" tvg-id="bsasahi" , BS Asahi
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" tvg-id="bstbs" , BS TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" tvg-id="bstvtokyo" , BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 group-title="JAPAN" tvg-id="bsfuji" , BS Fuji
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="JAPAN" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" tvg-id="wowowprime" , WOWOW Prime
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" tvg-id="wowowlive" , WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" tvg-id="wowowcinema" , WOWOW Cinema
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" tvg-id="starch1" , Star Channel 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" tvg-id="starch2" , Star Channel 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" tvg-id="starch3" , Star Channel 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png" tvg-id="greench" , Green Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" tvg-id="animax" , BS Animax
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" tvg-id="js1" , J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" tvg-id="js2" , J SPORTS 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" tvg-id="js3" , J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png" tvg-id="js4" , J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" tvg-id="fishing" , BS Fishing Vision
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png" tvg-id="nihoneiga" , BS Japan Movie Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg" tvg-id="disneych" , Disney Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" tvg-id="toeich" , ???/ Toei Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" tvg-id="eigeki" , / Eisei Gekijo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" tvg-id="movieplus" , ???/ Movie Plus
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" tvg-id="skya" , ???·A / Sky A
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png" tvg-id="gaora" , GAORA SPORTS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png" tvg-id="ntvgplus" , ???/ Nittele G+
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png" tvg-id="familygeki" , ???/ Family Gekijyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg" tvg-id="mtv" , MTV
-http://asia.vthanhtivi.pw/MTV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" tvg-id="kidsstation" , ?????/ Kids Staton TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg" tvg-id="cartoonnw" , Cartoon Network
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" tvg-id="disneyjr" , ?????/ Disney Junior
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="JAPAN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" tvg-id="discovery" , Discovery Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-
 ######### THAI DIGITAL #########
 
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/nbt.png" tvg-id="NBT.th" ,NBT
-https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/thaipbs.png" tvg-id="ThaiPBS.th" ,Thai PBS
-https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/altv.png" tvg-id="ALTV.th" ,ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/tv5.png" tvg-id="TV5HD.th" ,TV5HD
-https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/NNxzCPk.png" tvg-id="News1.th" ,ASTV News 1
-http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/tsports.png" tvg-id="TSports7.th" ,T Sports 7
-https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/tptv.png" tvg-id="TPTV.th" ,TPTV
-https://edge6a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/8hYQIxS.png" tvg-id="NBT11Central.th" ,NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://imgur.com/XTFVUkP.png" tvg-id="NBT11North.th" ,NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://imgur.com/4kwV5Sy.png" tvg-id="NBT11NorthEast.th" ,NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://imgur.com/4K22fqQ.png" tvg-id="NBT11South.th" ,NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/S9SQm3Y.png" tvg-id="Channel8.th" ,Channel 8 (1080p)
-http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/tnn16.png" tvg-id="TNN16.th" ,TNN16
-https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/jkn18.png" tvg-id="JKN18.th" ,JKN 18
-https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" tvg-id="CoolChannel.th" ,Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/9kb7kPI.png" tvg-id="HappyTV65.th" ,Happy TV 65
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/dQ8heCZ.png" tvg-id="LidoChannel.th" ,Lido Channel
-https://n-edge-1-th.v2h-cdn.com/lido/lido/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/nation.png" tvg-id="NationTV.th" ,Nation TV
-https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/workpoint.png" tvg-id="Workpoint.th" ,Workpoint TV
-https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/true4u.png" tvg-id="True4U.th" ,True4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/gmm25.png" tvg-id="GMM25.th" ,GMM 25
-https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/GhboFGt.png" tvg-id="PoliceTV.th" ,Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/ch8.png" tvg-id="CH8.th" ,CH8
-https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/QfgNajz.png" tvg-id="SiamChannel.th" ,Siam Channel
-https://n-edge-1-th.v2h-cdn.com/siam/siam/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/mono29.png" tvg-id="MONO29.th" ,MONO29
-https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/mcot.png" tvg-id="MCOTHD.th" ,MCOT HD
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/one.png" tvg-id="ONE31.th" ,ONE 31
-https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/thairath.png" tvg-id="ThairathTV.th" ,Thairath TV
-https://edge2.thaicom.io/v3/tb/ThairathTV/playlist.m3u8?uuid=&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiIiwiZXhwIjoxNzIzMDQwNDYxLCJpYXQiOjE3MjMwMzMyNjEsInF1YWxpdHkiOiJBMSIsIm5iZiI6MTcyMzAzMzI2MSwiY2hhbm5lbCI6IlRoYWlyYXRoVFYifQ.dSP0bEtZCNabq-eKuZ72vw68Y6vgblFZmNYn-bnPB0Q
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/ch3.png" tvg-id="CH3.th" ,CH3 HD
-https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/amarin.png" tvg-id="AmarinTV.th" ,Amarin TV
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/ch7.png" tvg-id="Ch7HD.th" ,Ch7HD
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/pptv.png" tvg-id="PPTVHD.th" ,PPTV HD
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" tvg-id="CableChannel37.th" ,Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/topnews.png" tvg-id="TopNews.th" ,Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://i.imgur.com/uOfb3y1.png" tvg-id="ThaiChaiyo.th" ,Thai Chaiyo
-https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/tvb.png" tvg-id="TVBThai.th" ,TVB Thai
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-#EXTINF:-1 group-title="DigitalTV THAI" tvg-logo="https://iptv36.my.to/logo/boomerang.png" tvg-id="BoomerangThailand.th" ,Boomerang
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 ######### MOVIE24/7 #########
 
