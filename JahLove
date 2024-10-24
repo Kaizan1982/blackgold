@@ -641,8 +641,14 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png" , KOMPAS TV2
-https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://visionplus.id
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png", Kompas TV2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png" , KOMPAS TV3
+https://cempedak-fly-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://visionplus.id
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/metro.png", MetroTV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
