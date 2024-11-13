@@ -976,21 +976,6 @@ https://canale.mizhls.ru/lb/premium1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
-          ######### VOLLY ###########
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="VOLI", live
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
-https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0lZ06LNGUzs/hqdefault.jpg" group-title="VOLI", KOVO CUP 2024 - RED spark vs PINK spiders
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727884502/ei/dhj9ZvTBIcbA4-EPxseuyQ4/ip/103.160.205.150/id/0lZ06LNGUzs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxSMnwd5AMOPEtzau2ERT_TKSH5QyxY3nLV91_rmR1PiOM-UjX7UBwNpG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNpsBitfSFIuLikrmcqdxnv-SKCI_EYogl8eGzOz4sk8CIGi1iJuyhQb3adKcCyWaSP3cDJW5b4k9EuHEbiigipUt/file/index.m3u8
-
-
 
            ========ENTERTAINMENT=====
 
@@ -1689,6 +1674,48 @@ http://epg.112114.xyz/douyu/8770422
 http://epg.112114.xyz/douyu/8814650
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Douyu Movies",Douyu Movies 12
 http://epg.112114.xyz/douyu/20415
+
+                  ####### Airtel Movies ######
+
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1fd033abf53d08e75ac/images/97221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX" tvg-name="SONY Max" , SONY Max
+https://companion-live-play1.streamready.in/live/media1/sony_max/ndashd/sony_max.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"ItM+2Ied3W5O2gvubiBV8Q", "kid":"1G2VVpNDO5+SSfTf_W8Baw" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f584fe0772265fedff18/images/13221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_MAX_2" tvg-name="Sony Max 2" , Sony Max 2
+https://companion-live-play1.streamready.in/live/media14/sony_max_2/ndashd/sony_max_2.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"TypHhX1nJMhIUkR83LAnZQ", "kid":"wjcBUi3FOnijhp7msdLY9Q" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4d8033abf53d08e93a2/images/294221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_WAH" tvg-name="Sony Wah" , Sony Wah
+https://companion-live-play1.streamready.in/live/media14/sony_wah/ndashd/sony_wah.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"2LQP7a9dGPaccGHfz7+kBw", "kid":"bMrMPinkOPqqu8j3y40f5w" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f8effe0772265fee2350/images/179.webp" tvg-id="LIVETV_LIVETVCHANNEL_B4U_KADAK" tvg-name="B4U Kadak" , B4U Kadak
+https://companion-live-play1.streamready.in/live/media2/b4u_kadak/ndashd/b4u_kadak.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"T6Mon0cAe8k9FcAbrAllNA", "kid":"a1b9rjRSN7aQBS5QB_AO5Q" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef03dc5dfc4403f7a33a/images/650.webp" tvg-id="LIVETV_LIVETVCHANNEL_B4U_MOVIES" tvg-name="B4U Movies" , B4U Movies
+https://companion-live-play1.streamready.in/live/media1/b4u_movies/ndashd/b4u_movies.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"+EH_eeyhGuBgPqCBVbXMqA", "kid":"XEkgWMoMNmajcshMWjN5yQ" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef81033abf53d08e5b99/images/887.webp" tvg-id="LIVETV_LIVETVCHANNEL_MH_ONE_DIL_SE" tvg-name="MH One Dil Se" , MH One Dil Se
+https://companion-live-play1.streamready.in/live/media14/mh_one_dil_se/ndashd/mh_one_dil_se.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"50ZnpCocpGKLLWkavwR9Jg", "kid":"icJonKZ3MmiXYfw_tzoD2g" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6579791fac7f66229607bd43/images/277221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_PIX" tvg-name="SONY PIX" , SONY PIX
+https://companion-live-play1.streamready.in/live/media4/sony_pix/ndashd/sony_pix.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"nRDFK0an2Qm2nE1e31abWg", "kid":"t0SuDKuuOZi7+9d41TfwSQ" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c00debd2ee1bebbf9c51/images/503.webp" tvg-id="LIVETV_LIVETVCHANNEL_MOVIES_NOW" tvg-name="Movies Now" , Movies Now
+https://companion-live-play1.streamready.in/live/media3/movies_now/ndashd/movies_now.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"egITRG6imZlJJLIpd+0tRw", "kid":"ACnSf11EN4eQIOHNzchVvQ" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a046277849cc653ced0ed6/images/LANDSCAPE_169/LANDSCAPE_169_xL_ScvEc7_MN+_264x144.webp" tvg-id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" tvg-name="MN+" , MN+
+https://companion-live-play1.streamready.in/live/media6/mn_plus/ndashd/mn_plus.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"K5nRDbmfyK2FKDHlB22Sww", "kid":"OyOss5ALMBWaxY6MaNFYbg" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978ac9d8fb452ad919bd7/images/347.webp" tvg-id="LIVETV_LIVETVCHANNEL_ROMEDY_NOW" tvg-name="Romedy Now" , Romedy Now
+https://companion-live-play1.streamready.in/live/media3/romedy_now/ndashd/romedy_now.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"9gMUZUBaUZeaY1ZHfwmFVQ", "kid":"ECpwMqyBO7WWycUmHREY6A" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65a0462994ec8e00c48d19c3/images/LANDSCAPE_169/LANDSCAPE_169_PDye_Z5Fz_MNX_264x144.webp" tvg-id="LIVETV_LIVETVCHANNEL_MNX" tvg-name="MNX" , MNX
+https://companion-live-play1.streamready.in/live/media3/mnx/ndashd/mnx.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"OsqJnmGSx5Xt9pLYFyWnlw", "kid":"kZyVicnuM2+InyoKS_E9jw" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f968fe0772265fee2883/images/295.webp" tvg-id="LIVETV_LIVETVCHANNEL_FAKT_MARATHI" tvg-name="Fakt Marathi" , Fakt Marathi
+https://companion-live-play1.streamready.in/live/media2/fakt_marathi/ndashd/fakt_marathi.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"Y+dPORpVTIY2QgMaUs3cvQ", "kid":"l8Aqw3TaPViOv2lO6cKawA" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736f0c1cd2bb19dca31753/images/280.webp" tvg-id="LIVETV_LIVETVCHANNEL_PITAARA" tvg-name="Pitaara" , Pitaara
+https://companion-live-play1.streamready.in/live/media14/pitaara/ndashd/pitaara.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"UMKpZlzU2sKtWPnMp4FTGQ", "kid":"pPVXJSgoMMadS0nwvQlBHw" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572ef49fe0772265fedbf4c/images/307.webp" tvg-id="LIVETV_LIVETVCHANNEL_B4U_BHOJPURI" tvg-name="B4U Bhojpuri" , B4U Bhojpuri
+https://companion-live-play1.streamready.in/live/media1/b4u_bhojpuri/ndashd/b4u_bhojpuri.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"5Tqat9eOc6MY4OLP1pABrA", "kid":"KCDlxIA0M62xTIthiexRug" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-id="LIVETV_LIVETVCHANNEL_FILAMCHI_BHOJPURI" tvg-name="Filamchi Bhojpuri" , Filamchi Bhojpuri
+https://companion-live-play1.streamready.in/live/media14/filamchi_bhojpuri/ndashd/filamchi_bhojpuri.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"JR+PhyLsjB+9P4UCUieJ+w", "kid":"G5FfsoenOAqfxBcDkSpbSQ" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65776428359b7130a1f47c0a/images/354.webp" tvg-id="LIVETV_LIVETVCHANNEL_SIRIPPOLI" tvg-name="Sirippoli" , Sirippoli
+https://companion-live-play1.streamready.in/live/media4/sirippoli/ndashd/sirippoli.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"P6_24RD68_H6e02nUhbwzg", "kid":"cqEnrWrLNRuP4UfZmQ5Law" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/65736ee9d21a0c75770864e1/images/652.webp" tvg-id="LIVETV_LIVETVCHANNEL_J_MOVIES" tvg-name="J Movies" , J Movies
+https://companion-live-play1.streamready.in/live/media2/j_movies/ndashd/j_movies.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"DS7mCO2ay+Wq48q33oPMcA", "kid":"zwpnPuCeOKaX4BT00zdX6Q" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574c01be533e2124e757cf6/images/170.webp" tvg-id="LIVETV_LIVETVCHANNEL_MURASU" tvg-name="Murasu" , Murasu
+https://companion-live-play1.streamready.in/live/media3/murasu/ndashd/murasu.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"Sy8XfwKtxRSk39Ltr29J0Q", "kid":"c4LehzQZPM6HF916291lbw" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f43afe0772265fedf0d1/images/693.webp" tvg-id="LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES" tvg-name="PUBLIC MOVIES" , PUBLIC MOVIES
+https://companion-live-play1.streamready.in/live/media14/public_movies/ndashd/public_movies.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"3Da3j5Fls+0f9hN4H8I7_g", "kid":"T1QSe5rAO7aV5h3NusXx+w" }], "type":"temporary" }
+
 
                   ######### OLAHRAGA #########
 
