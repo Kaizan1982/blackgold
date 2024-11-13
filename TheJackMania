@@ -2251,6 +2251,23 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="OLAHRAGA",FOX SOCCER PLUS
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 
+              ######## AIRTEL SPORTS ########
+
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a125986346a8f0e23b/images/SONY-SPORTS-TEN-1_264x144.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1" tvg-name="SONY SPORTS TEN 1" , SONY SPORTS TEN 1
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_1/ndashd/sony_sports_ten_1.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"7LiPAOUPZDMxI8eKR+p10A", "kid":"bnlM7DO+NG20VEGEwLZ9xg" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b43/images/385221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2" tvg-name="SONY SPORTS TEN 2" , SONY SPORTS TEN 2
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_2/ndashd/sony_sports_ten_2.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"jAD2xTfkuHuvXWp9yYLkCQ", "kid":"N5A0RBI1N3ibSSX3niG21w" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a09d8fb452ad919b44/images/386221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3" tvg-name="SONY SPORTS TEN 3" , SONY SPORTS TEN 3
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"uyyZ12Txe3COfN1YeFNbTg", "kid":"7C0pjMWUPb+y_Rt11UxMmg" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a1c5625a16ee72e8ff/images/449221101.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5" tvg-name="SONY SPORTS TEN 5" , SONY SPORTS TEN 5
+https://companion-live-play1.streamready.in/live/media4/sony_sports_ten_5/ndashd/sony_sports_ten_5.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"_iDkeNcdZ8JIxng3tGkhGA", "kid":"qgzEgKMWN7yoe87Vo848dQ" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657610ee83bf8d2567aaca6a/images/667.webp" tvg-id="LIVETV_LIVETVCHANNEL_DD_SPORTS" tvg-name="DD Sports" , DD Sports
+https://companion-live-play1.streamready.in/live/media1/dd_sports/ndashd/dd_sports.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"KVJ5A6AUyxvcYqHLSGiH7g", "kid":"hDLw0wy4NAyet4I+oOUBqA" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6574bfe21d2c0e2cbafc1adb/images/19.webp" tvg-id="LIVETV_LIVETVCHANNEL_EUROSPORT" tvg-name="Eurosport" , Eurosport
+https://companion-live-play1.streamready.in/live/media11/eurosport/ndashd/eurosport.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"7Qntem0UgCbloFVfPjJjCg", "kid":"0p+cwlkoM6uDUi_6Azq3Hw" }], "type":"temporary" }
+#EXTINF:-1 group-title="Airtel | Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f16cdc5dfc4403f7beeb/images/LANDSCAPE_169/LANDSCAPE_169_1WRe-uvTy_Sony-sports-Ten-4_264x144.webp" tvg-id="LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_4" tvg-name="SONY SPORTS TEN 4" , SONY SPORTS TEN 4
+https://companion-live-play1.streamready.in/live/media13/sony_ten_4/ndashd/sony_ten_4.mpd|license_type=clearkey&license_key={"keys":[ { "kty":"oct", "k":"wsWgKR28UltSdKbH08qaGA", "kid":"na_wVhrENBetPnW4mwjuNA" }], "type":"temporary" }
+
 
               #########TNT SPORT########
 
