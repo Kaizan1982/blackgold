@@ -2213,6 +2213,13 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9379.ts
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FLIX.png/350px-FLIX.png" tvg-id="andflixhd.in" tvg-name="AND FLIX HD" ,& Flix HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/253.ts
 
+#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-chno="1295" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="PLATINUM MOVIE",NEW KMOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="PLATINUM MOVIE", NEW K.MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+
                  ######### DOYOU MOVIES #########
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Douyu Movies",Douyu Movies 01
