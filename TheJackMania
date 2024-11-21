@@ -1519,27 +1519,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
                   ####### BRI LIGA1 ########
 
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 1
-http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
-
-#EXTINF:-1 group-title="LIGA MAHAL" tvg-logo="https://ln.run/LigaBRI" ,LIVE 2
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|license_type=com.widevine.alpha&license_key=https://vid.kokokputik.my.id/iptv/visikey.php?id=1002&token=dedi&referrer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/F_cRe5KV6i5_b8MeMMN3yg/Fv2lucGIbhPi2caWYvF5Lg/1727447608222/live/sd-6MsDBFUQVn7qPhpwPZ/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL",LIVE 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ln.run/LigaBRI" group-title="LIGA MAHAL" ,LIVE 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 
 
            ========ENTERTAINMENT=====
