@@ -5119,23 +5119,641 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
+          ########## RUSS CHN ############
 
-
+#EXTINF:-1 group-title="Национальные" ,Інтер HD
+http://ott.watch/stream/A2Q8BAKW82/174.m3u8
+#EXTINF:-1 group-title="Национальные" ,ICTV HD
+http://ott.watch/stream/A2Q8BAKW82/158.m3u8
+#EXTINF:-1 group-title="Национальные" ,1+1 HD
+http://ott.watch/stream/A2Q8BAKW82/172.m3u8
+#EXTINF:-1 group-title="Национальные" ,1+1 Україна HD
+http://ott.watch/stream/A2Q8BAKW82/219.m3u8
+#EXTINF:-1 group-title="Национальные" ,К2 HD
+http://ott.watch/stream/A2Q8BAKW82/324.m3u8
+#EXTINF:-1 group-title="Национальные" ,UA: Київ HD
+http://ott.watch/stream/A2Q8BAKW82/439.m3u8
+#EXTINF:-1 group-title="Национальные" ,UA: Крим HD
+http://ott.watch/stream/A2Q8BAKW82/436.m3u8
+#EXTINF:-1 group-title="Национальные" ,UA: Перший HD
+http://ott.watch/stream/A2Q8BAKW82/437.m3u8
+#EXTINF:-1 group-title="Национальные" ,Zoom HD
+http://ott.watch/stream/A2Q8BAKW82/327.m3u8
+#EXTINF:-1 group-title="Национальные" ,Уніан HD
+http://ott.watch/stream/A2Q8BAKW82/341.m3u8
+#EXTINF:-1 group-title="Национальные" ,Channel 9 HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/20.m3u8
+#EXTINF:-1 group-title="Национальные" ,Channel 11 (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/293.m3u8
+#EXTINF:-1 group-title="Национальные" ,Channel 12 HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/294.m3u8
+#EXTINF:-1 group-title="Национальные" ,Channel 13 (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/295.m3u8
+#EXTINF:-1 group-title="Национальные" ,Channel 14 HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/454.m3u8
+#EXTINF:-1 group-title="Национальные" ,Zoom (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/377.m3u8
+#EXTINF:-1 group-title="Национальные" ,KAN23 (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/378.m3u8
+#EXTINF:-1 group-title="Национальные" ,YES Movies Action HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/380.m3u8
+#EXTINF:-1 group-title="Национальные" ,HOT Zone HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/379.m3u8
+#EXTINF:-1 group-title="Национальные" ,HOT HBO HD (Израиль)
+http://ott.watch/stream/A2Q8BAKW82/381.m3u8
+#EXTINF:-1 group-title="Национальные" ,7 канал (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/27.m3u8
+#EXTINF:-1 group-title="Национальные" ,31 Канал (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/388.m3u8
+#EXTINF:-1 group-title="Национальные" ,Qazaqstan (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/71.m3u8
+#EXTINF:-1 group-title="Национальные" ,Астана ТВ (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/28.m3u8
+#EXTINF:-1 group-title="Национальные" ,КТК (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/26.m3u8
+#EXTINF:-1 group-title="Национальные" ,НТК (Казахстан)
+http://ott.watch/stream/A2Q8BAKW82/389.m3u8
+#EXTINF:-1 group-title="Национальные" ,Armenia 1 TV (Армения)
+http://ott.watch/stream/A2Q8BAKW82/38.m3u8
+#EXTINF:-1 group-title="Национальные" ,Armenia TV HD (Армения)
+http://ott.watch/stream/A2Q8BAKW82/175.m3u8
+#EXTINF:-1 group-title="Национальные" ,Shant HD (Армения)
+http://ott.watch/stream/A2Q8BAKW82/37.m3u8
+#EXTINF:-1 group-title="Национальные" ,ATV HD (Армения)
+http://ott.watch/stream/A2Q8BAKW82/36.m3u8
+#EXTINF:-1 group-title="Национальные" ,Kentron HD (Армения)
+http://ott.watch/stream/A2Q8BAKW82/39.m3u8
+#EXTINF:-1 group-title="Национальные" ,TV3 Life HD (Латвия)
+http://ott.watch/stream/A2Q8BAKW82/373.m3u8
+#EXTINF:-1 group-title="Национальные" ,LTV 7 HD (Латвия)
+http://ott.watch/stream/A2Q8BAKW82/371.m3u8
+#EXTINF:-1 group-title="Национальные" ,TV 24 (Латвия)
+http://ott.watch/stream/A2Q8BAKW82/372.m3u8
+#EXTINF:-1 group-title="Национальные" ,LTV1 (Латвия)
+http://ott.watch/stream/A2Q8BAKW82/34.m3u8
+#EXTINF:-1 group-title="Национальные" ,LNK HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/30.m3u8
+#EXTINF:-1 group-title="Национальные" ,BTV HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/35.m3u8
+#EXTINF:-1 group-title="Национальные" ,LRT HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/31.m3u8
+#EXTINF:-1 group-title="Национальные" ,LRT Plius HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/353.m3u8
+#EXTINF:-1 group-title="Национальные" ,TV 8 HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/374.m3u8
+#EXTINF:-1 group-title="Национальные" ,TV3 HD (Литва)
+http://ott.watch/stream/A2Q8BAKW82/29.m3u8
+#EXTINF:-1 group-title="Национальные" ,Balticum (Литва)
+http://ott.watch/stream/A2Q8BAKW82/376.m3u8
+#EXTINF:-1 group-title="Национальные" ,TV 6 (Литва)
+http://ott.watch/stream/A2Q8BAKW82/375.m3u8
+#EXTINF:-1 group-title="Национальные" ,Молдова 1
+http://ott.watch/stream/A2Q8BAKW82/336.m3u8
+#EXTINF:-1 group-title="Национальные" ,RLive TV (Молдова)
+http://ott.watch/stream/A2Q8BAKW82/335.m3u8
+#EXTINF:-1 group-title="Национальные" ,Jurnal TV (Молдова)
+http://ott.watch/stream/A2Q8BAKW82/277.m3u8
 
 
           
-          ######### USA CH #########
+          ######### RUSS KNOWLEDGE #########
+
+#EXTINF:-1 group-title="Познавательные" ,Discovery HD
+http://ott.watch/stream/A2Q8BAKW82/177.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Investigation Discovery
+http://ott.watch/stream/A2Q8BAKW82/205.m3u8
+#EXTINF:-1 group-title="Познавательные" ,National Geographic HD
+http://ott.watch/stream/A2Q8BAKW82/116.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Nat Geo Wild HD
+http://ott.watch/stream/A2Q8BAKW82/149.m3u8
+#EXTINF:-1 group-title="Познавательные" ,History HD
+http://ott.watch/stream/A2Q8BAKW82/113.m3u8
+#EXTINF:-1 group-title="Познавательные" ,H2 HD
+http://ott.watch/stream/A2Q8BAKW82/65.m3u8
+#EXTINF:-1 group-title="Познавательные" ,TLC HD
+http://ott.watch/stream/A2Q8BAKW82/168.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Animal Planet HD
+http://ott.watch/stream/A2Q8BAKW82/114.m3u8
+#EXTINF:-1 group-title="Познавательные" ,RAZ 1 HD
+http://ott.watch/stream/A2Q8BAKW82/463.m3u8
+#EXTINF:-1 group-title="Познавательные" ,RAZ 2 HD
+http://ott.watch/stream/A2Q8BAKW82/464.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Глазами Туриста HD
+http://ott.watch/stream/A2Q8BAKW82/304.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Живи Активно HD
+http://ott.watch/stream/A2Q8BAKW82/132.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Наука 2.0 HD
+http://ott.watch/stream/A2Q8BAKW82/125.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Культура
+http://ott.watch/stream/A2Q8BAKW82/229.m3u8
+#EXTINF:-1 group-title="Познавательные" ,В мире животных HD
+http://ott.watch/stream/A2Q8BAKW82/241.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Мама
+http://ott.watch/stream/A2Q8BAKW82/79.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Доктор HD
+http://ott.watch/stream/A2Q8BAKW82/80.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Da Vinci
+http://ott.watch/stream/A2Q8BAKW82/238.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Viju Explore HD
+http://ott.watch/stream/A2Q8BAKW82/239.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Viju+ Planet HD
+http://ott.watch/stream/A2Q8BAKW82/240.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Viju History HD
+http://ott.watch/stream/A2Q8BAKW82/101.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Quiz TV HD
+http://ott.watch/stream/A2Q8BAKW82/397.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Соль ТВ HD
+http://ott.watch/stream/A2Q8BAKW82/398.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Чемодан ТВ HD
+http://ott.watch/stream/A2Q8BAKW82/399.m3u8
+#EXTINF:-1 group-title="Познавательные" ,365 дней ТВ
+http://ott.watch/stream/A2Q8BAKW82/70.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Моя планета HD
+http://ott.watch/stream/A2Q8BAKW82/124.m3u8
+#EXTINF:-1 group-title="Познавательные" ,RTG HD
+http://ott.watch/stream/A2Q8BAKW82/164.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Приключения HD
+http://ott.watch/stream/A2Q8BAKW82/198.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Travel channel HD
+http://ott.watch/stream/A2Q8BAKW82/231.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Travel+Adventure HD
+http://ott.watch/stream/A2Q8BAKW82/206.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Охота и рыбалка
+http://ott.watch/stream/A2Q8BAKW82/155.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Охотник и рыболов HD
+http://ott.watch/stream/A2Q8BAKW82/194.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Диалоги о рыбалке HD
+http://ott.watch/stream/A2Q8BAKW82/264.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Рибалка HD
+http://ott.watch/stream/A2Q8BAKW82/286.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Дикая Охота HD
+http://ott.watch/stream/A2Q8BAKW82/274.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Дикая Рыбалка HD
+http://ott.watch/stream/A2Q8BAKW82/275.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Дача HD
+http://ott.watch/stream/A2Q8BAKW82/370.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Усадьба
+http://ott.watch/stream/A2Q8BAKW82/211.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Живая природа HD
+http://ott.watch/stream/A2Q8BAKW82/225.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Живая планета
+http://ott.watch/stream/A2Q8BAKW82/83.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Кухня ТВ
+http://ott.watch/stream/A2Q8BAKW82/179.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Food Time HD
+http://ott.watch/stream/A2Q8BAKW82/216.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Авто24 HD
+http://ott.watch/stream/A2Q8BAKW82/78.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Авто Плюс HD
+http://ott.watch/stream/A2Q8BAKW82/186.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Моя стихия HD
+http://ott.watch/stream/A2Q8BAKW82/141.m3u8
+#EXTINF:-1 group-title="Познавательные" ,HDL HD
+http://ott.watch/stream/A2Q8BAKW82/161.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Insight TV HD
+http://ott.watch/stream/A2Q8BAKW82/361.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Мега HD
+http://ott.watch/stream/A2Q8BAKW82/325.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Трофей HD
+http://ott.watch/stream/A2Q8BAKW82/357.m3u8
+#EXTINF:-1 group-title="Познавательные" ,Нано ТВ HD
+http://ott.watch/stream/A2Q8BAKW82/419.m3u8
+
+           ########## RUSS MOVIES ##########
+
+#EXTINF:-1 group-title="Кино" ,Кинокомедия HD
+http://ott.watch/stream/A2Q8BAKW82/265.m3u8
+#EXTINF:-1 group-title="Кино" ,Киносемья HD
+http://ott.watch/stream/A2Q8BAKW82/170.m3u8
+#EXTINF:-1 group-title="Кино" ,Киносвидание HD
+http://ott.watch/stream/A2Q8BAKW82/171.m3u8
+#EXTINF:-1 group-title="Кино" ,Кинохит HD
+http://ott.watch/stream/A2Q8BAKW82/126.m3u8
+#EXTINF:-1 group-title="Кино" ,Киномикс HD
+http://ott.watch/stream/A2Q8BAKW82/133.m3u8
+#EXTINF:-1 group-title="Кино" ,Родное кино
+http://ott.watch/stream/A2Q8BAKW82/242.m3u8
+#EXTINF:-1 group-title="Кино" ,Индийское кино
+http://ott.watch/stream/A2Q8BAKW82/104.m3u8
+#EXTINF:-1 group-title="Кино" ,Мужское кино HD
+http://ott.watch/stream/A2Q8BAKW82/107.m3u8
+#EXTINF:-1 group-title="Кино" ,Киноужас HD
+http://ott.watch/stream/A2Q8BAKW82/278.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju TV 1000 HD
+http://ott.watch/stream/A2Q8BAKW82/110.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju TV 1000 Action HD
+http://ott.watch/stream/A2Q8BAKW82/100.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju+ Premiere HD
+http://ott.watch/stream/A2Q8BAKW82/202.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju+ Megahit HD
+http://ott.watch/stream/A2Q8BAKW82/200.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju+ Comedy HD
+http://ott.watch/stream/A2Q8BAKW82/201.m3u8
+#EXTINF:-1 group-title="Кино" ,Viju+ Serial HD
+http://ott.watch/stream/A2Q8BAKW82/311.m3u8
+#EXTINF:-1 group-title="Кино" ,Комедийное HD
+http://ott.watch/stream/A2Q8BAKW82/74.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia Premium HD
+http://ott.watch/stream/A2Q8BAKW82/151.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia 1 HD
+http://ott.watch/stream/A2Q8BAKW82/117.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia Hit HD
+http://ott.watch/stream/A2Q8BAKW82/162.m3u8
+#EXTINF:-1 group-title="Кино" ,Роман HD
+http://ott.watch/stream/A2Q8BAKW82/266.m3u8
+#EXTINF:-1 group-title="Кино" ,Бестселлер
+http://ott.watch/stream/A2Q8BAKW82/208.m3u8
+#EXTINF:-1 group-title="Кино" ,Детектив
+http://ott.watch/stream/A2Q8BAKW82/204.m3u8
+#EXTINF:-1 group-title="Кино" ,Комедия
+http://ott.watch/stream/A2Q8BAKW82/68.m3u8
+#EXTINF:-1 group-title="Кино" ,Comedy Central
+http://ott.watch/stream/A2Q8BAKW82/167.m3u8
+#EXTINF:-1 group-title="Кино" ,black HD
+http://ott.watch/stream/A2Q8BAKW82/263.m3u8
+#EXTINF:-1 group-title="Кино" ,Время
+http://ott.watch/stream/A2Q8BAKW82/237.m3u8
+#EXTINF:-1 group-title="Кино" ,red HD
+http://ott.watch/stream/A2Q8BAKW82/69.m3u8
+#EXTINF:-1 group-title="Кино" ,sci-fi HD
+http://ott.watch/stream/A2Q8BAKW82/180.m3u8
+#EXTINF:-1 group-title="Кино" ,Наше HD
+http://ott.watch/stream/A2Q8BAKW82/217.m3u8
+#EXTINF:-1 group-title="Кино" ,Душевное HD
+http://ott.watch/stream/A2Q8BAKW82/213.m3u8
+#EXTINF:-1 group-title="Кино" ,КиноТВ HD
+http://ott.watch/stream/A2Q8BAKW82/221.m3u8
+#EXTINF:-1 group-title="Кино" ,Кинопоказ HD
+http://ott.watch/stream/A2Q8BAKW82/64.m3u8
+#EXTINF:-1 group-title="Кино" ,Cinema HD
+http://ott.watch/stream/A2Q8BAKW82/62.m3u8
+#EXTINF:-1 group-title="Кино" ,НСТ
+http://ott.watch/stream/A2Q8BAKW82/207.m3u8
+#EXTINF:-1 group-title="Кино" ,Еврокино HD
+http://ott.watch/stream/A2Q8BAKW82/385.m3u8
+#EXTINF:-1 group-title="Кино" ,Fox HD
+http://ott.watch/stream/A2Q8BAKW82/182.m3u8
+#EXTINF:-1 group-title="Кино" ,Fox Life HD
+http://ott.watch/stream/A2Q8BAKW82/129.m3u8
+#EXTINF:-1 group-title="Кино" ,ТВ XXI
+http://ott.watch/stream/A2Q8BAKW82/152.m3u8
+#EXTINF:-1 group-title="Кино" ,Plan B HD
+http://ott.watch/stream/A2Q8BAKW82/196.m3u8
+#EXTINF:-1 group-title="Кино" ,Остросюжетное HD
+http://ott.watch/stream/A2Q8BAKW82/214.m3u8
+#EXTINF:-1 group-title="Кино" ,Дом Кино
+http://ott.watch/stream/A2Q8BAKW82/236.m3u8
+#EXTINF:-1 group-title="Кино" ,Дом Кино Премиум HD
+http://ott.watch/stream/A2Q8BAKW82/108.m3u8
+#EXTINF:-1 group-title="Кино" ,Hollywood HD
+http://ott.watch/stream/A2Q8BAKW82/268.m3u8
+#EXTINF:-1 group-title="Кино" ,НТВ Сериал
+http://ott.watch/stream/A2Q8BAKW82/301.m3u8
+#EXTINF:-1 group-title="Кино" ,Телекафе
+http://ott.watch/stream/A2Q8BAKW82/314.m3u8
+#EXTINF:-1 group-title="Кино" ,24Техно
+http://ott.watch/stream/A2Q8BAKW82/209.m3u8
+#EXTINF:-1 group-title="Кино" ,Наше мужское HD
+http://ott.watch/stream/A2Q8BAKW82/362.m3u8
+#EXTINF:-1 group-title="Кино" ,Блокбастер HD
+http://ott.watch/stream/A2Q8BAKW82/364.m3u8
+#EXTINF:-1 group-title="Кино" ,Star Cinema HD
+http://ott.watch/stream/A2Q8BAKW82/310.m3u8
+#EXTINF:-1 group-title="Кино" ,Star Family HD
+http://ott.watch/stream/A2Q8BAKW82/226.m3u8
+#EXTINF:-1 group-title="Кино" ,Kino 1 HD
+http://ott.watch/stream/A2Q8BAKW82/395.m3u8
+#EXTINF:-1 group-title="Кино" ,Kino 2 HD
+http://ott.watch/stream/A2Q8BAKW82/465.m3u8
+#EXTINF:-1 group-title="Кино" ,Твій Серіал HD
+http://ott.watch/stream/A2Q8BAKW82/466.m3u8
+#EXTINF:-1 group-title="Кино" ,Шокирующее HD
+http://ott.watch/stream/A2Q8BAKW82/75.m3u8
+#EXTINF:-1 group-title="Кино" ,Хит HD
+http://ott.watch/stream/A2Q8BAKW82/363.m3u8
+#EXTINF:-1 group-title="Кино" ,Enter-фільм HD
+http://ott.watch/stream/A2Q8BAKW82/322.m3u8
+#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция HD
+http://ott.watch/stream/A2Q8BAKW82/369.m3u8
+#EXTINF:-1 group-title="Кино" ,Премиальное HD
+http://ott.watch/stream/A2Q8BAKW82/421.m3u8
+#EXTINF:-1 group-title="Кино" ,Ретро
+http://ott.watch/stream/A2Q8BAKW82/191.m3u8
+#EXTINF:-1 group-title="Кино" ,FAN HD
+http://ott.watch/stream/A2Q8BAKW82/420.m3u8
+#EXTINF:-1 group-title="Кино" ,Kinosweet HD
+http://ott.watch/stream/A2Q8BAKW82/447.m3u8
+#EXTINF:-1 group-title="Кино" ,Дорама HD
+http://ott.watch/stream/A2Q8BAKW82/412.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan HD
+http://ott.watch/stream/A2Q8BAKW82/349.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Top HD
+http://ott.watch/stream/A2Q8BAKW82/350.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman Premium HD
+http://ott.watch/stream/A2Q8BAKW82/470.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman Катастрофы HD
+http://ott.watch/stream/A2Q8BAKW82/471.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman Мелодрама HD
+http://ott.watch/stream/A2Q8BAKW82/472.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Action HD
+http://ott.watch/stream/A2Q8BAKW82/351.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Thriller HD
+http://ott.watch/stream/A2Q8BAKW82/352.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Marvel HD
+http://ott.watch/stream/A2Q8BAKW82/354.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Ужасы HD
+http://ott.watch/stream/A2Q8BAKW82/355.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Comedy HD
+http://ott.watch/stream/A2Q8BAKW82/356.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman VHS HD
+http://ott.watch/stream/A2Q8BAKW82/474.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman Скорая помощь HD
+http://ott.watch/stream/A2Q8BAKW82/475.m3u8
+#EXTINF:-1 group-title="Кино" ,Cineman Ментовские войны HD
+http://ott.watch/stream/A2Q8BAKW82/477.m3u8
+#EXTINF:-1 group-title="Кино" ,CineMan Сваты HD
+http://ott.watch/stream/A2Q8BAKW82/359.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Rating HD
+http://ott.watch/stream/A2Q8BAKW82/422.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Cinema HD
+http://ott.watch/stream/A2Q8BAKW82/423.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Premiere HD
+http://ott.watch/stream/A2Q8BAKW82/424.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Comedy HD
+http://ott.watch/stream/A2Q8BAKW82/426.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Family HD
+http://ott.watch/stream/A2Q8BAKW82/427.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh VHS HD
+http://ott.watch/stream/A2Q8BAKW82/428.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Fantastic HD
+http://ott.watch/stream/A2Q8BAKW82/429.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Series HD
+http://ott.watch/stream/A2Q8BAKW82/430.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Horror HD
+http://ott.watch/stream/A2Q8BAKW82/431.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Adventure HD
+http://ott.watch/stream/A2Q8BAKW82/432.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Romantic HD
+http://ott.watch/stream/A2Q8BAKW82/433.m3u8
+#EXTINF:-1 group-title="Кино" ,Fresh Thriller HD
+http://ott.watch/stream/A2Q8BAKW82/434.m3u8
 
 
+           ########## RUSS KIDS #########
 
-########## JIRAN CHANNEL ##########
+#EXTINF:-1 group-title="RUSS KIDS" ,Nickelodeon UA HD
+http://ott.watch/stream/A2Q8BAKW82/127.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Nickelodeon
+http://ott.watch/stream/A2Q8BAKW82/443.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Nick Jr
+http://ott.watch/stream/A2Q8BAKW82/220.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Солнце
+http://ott.watch/stream/A2Q8BAKW82/118.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,TiJi
+http://ott.watch/stream/A2Q8BAKW82/111.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Мульт HD
+http://ott.watch/stream/A2Q8BAKW82/232.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Мульт и музыка
+http://ott.watch/stream/A2Q8BAKW82/82.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,JimJam
+http://ott.watch/stream/A2Q8BAKW82/150.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Капитан Фантастика HD
+http://ott.watch/stream/A2Q8BAKW82/144.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Карусель
+http://ott.watch/stream/A2Q8BAKW82/120.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,В гостях у сказки HD
+http://ott.watch/stream/A2Q8BAKW82/93.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Канал О!
+http://ott.watch/stream/A2Q8BAKW82/60.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Gulli Girl
+http://ott.watch/stream/A2Q8BAKW82/305.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Ani
+http://ott.watch/stream/A2Q8BAKW82/306.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Піксель HD
+http://ott.watch/stream/A2Q8BAKW82/323.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Fresh Kids HD
+http://ott.watch/stream/A2Q8BAKW82/425.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Cartoons Short HD
+http://ott.watch/stream/A2Q8BAKW82/347.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Cartoons Big HD
+http://ott.watch/stream/A2Q8BAKW82/348.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Cineman Симпсоны HD
+http://ott.watch/stream/A2Q8BAKW82/476.m3u8
+#EXTINF:-1 group-title="RUSS KIDS" ,Cartoons 90 HD
+http://ott.watch/stream/A2Q8BAKW82/484.m3u8
 
 
-########## EUROFA SPORT #########
+           ########## SPORTS RUSSIA ##########
 
+#EXTINF:-1 group-title="SPORTS RUSS" ,Eurosport 1 HD
+http://ott.watch/stream/A2Q8BAKW82/176.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Eurosport 2 HD
+http://ott.watch/stream/A2Q8BAKW82/192.m3u8
+#EXTINF:-1 group-title="SPORTS. RUSS" ,Матч! Футбол 1 HD
+http://ott.watch/stream/A2Q8BAKW82/130.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! Футбол 2 HD
+http://ott.watch/stream/A2Q8BAKW82/142.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! Футбол 3 HD
+http://ott.watch/stream/A2Q8BAKW82/185.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! Игра HD
+http://ott.watch/stream/A2Q8BAKW82/188.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! СТРАНА HD
+http://ott.watch/stream/A2Q8BAKW82/143.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! Арена HD
+http://ott.watch/stream/A2Q8BAKW82/163.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч ТВ HD
+http://ott.watch/stream/A2Q8BAKW82/169.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч! Боец HD
+http://ott.watch/stream/A2Q8BAKW82/112.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Матч Премьер HD
+http://ott.watch/stream/A2Q8BAKW82/193.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Setanta Sports 1 HD
+http://ott.watch/stream/A2Q8BAKW82/234.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Setanta Sports 2 HD
+http://ott.watch/stream/A2Q8BAKW82/235.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Setanta Sports HD UA
+http://ott.watch/stream/A2Q8BAKW82/313.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Setanta Sports+ HD
+http://ott.watch/stream/A2Q8BAKW82/390.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Sport 1 Baltic
+http://ott.watch/stream/A2Q8BAKW82/461.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Sport 1
+http://ott.watch/stream/A2Q8BAKW82/391.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Sport 2
+http://ott.watch/stream/A2Q8BAKW82/392.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Sport 3 HD
+http://ott.watch/stream/A2Q8BAKW82/393.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Sport 4
+http://ott.watch/stream/A2Q8BAKW82/394.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,UPL.TV HD
+http://ott.watch/stream/A2Q8BAKW82/469.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Dynamo Kyiv TV HD
+http://ott.watch/stream/A2Q8BAKW82/396.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,KHL ТВ
+http://ott.watch/stream/A2Q8BAKW82/166.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,KHL Prime HD
+http://ott.watch/stream/A2Q8BAKW82/178.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Viju+ Sport HD
+http://ott.watch/stream/A2Q8BAKW82/333.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,TV 3 Sport HD LT
+http://ott.watch/stream/A2Q8BAKW82/416.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Бокс ТВ
+http://ott.watch/stream/A2Q8BAKW82/154.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Беларусь 5 HD
+http://ott.watch/stream/A2Q8BAKW82/33.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Extreme Sports
+http://ott.watch/stream/A2Q8BAKW82/148.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,X Sport Plus HD
+http://ott.watch/stream/A2Q8BAKW82/332.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Экстрим HD
+http://ott.watch/stream/A2Q8BAKW82/285.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,UDAR HD
+http://ott.watch/stream/A2Q8BAKW82/279.m3u8
+#EXTINF:-1 group-title="SPORTS RUSS" ,Qazsport
+http://ott.watch/stream/A2Q8BAKW82/72.m3u8
 
-########## FR SPORTS ##########
+           ######### NEWS RUSSIA #########
 
+#EXTINF:-1 group-title="NEWS RUSS" ,Настоящее время HD
+http://ott.watch/stream/A2Q8BAKW82/384.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,EuroNews
+http://ott.watch/stream/A2Q8BAKW82/189.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,Deutsche Welle HD
+http://ott.watch/stream/A2Q8BAKW82/440.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,BBC News HD UK
+http://ott.watch/stream/A2Q8BAKW82/85.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,Рада HD
+http://ott.watch/stream/A2Q8BAKW82/382.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,Еспресо HD
+http://ott.watch/stream/A2Q8BAKW82/84.m3u8
+#EXTINF:-1 group-title="NEES RUSS" ,24 Канал HD
+http://ott.watch/stream/A2Q8BAKW82/462.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,FreeДОМ HD
+http://ott.watch/stream/A2Q8BAKW82/63.m3u8
+#EXTINF:-1 group-title="NEWS RUSS" ,Ukraine World News HD
+http://ott.watch/stream/A2Q8BAKW82/441.m3u8
+
+           ######### RUSSIA ############
+
+#EXTINF:-1 group-title="Развлекательные" ,ТВ3 HD
+http://ott.watch/stream/A2Q8BAKW82/136.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Пятница! HD
+http://ott.watch/stream/A2Q8BAKW82/181.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Суббота! HD
+http://ott.watch/stream/A2Q8BAKW82/269.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Ю
+http://ott.watch/stream/A2Q8BAKW82/230.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,2х2
+http://ott.watch/stream/A2Q8BAKW82/187.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Перец International
+http://ott.watch/stream/A2Q8BAKW82/121.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Fashion ONE HD
+http://ott.watch/stream/A2Q8BAKW82/119.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Сарафан
+http://ott.watch/stream/A2Q8BAKW82/81.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Вопросы и ответы
+http://ott.watch/stream/A2Q8BAKW82/76.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ТНТ HD
+http://ott.watch/stream/A2Q8BAKW82/135.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ТНТ4 HD
+http://ott.watch/stream/A2Q8BAKW82/106.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ТНТ(+2)
+http://ott.watch/stream/A2Q8BAKW82/97.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,СТС HD
+http://ott.watch/stream/A2Q8BAKW82/138.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,СТС Love
+http://ott.watch/stream/A2Q8BAKW82/183.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Домашний HD
+http://ott.watch/stream/A2Q8BAKW82/227.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Інтер+ HD
+http://ott.watch/stream/A2Q8BAKW82/345.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Новий канал HD
+http://ott.watch/stream/A2Q8BAKW82/157.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ICTV 2 HD
+http://ott.watch/stream/A2Q8BAKW82/368.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,СТБ HD
+http://ott.watch/stream/A2Q8BAKW82/156.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,2+2 HD
+http://ott.watch/stream/A2Q8BAKW82/173.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,FILMUADRAMA HD
+http://ott.watch/stream/A2Q8BAKW82/273.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,UA: Культура HD
+http://ott.watch/stream/A2Q8BAKW82/435.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,К1 HD
+http://ott.watch/stream/A2Q8BAKW82/270.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ТЕТ HD
+http://ott.watch/stream/A2Q8BAKW82/338.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,1+1 International
+http://ott.watch/stream/A2Q8BAKW82/105.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ОЦЕ HD
+http://ott.watch/stream/A2Q8BAKW82/329.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Кус-кус HD
+http://ott.watch/stream/A2Q8BAKW82/195.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,НТН HD
+http://ott.watch/stream/A2Q8BAKW82/326.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,36.6 HD
+http://ott.watch/stream/A2Q8BAKW82/331.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Квартал ТВ
+http://ott.watch/stream/A2Q8BAKW82/321.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Дім HD
+http://ott.watch/stream/A2Q8BAKW82/383.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Bolt HD
+http://ott.watch/stream/A2Q8BAKW82/73.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,ПлюсПлюс HD
+http://ott.watch/stream/A2Q8BAKW82/339.m3u8
+#EXTINF:-1 group-title="Развлекательные" ,Бiгудi
+http://ott.watch/stream/A2Q8BAKW82/340.m3u8
+
+           ########## RUSS MUSIC ###########
+
+#EXTINF:-1 group-title="Музыкальные" ,Stingray iConcerts HD
+http://ott.watch/stream/A2Q8BAKW82/267.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Stingray CMusic HD
+http://ott.watch/stream/A2Q8BAKW82/312.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,М1 HD
+http://ott.watch/stream/A2Q8BAKW82/218.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,М2 HD
+http://ott.watch/stream/A2Q8BAKW82/330.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,BRIDGE DELUXE HD
+http://ott.watch/stream/A2Q8BAKW82/92.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,BRIDGE CLASSIC
+http://ott.watch/stream/A2Q8BAKW82/272.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,BRIDGE
+http://ott.watch/stream/A2Q8BAKW82/318.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,BRIDGE ХИТ
+http://ott.watch/stream/A2Q8BAKW82/320.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Music Box
+http://ott.watch/stream/A2Q8BAKW82/319.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Europa Plus TV HD
+http://ott.watch/stream/A2Q8BAKW82/184.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Inrating HD
+http://ott.watch/stream/A2Q8BAKW82/147.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,МУЗВАР HD
+http://ott.watch/stream/A2Q8BAKW82/467.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,MTV Hits
+http://ott.watch/stream/A2Q8BAKW82/302.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,MTV Live HD
+http://ott.watch/stream/A2Q8BAKW82/215.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,MTV 00s
+http://ott.watch/stream/A2Q8BAKW82/165.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,MTV 90s
+http://ott.watch/stream/A2Q8BAKW82/88.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,MTV 80s
+http://ott.watch/stream/A2Q8BAKW82/87.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Музыка Первого
+http://ott.watch/stream/A2Q8BAKW82/153.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Муз-ТВ HD
+http://ott.watch/stream/A2Q8BAKW82/86.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Жара HD
+http://ott.watch/stream/A2Q8BAKW82/386.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,RU.TV
+http://ott.watch/stream/A2Q8BAKW82/109.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Mezzo Live HD
+http://ott.watch/stream/A2Q8BAKW82/276.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,Ля-минор ТВ
+http://ott.watch/stream/A2Q8BAKW82/303.m3u8
+#EXTINF:-1 group-title="Музыкальные" ,ТНТ MUSIC
+http://ott.watch/stream/A2Q8BAKW82/317.m3u8
 
 
            ######### TYC SPORTS #########
