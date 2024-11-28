@@ -1302,8 +1302,12 @@ https://1s1.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/mnc.png" group-title="NASIONAL",MNCTV+ ᴴᴰ
 https://1s1.rctiplus.id/mnctv2023.m3u8
 
-#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://guki.my.id/logo/lokal/inews.png" group-title="NASIONAL", INEWS+ ᴴᴰ
-https://1s1.rctiplus.id/inews2023.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/inews.png", iNews V+
+http://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 
          ========== EMTEK GROUP ==========
 
