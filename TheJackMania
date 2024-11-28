@@ -2021,7 +2021,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI" tvg-logo="https://guki.my.id/logo/movie/cinemachi.png" group-title="PLATINUM MOVIES",CINEMACHI
+#EXTINF:-1 tvg-name="CINEMACHI" tvg-logo="https://guki.my.id/logo/movie/cinemachi.png" group-title="PLATINUM MOVIE",CINEMACHI
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/cinemachikids.png",Cinemachi Kids
@@ -2082,7 +2082,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://guki.my.id/logo/movie/axn.png" group-title="PLATINUM MOVIES", AXN 
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://guki.my.id/logo/movie/axn.png" group-title="PLATINUM MOVIE", AXN 
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2110,13 +2110,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CCM" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/ccm.png" group-title="PLATINUM MOVIES",CCM
+#EXTINF:-1 tvg-name="CCM" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/ccm.png" group-title="PLATINUM MOVIE",CCM
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://guki.my.id/logo/movie/celmov.png" group-title="PLATINUM MOVIES",CELESTIAL MOVIES (V+)
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://guki.my.id/logo/movie/celmov.png" group-title="PLATINUM MOVIE",CELESTIAL MOVIES (V+)
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/zeebio.jpg", Zee Bioskop 
