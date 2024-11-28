@@ -2405,6 +2405,10 @@ https://canale.mizhls.ru/lb/premium78/playlist.m3u8
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="OLAHRAGA",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv" group-title="OLAHRAGA",TVRI SPORTS HD
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="OLAHRAGA",SporTV 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
