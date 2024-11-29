@@ -5791,3 +5791,97 @@ https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/in
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 
+           ########## TAIWAN TV ##########
+
+#EXTINF:-1 group-title="Taiwan",DW
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="Taiwan",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="Taiwan",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="Taiwan",亚洲新闻台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="Taiwan",亚洲新闻台
+http://live.lordstreams.co:8080//832396166/1982148236/659605
+#EXTINF:-1 group-title="Taiwan",亚洲新闻台
+http://iptvtree.net:8080//F18819/6eb39c7d/157524
+#EXTINF:-1 group-title="Taiwan",亚洲新闻台
+http://mohdtv.com:8880//voby3837/28337929/71065
+#EXTINF:-1 group-title="Taiwan",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="Taiwan",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="Taiwan",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="Taiwan",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="Taiwan",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="Taiwan",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="Taiwan",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="Taiwan",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="Taiwan",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="Taiwan",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="Taiwan",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="Taiwan",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="Taiwan",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="Taiwan",緯來體育
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",三立台灣
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",CN卡通
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",TVBS新聞
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",食尚玩家
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",三立新聞
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",BBC new
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="Taiwan",CNN new
+http://125.227.210.55:8166/VideoInput/play.ts
+
+#EXTINF:-1 group-title="Taiwan",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="Taiwan",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="Taiwan",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="Taiwan",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="Taiwan",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="Taiwan",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="Taiwan",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="Taiwan",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="Taiwan",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="Taiwan",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="Taiwan",ELTA体育3
+rtmp://9hv9.mine.nu/sat/md011
+#EXTINF:-1 group-title="Taiwan",ELTA体育4
+rtmp://9hv9.mine.nu/sat/md021
+#EXTINF:-1 group-title="Taiwan",DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="Taiwan",DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="Taiwan",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="Taiwan",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+
