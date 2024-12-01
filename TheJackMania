@@ -2151,7 +2151,8 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/957
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/51/5c/51/515c51b8a06294c2e629fb57405fa85c.jpg" group-title="PLATINUM MOVIE", REDBOX
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
@@ -2160,7 +2161,8 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop_indonesia.png" ,Bioskop Indonesia
-http://opplex.tv:8080/3116580700/0700/350906
+#http://opplex.tv:8080/3116580700/0700/350906
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/908
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-id="flik.id" tvg-logo="https://i.pinimg.com/236x/6a/99/df/6a99dfae68de322e078a456952378465.jpg",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2168,7 +2170,8 @@ http://opplex.tv:8080/3116580700/0700/350906
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/flik.png" ,FLIK
-http://opplex.tv:8080/3116580700/0700/350947
+#http://opplex.tv:8080/3116580700/0700/350947
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PLATINUM MOVIE",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -2205,7 +2208,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/warner.jpg" ,Warner TV
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png" tvg-id="starmovieshd.in" ,Star Movies
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9384.ts
