@@ -1612,6 +1612,9 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400159477.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400232356.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/1280px-FashionTV2019novo.png" group-title="ENTERTAINMENT",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+
              ########## NEWS ##########
 
 #EXTINF:-1 group-title="NEWS" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1024px-BBC_News_2022_%28Alt%29.svg.png",BBC World News
@@ -1955,6 +1958,13 @@ https://canale.mizhls.ru/lb/31/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="DISCOVERY", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iili.io/JpiQj8x.jpg" group-title="DISCOVERY",Love Nature CHN
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LOGO_CMYK印刷色_03.svg/1280px-LOGO_CMYK印刷色_03.svg.png" group-title="DISCOVERY",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+
                ===========MOVE PREMIUM=======
 
 #EXTINF:-1 tvg-id="IMC (Indonesia Movie Channel).id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54xdstkj7RPrJEd_LE2bJEECLMJ26GHHfcWSbCMANA-jyYuv8Gka1fQos&amp;s=10" group-title="PLATINUM MOVIE",IMC 
@@ -2209,6 +2219,12 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="PLATINUM MOVIE",MONO29
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/My_Movie_Channel_official_slogan.jpg" group-title="PLATINUM MOVIE",New Movies
+https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ondemandchina.com/images/logo.png" group-title="PLATINUM MOVIE",Ondemand China
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 
                  ######### DOYOU MOVIES #########
 
@@ -5066,8 +5082,11 @@ https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 tvg-id="BoomerangThailand.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="BOCAH",Boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://chalkacademy.com/wp-content/uploads/2023/12/小行星樂樂TV-1024x576.jpg" group-title="BOCAH",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+          
 
-          ######### SPORTS M4TCH RUSSIA #########
+######### SPORTS M4TCH RUSSIA #########
 
 #EXTINF:-1 tvg-id="RU" tvg-logo=" " group-title="M4TCH",M4TCH1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
