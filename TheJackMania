@@ -2658,7 +2658,69 @@ http://iptvtree.net:8080/F14995/a84c0963/162591
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://warningfm.github.io/v3/img/pmnxhBQ.png?v=1.0.0.1" tvg-id="Fight Sports HD" tvg-name="Fight Sports HD", Fight Sports HD
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj&referrer=https://www.visionplus.id/
 
-           ######### CHAMP TV #########
+           ######### USA SPORTS #########
+
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-id="ACC.Network.us" tvg-name="ACC NETWORK" ,ACC NETWORK
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-name="BEIN SPORTS" ,BEIN SPORTS
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us" tvg-name="Big Ten Network HD" ,Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS SPORTS NETWORK" ,CBS SPORTS NETWORK
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-id="ESPN.us" tvg-name="ESPN" ,ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-id="ESPN2.us" tvg-name="ESPN 2" ,ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-id="ESPN.News.us" tvg-name="ESPN NEWS" ,ESPN NEWS
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-id="ESPNU.On.Demand.us" tvg-name="ESPN U" ,ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" tvg-id="FOX.Soccer.Plus.us" tvg-name="FOX SOCCER PLUS" ,FOX SOCCER PLUS
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-id="Fox.Sports.1.us" tvg-name="FS1" ,FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-id="Fox.Sports.2.us" tvg-name="FS2" ,FS2
+http://streamsy.online:2999/venomj/EmoOmOskzq/264
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" tvg-id="MavTV.USA.us" tvg-name="MAVTV" ,MAVTV
+http://fl2.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-id="MLB.Network.us" tvg-name="MLB Network" ,MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" ,NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-id="Golf.Channel.USA.us" tvg-name="NBC Golf" ,NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="NFL.Network.us" tvg-name="NFL Network" ,NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" ,NFL RedZone
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" ,NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-id="OutsideTelevision.us" tvg-name="OUTSIDE TV" ,OUTSIDE TV
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-id="Pursuit.Channel.us" tvg-name="Pursuit Channel" ,Pursuit Channel
+http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-id="SEC.Network.us" tvg-name="SEC Network" ,SEC Network
+http://streamsy.online:2999/venomj/EmoOmOskzq/295
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-id="Sportsman.Channel.us" tvg-name="Sportsman Channel" ,Sportsman Channel
+http://fl2.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-id="plex.tv.Stadium.plex" tvg-name="Stadium" ,Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-id="The.Tennis.Channel.us" tvg-name="Tennis Channel" ,Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-id="TSN1.ca" tvg-name="TSN 1" ,TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-id="TSN2.ca" tvg-name="TSN 2" ,TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-id="TSN3.ca" tvg-name="TSN 3" ,TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-id="TSN4.ca" tvg-name="TSN 4" ,TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-id="TSN5.ca" tvg-name="TSN 5" ,TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YES Network" ,YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
 
 
            ######### SPORTS ZIONIST #########
