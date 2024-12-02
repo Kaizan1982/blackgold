@@ -2285,6 +2285,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 group-title="PLATINUM MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="PLATINUM MOVIE",Sony Pix
+#http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
+#http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.imgur.com/wcApTHn.jpg" tvg-id="sonypixhd.in" ,1 Sony Pix hd
 http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02:91
 
@@ -2292,11 +2298,16 @@ http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
 
-#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png" tvg-id="starmovieshd.in" ,Star Movies
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9384.ts
+#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png",Star Movies HD
+#http://xtv.ooo:8080/359052742/470428329/66213
+#http://tv.cloudcdn.me/live.ts?channelId=198&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66213.ts
 
-#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/360px-STAR_Movies_logo.svg.png" tvg-id="starmoviesselecthd.in" ,Star Movies Select HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/218.ts
+#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/360px-STAR_Movies_logo.svg.png",Star Movies Select HD
+#http://14.102.123.50:8200/play/a04d
+#http://tv.cloudcdn.me/live.ts?channelId=199&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66315.ts
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26privé_HD.svg/400px-%26privé_HD.svg.png" tvg-id="andprimehd.in" tvg-name="AND PRIME HD" ,& PriVe HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9379.ts
