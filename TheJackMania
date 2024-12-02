@@ -2213,7 +2213,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://guki.my.id/logo/movie/celmov.png" group-title="PLATINUM MOVIE",CELESTIAL MOVIES (V+)
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://guki.my.id/logo/movie/celmov.png" group-title="PLATINUM MOVIE",CELESTIAL MOVIES
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/zeebio.jpg", Zee Bioskop 
@@ -2297,7 +2297,7 @@ http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/1533
 
-#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.ibb.co/YNRhYwy/Picsart-24-02-24-08-03-20-802.png",Star Movies HD
+#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/440px-STAR_Movies_logo.svg.png",Star Movies HD
 #http://xtv.ooo:8080/359052742/470428329/66213
 #http://tv.cloudcdn.me/live.ts?channelId=198&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/66213.ts
