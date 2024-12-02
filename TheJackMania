@@ -2285,11 +2285,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:-1 group-title="PLATINUM MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="PLATINUM MOVIE",Sony Pix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg" group-title="PLATINUM MOVIE", Sony Pix
 #http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
 #http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
-
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.imgur.com/wcApTHn.jpg" tvg-id="sonypixhd.in" ,1 Sony Pix hd
 http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02:91
