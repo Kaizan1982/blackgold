@@ -6086,17 +6086,17 @@ https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.co
 
               ############ ASTROX SPORTS #############
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="OLAHRAGA", Arena Bola
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="OLAHRAGA", Arena Bola1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/6
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="OLAHRAGA", Arena Bola 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/7
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="OLAHRAGA", PremierLeague
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="OLAHRAGA", PremierLeague1
 http://perfecttv.net:8080/Perfecttv/Perfecttv/8
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="OLAHRAGA", PremierLeague 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/9
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="OLAHRAGA", Astro Grandstand
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="OLAHRAGA",Arena Bola 1_
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="OLAHRAGA",Arena Bola 10
 http://31.42.187.37:25461/watchpad13158/1234/4648
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="OLAHRAGA",Arena Bola 1(backup)
 http://31.42.187.37:25461/watchpad13158/1234/11483
@@ -6112,17 +6112,17 @@ http://31.42.187.37:25461/watchpad13158/1234/2465
 http://31.42.187.37:25461/watchpad13158/1234/2526
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5p.png" group-title="OLAHRAGA",CCTV5+
 http://31.42.187.37:25461/watchpad13158/1234/2527
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="OLAHRAGA",PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="OLAHRAGA",PREMIER LEAGUE sky
 http://31.42.187.37:25461/watchpad13158/1234/3115
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierSports.png" group-title="OLAHRAGA",Premier Sports
 http://31.42.187.37:25461/watchpad13158/1234/4030
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="OLAHRAGA",Astro Premier League3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="OLAHRAGA",Astro Premier League 3
 http://31.42.187.37:25461/watchpad13158/1234/19049
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHRAGA",beIN SPORTS¹
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHRAGA",beIN SPORTS01
 http://31.42.187.37:25461/watchpad13158/1234/18
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="OLAHRAGA",BEIN SPORTS²
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="OLAHRAGA",BEIN SPORTS02
 http://31.42.187.37:25461/watchpad13158/1234/4096
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHARAGA",BEIN SPORTS³
+#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHARAGA",BEIN SPORTS03
 http://31.42.187.37:25461/watchpad13158/1234/8956
 #EXTINF:-1 tvg-id="456.astro" tvg-name="SPO TV" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV.png" group-title="OLAHRAGA",SPO TVMY
 http://31.42.187.37:25461/watchpad13158/1234/110
