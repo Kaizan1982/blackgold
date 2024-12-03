@@ -2003,7 +2003,7 @@ https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET²
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://iili.io/JpsEnEJ.jpg" group-title="DISCOVERY", BBC EARTH
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2045,7 +2045,7 @@ https://campedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.m
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE³
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="" tvg-logo="https://iili.io/JpsF6u9.png" group-title="DISCOVERY", NATGEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
@@ -2062,10 +2062,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8
 
 #EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
-https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
 
 
               ######### DOCUMENTARY ###########
@@ -2119,7 +2119,7 @@ http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC²
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f1/d4/5e/f1d45e2ab1f3f3401e35cbd6d5bb1a39.jpg" group-title="PLATINUM MOVIE",HORROR MOVIE
 https://raw.githubusercontent.com/Cutsiffa/Movyyy/main/Horor.m3u8
@@ -2286,7 +2286,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 group-title="PLATINUM MOVIE"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES³
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/tvn.png", TVN MOVIES³
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2349,7 +2349,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK³
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PLATINUM MOVIE",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -5185,10 +5185,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://i.ibb.co.com/vm3YRD3/Fun-Planet.png",FUN PLANET
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
 
 #EXTINF:-1 group-title="BOCAH"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://iili.io/JmoB4cX.png" group-title="BOCAH",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -5225,7 +5225,7 @@ https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
 
 ######### SPORTS M4TCH RUSSIA #########
 
