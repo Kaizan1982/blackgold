@@ -2811,11 +2811,23 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="OLAHRAGA",SPOTV 2 
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0" , SPORTSTAR1
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg",Sportstars 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0" ,SPORTSTAR2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://dl.dropbox.com/scl/fi/58x0bnotsgxseoltjl8rf/Sportstars.jpeg?rlkey=pmh7htmzc1mjffe43fgspt2rt&dl=0",Sportstars 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA",Soccer channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" , SOCCER CH
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
@@ -3284,6 +3296,11 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="OLAHRAGA",RTM Sukan 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
               ############ SUPER SPORTS ##########
@@ -6217,54 +6234,6 @@ https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.co
 
               ############ ASTROX SPORTS #############
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="OLAHRAGA", Arena Bola1
-http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="OLAHRAGA", Arena Bola 2
-http://perfecttv.net:8080/Perfecttv/Perfecttv/7
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="OLAHRAGA", PremierLeague1
-http://perfecttv.net:8080/Perfecttv/Perfecttv/8
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="OLAHRAGA", PremierLeague 2
-http://perfecttv.net:8080/Perfecttv/Perfecttv/9
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="OLAHRAGA", Astro Grandstand
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="OLAHRAGA",Arena Bola 10
-http://31.42.187.37:25461/watchpad13158/1234/4648
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="OLAHRAGA",Arena Bola 1(backup)
-http://31.42.187.37:25461/watchpad13158/1234/11483
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="OLAHRAGA",Arena Bola 2(backup
-http://31.42.187.37:25461/watchpad13158/1234/332
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="OLAHRAGA",ELTA Sports 2 TW
-http://31.42.187.37:25461/watchpad13158/1234/17273
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/eltasports.png" group-title="OLAHRAGA",ELTA Sports 3 TW
-http://31.42.187.37:25461/watchpad13158/1234/4078
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="OLAHRAGA",RTM Sports
-http://31.42.187.37:25461/watchpad13158/1234/2465
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5.png" group-title="OLAHRAGA",CCTV5_
-http://31.42.187.37:25461/watchpad13158/1234/2526
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/CCTV5p.png" group-title="OLAHRAGA",CCTV5+
-http://31.42.187.37:25461/watchpad13158/1234/2527
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/skysportEPL.png" group-title="OLAHRAGA",PREMIER LEAGUE sky
-http://31.42.187.37:25461/watchpad13158/1234/3115
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/PremierSports.png" group-title="OLAHRAGA",Premier Sports
-http://31.42.187.37:25461/watchpad13158/1234/4030
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague3_2024.png" group-title="OLAHRAGA",Astro Premier League 3
-http://31.42.187.37:25461/watchpad13158/1234/19049
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHRAGA",beIN SPORTS01
-http://31.42.187.37:25461/watchpad13158/1234/18
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/BeinSports2.png" group-title="OLAHRAGA",BEIN SPORTS02
-http://31.42.187.37:25461/watchpad13158/1234/4096
-#EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/Bein_sports.png" group-title="OLAHRAGA",BEIN SPORTS03
-http://31.42.187.37:25461/watchpad13158/1234/8956
-#EXTINF:-1 tvg-id="456.astro" tvg-name="SPO TV" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV.png" group-title="OLAHRAGA",SPO TVMY
-http://31.42.187.37:25461/watchpad13158/1234/110
-#EXTINF:-1 tvg-id="474.astro" tvg-name="SPO TV2" tvg-logo="http://kingtv.dynu.com/tvlogo/SPOTV2.png" group-title="OLAHRAGA",SPO TV2MY
-http://31.42.187.37:25461/watchpad13158/1234/15
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="OLAHRAGA",Astro Football HD
-http://31.42.187.37:25461/watchpad13158/1234/111
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="OLAHRAGA",Astro Grandstand HD
-http://31.42.187.37:25461/watchpad13158/1234/112
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="OLAHRAGA",Astro Premier League 2 HD
-http://31.42.187.37:25461/watchpad13158/1234/113
 
 
 
