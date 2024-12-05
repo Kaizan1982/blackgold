@@ -2599,8 +2599,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 #http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
-#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://i.imgur.com/wcApTHn.jpg" tvg-id="sonypixhd.in" ,1 Sony Pix hd
-http://tv.indigotv.me:80/live.ts?channelId=189&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" ,SONY PIX
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=5175&deviceMac=00:1A:79:E5:A9:30|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://guki.my.id/logo/movie/warner.jpg" ,Warner TV¹
 #https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
