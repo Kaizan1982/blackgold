@@ -3217,7 +3217,10 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="OLAHRAGA",ASTRO SUPERSPORT4
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
-
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png", Arena bola
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png", Arena bola2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
                  ########## SPORTV #########
 
 #EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 FHD" tvg-name="SPORTV 2 FHD" ,SPORTV 2 FHD
