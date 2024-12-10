@@ -2564,7 +2564,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
 
 #EXTINF:-1 group-title="PLATINUM MOVIE" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK³
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Flik.m3u8
+
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PLATINUM MOVIE",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
@@ -3207,12 +3209,10 @@ https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 
                    ########## SPORTS ARENA #########
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Arena_Sport_Premium_1_2024.png" group-title="OLAHRAGA", Arena Premium1
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Arena_Sport_Premium_2_2024.png/revision/latest?cb=20240414134429" group+title="OLAHRAGA", Arena Premium2
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="OLAHRAGA", Arena Premium3
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium3.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+
+
+
                    #########ASTROX SPORTS#########
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="OLAHRAGA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT1
@@ -6209,25 +6209,30 @@ http://31.42.187.37:25461/watchpad13158/1234/341
 http://31.42.187.37:25461/watchpad13158/1234/1845
 
 #EXTINF:-1 tvg-id="" tvg-name="DUNIA SINEMA" tvg-logo="http://kingtv.dynu.com/tvlogo/DuniaSinema.png" group-title="ASTROX",DUNIA SINEMA
-http://31.42.187.37:25461/watchpad13158/1234/3279
+#http://31.42.187.37:25461/watchpad13158/1234/3279
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DuniaSinema.m3u8
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="Drama Sangat" tvg-logo="http://kingtv.dynu.com/tvlogo/DramaSangat.png" group-title="ASTROX",Drama Sangat
-http://31.42.187.37:25461/watchpad13158/1234/60
+#http://31.42.187.37:25461/watchpad13158/1234/60
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" group-title="ASTROX",Okey
 http://31.42.187.37:25461/watchpad13158/1234/3282
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA HD" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_RANIA.png" group-title="ASTROX", RANIA HD
-http://31.42.187.37:25461/watchpad13158/1234/4082
+#http://31.42.187.37:25461/watchpad13158/1234/4082
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="ASTROX", Ria HD
-http://31.42.187.37:25461/watchpad13158/1234/68
+#http://31.42.187.37:25461/watchpad13158/1234/68
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Prima (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Prima.png" group-title="ASTROX",Prima BC
 http://31.42.187.37:25461/watchpad13158/1234/11486
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNA (backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/warna.png" group-title="ASTROX",WARNA BC
-http://31.42.187.37:25461/watchpad13158/1234/11487
+#http://31.42.187.37:25461/watchpad13158/1234/11487
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroWarna.m3u8
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://kingtv.dynu.com/tvlogo/101.png" group-title="ASTROX",TV1
 http://31.42.187.37:25461/watchpad13158/1234/1
