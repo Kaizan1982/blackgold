@@ -54,8 +54,11 @@ https://flv.intechmedia.net/live/ch114.m3u8|user-agent=YouTV/1.5.6-prod.release 
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="NASIONAL", moji 2
-http://opplex.tv:8080/3116580700/0700/350997
+#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://i.ibb.co.com/zZD1bKh/20240903-002957.jpg" tvg-id="OChannel.id" tvg-name="O Channel" ,Moji 12 (XT)
+http://xtv.ooo:8080/30912088/60996054/350997|user-agent=OTT Navigator/1.6.7.4 (Linux;Android 11) ExoPlayerLib/2.15.1&referrer=https://thedream.biz.id/play.php
+
+#EXTINF:-1 group-title="11. INDONESIA" tvg-logo="https://i.ibb.co.com/zZD1bKh/20240903-002957.jpg" tvg-id="OChannel.id" tvg-name="O Channel" ,Moji 2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Moji.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png", RTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
