@@ -3205,8 +3205,15 @@ https://linear-s.media.skyone.co.nz/sky-sport-9.mpd
 #KODIPROP:inputstream.adaptive.license_key=aea66cdd9fea4096a81c9640c22f0000:c6a0d6507a25539719272484c7764742
 https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 
+                   ########## SPORTS ARENA #########
 
-          #########ASTROX SPORTS#########
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Arena_Sport_Premium_1_2024.png" group-title="OLAHRAGA", Arena Premium1
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Arena_Sport_Premium_2_2024.png/revision/latest?cb=20240414134429" group+title="OLAHRAGA", Arena Premium2
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="OLAHRAGA", Arena Premium3
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaPremium3.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+                   #########ASTROX SPORTS#########
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="OLAHRAGA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT1
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
@@ -3217,11 +3224,12 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="OLAHRAGA",ASTRO SUPERSPORT4
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png", Arena bola
+#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png", Arena bola1
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola1.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png", Arena bola2
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-                 ########## SPORTV #########
+
+                  ########## SPORTV #########
 
 #EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 FHD" tvg-name="SPORTV 2 FHD" ,SPORTV 2 FHD
 http://cdn.topk.live:80/karoline/123456/685171
