@@ -3360,8 +3360,62 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+              ########## TNT SPORTS #########
 
-              ############ OPTUS EVENT ONLY ##########
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/tnt1.png" group-title="TNT & SKY", TNT Sports 1
+http://gcf.nrslist.com/TVD001/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/tnt2.png" group-title="TNT & SKY", TNT Sports 2
+http://gcf.nrslist.com/TVD002/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/tnt3.png" group-title="TNT & SKY", TNT Sports 3
+http://gcf.nrslist.com/TVD003/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/tnt4.png" group-title="TNT & SKY", TNT Sports 4
+http://gcf.nrslist.com/TVD004/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFQli.png" group-title="TNT & SKY", Eurosport 2 HD
+http://gcf.nrslist.com/TVD014/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/skyact.png" group-title="TNT & SKY", SkySp Action HD
+http://gcf.nrslist.com/TVD015/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbI.png" group-title="TNT & SKY", SkySp Golf HD
+http://gcf.nrslist.com/TVD016/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/skyfoot.png" group-title="TNT & SKY", SkySp F'ball HD
+http://gcf.nrslist.com/TVD017/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7yG.png" group-title="TNT & SKY", SkySp Mix HD
+http://gcf.nrslist.com/TVD022/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbm.png" group-title="TNT & SKY", SkySp F1 HD
+http://gcf.nrslist.com/TVD023/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/skycri.png" group-title="TNT & SKY", SkySpCricket HD
+http://gcf.nrslist.com/TVD024/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://guki.my.id/logo/sports/skyrac.png" group-title="TNT & SKY", SkySp Racing HD
+http://gcf.nrslist.com/TVD041/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GN.png" group-title="TNT & SKY", SkySp MainEv HD
+http://gcf.nrslist.com/TVD043/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="TNT & SKY", SkySp PL HD
+http://gcf.nrslist.com/TVD053/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbm.png" group-title="TNT & SKY", Sky Sport F1 HD
+http://gcf.nrslist.com/TVD201/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7yG.png" group-title="TNT & SKY", Sky Sport Mix
+http://gcf.nrslist.com/TVD207/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s12.gifyu.com/images/SZK71.png" group-title="TNT & SKY", DAZN 2 HD
+http://gcf.nrslist.com/TVD212/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GN.png" group-title="TNT & SKY", Sky Sport Top Event HD
+http://gcf.nrslist.com/TVD215/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxb4.png" group-title="TNT & SKY", Sky Sport Tennis
+http://gcf.nrslist.com/TVD224/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="TNT & SKY", Sky Sport Premier League
+http://gcf.nrslist.com/TVD229/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s12.gifyu.com/images/SZK7A.png" group-title="TNT & SKY", DAZN 1 HD
+http://gcf.nrslist.com/TVD232/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7Gk.png" group-title="TNT & SKY", Sky Sport Austria HD
+http://gcf.nrslist.com/TVD233/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7y6.png" group-title="TNT & SKY", Sky Sport Bundesliga 1 HD
+http://gcf.nrslist.com/TVD235/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="TNT & SKY", Sky Sport News HD
+http://gcf.nrslist.com/TVD237/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://motorvision.tv/assets/img/logo-neu.png" group-title="TNT & SKY", Motorvision TV
+http://gcf.nrslist.com/TVD244/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbI.png" group-title="TNT & SKY", Sky Sport Golf HD
+http://gcf.nrslist.com/TVD247/index.
+
+                  ############ OPTUS EVENT ONLY ##########
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Optus_Sport_logo.png" group-title="OPTUS SPORTS", AUS| OPTUS 01 [EVENT ONLY] 
 http://extraott.com:80/live/3969424152/3723991250/191762.m3u8 
