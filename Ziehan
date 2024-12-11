@@ -2142,7 +2142,7 @@ http://gcf.nrslist.com/TVD004/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", E4 HD
 http://gcf.nrslist.com/TVD013/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Eurosport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFQli.png" group-title="EUROFA", Eurosport 2 HD
 http://gcf.nrslist.com/TVD014/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp Action HD
@@ -2298,7 +2298,7 @@ http://gcf.nrslist.com/TVD209/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Romance TV Deu
 http://gcf.nrslist.com/TVD210/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s12.gifyu.com/images/SZK71.png" group-title="EUROFA", DAZN 2 HD
 http://gcf.nrslist.com/TVD212/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Crime HD
@@ -2343,7 +2343,7 @@ http://gcf.nrslist.com/TVD228/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="EUROFA", Sky Sport Premier League
 http://gcf.nrslist.com/TVD229/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s12.gifyu.com/images/SZK7A.png" group-title="EUROFA", DAZN 1 HD
 http://gcf.nrslist.com/TVD232/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7Gk.png" group-title="EUROFA", Sky Sport Austria HD
