@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png", RCTI 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://t.ly/SIgWb", RCTI 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
@@ -19,7 +19,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|R
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png", iNews 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://t.ly/E4wlh", iNews 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/
@@ -37,7 +37,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/tv1.png", tvOne 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://flyngdutchman.com/tvone", tvOne 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
@@ -80,13 +80,13 @@ http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;user
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kompastv%20(2).png", Kompas TV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://t.ly/QPaCo", Kompas TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", MetroTV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://t.ly/rtLUp", MetroTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
@@ -120,7 +120,7 @@ http://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png", BTV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://t.ly/W55Ni", BTV 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/btv.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/bP4fmN9/20240903-005125.jpg" ,Mentari TV 1
@@ -2199,7 +2199,7 @@ http://gcf.nrslist.com/TVD035/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Boomerang HD
 http://gcf.nrslist.com/TVD037/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sky_Max_2021.svg/500px-Sky_Max_2021.svg.png" group-title="EUROFA", Sky Max HD
 http://gcf.nrslist.com/TVD039/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Witness HD
@@ -2319,25 +2319,25 @@ http://gcf.nrslist.com/TVD217/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Nicktoons Germany
 http://gcf.nrslist.com/TVD219/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Atlantic HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/500px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="EUROFA", Sky Atlantic HD
 http://gcf.nrslist.com/TVD221/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Cinema Highlights
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/1280px-Sky_Cinema_-_Logo_2020.svg.png" group-title="EUROFA", Sky Cinema Highlights
 http://gcf.nrslist.com/TVD222/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Documentaries HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sky_Documentaries.svg/500px-Sky_Documentaries.svg.png" group-title="EUROFA", Sky Documentaries HD
 http://gcf.nrslist.com/TVD223/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxb4.png" group-title="EUROFA", Sky Sport Tennis
 http://gcf.nrslist.com/TVD224/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", 13th Street HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/6/66/13th_street_logo_2020.svg/506px-13th_street_logo_2020.svg.png" group-title="EUROFA", 13th Street HD
 http://gcf.nrslist.com/TVD225/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Krimi
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/500px-Sky_Krimi_2020.svg.png" group-title="EUROFA", Sky Krimi
 http://gcf.nrslist.com/TVD227/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Warner TV Film
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/440px-Warner2018LA.png" group-title="EUROFA", Warner TV Film
 http://gcf.nrslist.com/TVD228/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="EUROFA", Sky Sport Premier League
@@ -2352,34 +2352,34 @@ http://gcf.nrslist.com/TVD233/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7y6.png" group-title="EUROFA", Sky Sport Bundesliga 1 HD
 http://gcf.nrslist.com/TVD235/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Cinema Best Of
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/1024px-Sky_Cinema_-_Logo_2020.svg.png" group-title="EUROFA", Sky Cinema Best Of
 http://gcf.nrslist.com/TVD236/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="EUROFA", Sky Sport News HD
 http://gcf.nrslist.com/TVD237/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Replay
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/08/14111540/Sky-Replay-768x576.jpg" group-title="EUROFA", Sky Replay
 http://gcf.nrslist.com/TVD238/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Syfy Deutschland
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1600px-SYFY.svg.png" group-title="EUROFA", Syfy Deutschland
 http://gcf.nrslist.com/TVD239/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", History HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1600px-History_HD_Logo.svg.png?20120915192327" group-title="EUROFA", History HD
 http://gcf.nrslist.com/TVD240/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Warner TV Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warner_Bros._Television_2023_%28Alt%29.svg/440px-Warner_Bros._Television_2023_%28Alt%29.svg.png" group-title="EUROFA", Warner TV Comedy
 http://gcf.nrslist.com/TVD242/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Showcase
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/500px-Sky_Showcase_2021.svg.png" group-title="EUROFA", Sky Showcase
 http://gcf.nrslist.com/TVD243/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Motorvision TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://motorvision.tv/assets/img/logo-neu.png" group-title="EUROFA", Motorvision TV
 http://gcf.nrslist.com/TVD244/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Jukebox
+#EXTINF:-1 tvg-id="" tvg-logo="https://flyngdutchman.com/JukeBox" group-title="EUROFA", Jukebox
 http://gcf.nrslist.com/TVD245/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Cartoon Network Deutschland
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1600px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="EUROFA", Cartoon Network Deutschland
 http://gcf.nrslist.com/TVD246/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbI.png" group-title="EUROFA", Sky Sport Golf HD
