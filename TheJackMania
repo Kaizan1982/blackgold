@@ -3231,26 +3231,12 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m
 
                   ########## SPORTV #########
 
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 FHD" tvg-name="SPORTV 2 FHD" ,SPORTV 2 FHD
-http://cdn.topk.live:80/karoline/123456/685171
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 HD" tvg-name="SPORTV 2 HD" ,SPORTV 2 HD
-http://cdn.topk.live:80/karoline/123456/141545
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 SD" tvg-name="SPORTV 2 SD" ,SPORTV 2 SD
-http://cdn.topk.live:80/karoline/123456/141546
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" tvg-id="SporTV 3 FHD" tvg-name="SPORTV 3 FHD" ,SPORTV 3 FHD
-http://cdn.topk.live:80/karoline/123456/141561
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" tvg-id="SporTV 3" tvg-name="SPORTV 3 HD" ,SPORTV 3 HD
-http://cdn.topk.live:80/karoline/123456/338416
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" tvg-id="SporTV 3 SD" tvg-name="SPORTV 3 SD" ,SPORTV 3 SD
-http://cdn.topk.live:80/karoline/123456/141548
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" tvg-id="SporTV FHD" tvg-name="SPORTV FHD" ,SPORTV FHD
-http://cdn.topk.live:80/karoline/123456/685172
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" tvg-id="BR - SporTV" tvg-name="SPORTV HD" ,SPORTV HD
-http://cdn.topk.live:80/karoline/123456/141549
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" tvg-id="SporTV SD" tvg-name="SPORTV SD" ,SPORTV SD
-http://cdn.topk.live:80/karoline/123456/141550
-#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/Z5qRxeBRZ4HEikS/download/SPORTV%204.png" tvg-name="SPORTV 4 HD" ,SPORTV 4 HD
-http://cdn.topk.live:80/karoline/123456/1824502
+#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/pycgLGHfjMfeqd3/download/sportv2.png" tvg-id="SporTV 2 SD" tvg-name="SPORTV 2 " ,SPORTV 2HD
+http://gcf.nrslist.com/TVD4803/index.mpd
+#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/bgod9YdaanJi5wD/download/sportv3.png" tvg-id="SporTV 3" tvg-name="SPORTV 3 " ,SPORTV 3HD
+http://gcf.nrslist.com/TVD4809/index.mpd
+#EXTINF:-1 group-title="SPORTV" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" tvg-id="BR - SporTV" tvg-name="SPORTV 1 " ,SPORTV 1HD
+http://gcf.nrslist.com/TVD4806/index.mpd
 
 
               #########TNT SPORT########
