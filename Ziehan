@@ -2148,13 +2148,13 @@ http://gcf.nrslist.com/TVD014/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp Action HD
 http://gcf.nrslist.com/TVD015/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp Golf HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbI.png" group-title="EUROFA", SkySp Golf HD
 http://gcf.nrslist.com/TVD016/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp F'ball HD
 http://gcf.nrslist.com/TVD017/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="EUROFA", SkySp News HD
 http://gcf.nrslist.com/TVD018/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Nature HD
@@ -2163,13 +2163,13 @@ http://gcf.nrslist.com/TVD019/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkyShowcaseHD
 http://gcf.nrslist.com/TVD020/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="EUROFA", Sky News HD
 http://gcf.nrslist.com/TVD021/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp Mix HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7yG.png" group-title="EUROFA", SkySp Mix HD
 http://gcf.nrslist.com/TVD022/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp F1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbm.png" group-title="EUROFA", SkySp F1 HD
 http://gcf.nrslist.com/TVD023/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySpCricket HD
@@ -2211,7 +2211,7 @@ http://gcf.nrslist.com/TVD041/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Arts HD
 http://gcf.nrslist.com/TVD042/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp MainEv HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GN.png" group-title="EUROFA", SkySp MainEv HD
 http://gcf.nrslist.com/TVD043/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Utsav Plus HD
@@ -2238,7 +2238,7 @@ http://gcf.nrslist.com/TVD051/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Film4 HD
 http://gcf.nrslist.com/TVD052/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", SkySp PL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="EUROFA", SkySp PL HD
 http://gcf.nrslist.com/TVD053/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Discovery HD
@@ -2271,7 +2271,7 @@ http://gcf.nrslist.com/TVD065/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", GOLD HD
 http://gcf.nrslist.com/TVD066/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport F1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbm.png" group-title="EUROFA", Sky Sport F1 HD
 http://gcf.nrslist.com/TVD201/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Cinema Action
@@ -2286,7 +2286,7 @@ http://gcf.nrslist.com/TVD205/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Cinema Family
 http://gcf.nrslist.com/TVD206/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Mix
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7yG.png" group-title="EUROFA", Sky Sport Mix
 http://gcf.nrslist.com/TVD207/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky 1 HD
@@ -2307,7 +2307,7 @@ http://gcf.nrslist.com/TVD213/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Nature
 http://gcf.nrslist.com/TVD214/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Top Event HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GN.png" group-title="EUROFA", Sky Sport Top Event HD
 http://gcf.nrslist.com/TVD215/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Discovery HD
@@ -2328,7 +2328,7 @@ http://gcf.nrslist.com/TVD222/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Documentaries HD
 http://gcf.nrslist.com/TVD223/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Tennis
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxb4.png" group-title="EUROFA", Sky Sport Tennis
 http://gcf.nrslist.com/TVD224/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", 13th Street HD
@@ -2340,22 +2340,22 @@ http://gcf.nrslist.com/TVD227/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Warner TV Film
 http://gcf.nrslist.com/TVD228/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Premier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GL.png" group-title="EUROFA", Sky Sport Premier League
 http://gcf.nrslist.com/TVD229/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", DAZN 1 HD
 http://gcf.nrslist.com/TVD232/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Austria HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7Gk.png" group-title="EUROFA", Sky Sport Austria HD
 http://gcf.nrslist.com/TVD233/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Bundesliga 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7y6.png" group-title="EUROFA", Sky Sport Bundesliga 1 HD
 http://gcf.nrslist.com/TVD235/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Cinema Best Of
 http://gcf.nrslist.com/TVD236/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SF7GS.png" group-title="EUROFA", Sky Sport News HD
 http://gcf.nrslist.com/TVD237/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Replay
@@ -2382,7 +2382,7 @@ http://gcf.nrslist.com/TVD245/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Cartoon Network Deutschland
 http://gcf.nrslist.com/TVD246/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EUROFA", Sky Sport Golf HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://s9.gifyu.com/images/SFxbI.png" group-title="EUROFA", Sky Sport Golf HD
 http://gcf.nrslist.com/TVD247/index.mpd
 
 
