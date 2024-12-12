@@ -1354,10 +1354,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV HD2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" tvg-id="SCTV.id" tvg-name="SCTV" ,SCTV 3 (NT)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg" tvg-id="SCTV.id" tvg-name="SCTV" ,SCTV ID
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/sRwjL9W/20240903-004420.jpg" tvg-id="SCTV.id" tvg-name="SCTV" ,SCTV DN
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/indosiar.jpg", INDOSIAR HD1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1369,21 +1372,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" ,INDOSIAR HD2
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138|user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" , INDOSIAR HD3
-http://opplex.tv:8080/3116580700/0700/350972
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestrea" tvg-id="Indosiar.id" tvg-name="Indosiar" ,Indosiar TV
+https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-logo="https://guki.my.id/logo/lokal/moji.jpg" group-title="NASIONAL", MOJI HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+#EXTVLCOPT:http-user-agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Moji.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" ,MOJI HD2
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
+http://xtv.ooo:8080/30912088/60996054/350997|user-agent=OTT Navigator/1.6.7.4 (Linux;Android 11) ExoPlayerLib/2.15.1&referrer=https://thedream.biz.id/play.php
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://guki.my.id/logo/lokal/moji.jpg" ,MOJI HD3
-http://opplex.tv:8080/3116580700/0700/350997
-
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="NASIONAL",CNN INDONESIA¹
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
