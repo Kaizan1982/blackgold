@@ -5744,6 +5744,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
+#EXTINF:-1 group-title="BOCAH" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" tvg-id="DuniaAnak.id" ,Dunia Anak TV
+https://cdnjkt4.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.m3u8|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -5765,10 +5768,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://i.ibb.co.com/vm3YRD3/Fun-Planet.png",FUN PLANET
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
 
 #EXTINF:-1 group-title="BOCAH"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://iili.io/JmoB4cX.png" group-title="BOCAH",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -5805,7 +5810,11 @@ https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+http://212.102.60.231/NICK_JR/index.m3u8
+
+#EXTINF:-1 group-title="BOCAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" tvg-id="NickJrAsia.sg" tvg-name="Nick Junior" , Nick Junior USA
+https://xyzdddd.mizhls.ru/lb/premium329/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
 
 #EXTINF:-1 group-title="BOCAH" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-id="Much.Music.ca" tvg-name="MUCH" ,MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
