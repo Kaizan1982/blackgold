@@ -3216,6 +3216,21 @@ https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 
                    ########## SPORTS ARENA #########
 
+
+#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png",Arena 1 Premium
+#http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285558
+https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png",Arena 2 Premium
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285559
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
 #EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" ,Arena Premium 1 Croatia
 https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
 #EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" ,Arena Premium 2 Croatia
