@@ -3218,7 +3218,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
 
 
 #EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png",Arena 1 Premium
-#http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285558
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
 https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png",Arena 2 Premium
