@@ -3217,44 +3217,6 @@ https://linear-s.media.skyone.co.nz/sky-sport-select.mpd
                    ########## SPORTS ARENA #########
 
 
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-1-2696.png",Arena 1 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-rs-arena-premium-2-2697.png",Arena 2 Premium
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/285559
-
-#EXTINF:-1 group-title="SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" ,Arena Premium 1 Croatia
-https://xyzdddd.mizhls.ru/lb/premium134/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" ,Arena Premium 2 Croatia
-https://xyzdddd.mizhls.ru/lb/premium135/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7BWbEGnLY7ZA3HFC2IiG7p8PjWan6bPoSA&usqp=CAU" ,Arena Premium 3 Croatia
-https://xyzdddd.mizhls.ru/lb/premium139/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 1
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 2
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 3
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 4
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 5
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 6
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA SPORTS 1 X 2
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA FIGHT
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 group-title="ARENASPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxSJWs8AwCcQu9XxCTawNTeat39-Jq5NRL6q3t3iBAMBITnro1zty1po&s=10" tvg-id="ArenaSport1Serbia.rs" , ARENA Premier League
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd|license_type=clearkey&license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 
 
                    #########ASTROX SPORTS#########
@@ -3449,34 +3411,10 @@ http://cdn.topk.live:80/karoline/123456/141540
 
                #########DIGISPORTS#########
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" tvg-id="DigiSport1Romania.ro" ,Digi Sport 1
-https://xyzdddd.mizhls.ru/lb/premium400/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" tvg-id="DigiSport2Romania.ru" ,Digi Sport 2
-https://xyzdddd.mizhls.ru/lb/premium401/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" tvg-id="DigiSport3Romania.ro" ,Digi Sport 3
-https://xyzdddd.mizhls.ru/lb/premium402/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2SzokCLVAG2Zfj2QMEYvZrnk0wKbtI-yBlQ&usqp=CAU" tvg-id="DigiSport4Romania.ro" ,Digi Sport 4
-https://xyzdddd.mizhls.ru/lb/premium403/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-
 
 
 
               #########ELEVENSPORTS##########
-
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 1
-https://xyzdddd.mizhls.ru/lb/premium71/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 2
-https://xyzdddd.mizhls.ru/lb/premium72/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" ,Eleven Sports 3
-https://xyzdddd.mizhls.ru/lb/premium428/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" tvg-id="ElevenSports1Portugal.pt" ,Eleven 1 HD
-https://xyzdddd.mizhls.ru/lb/premium455/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" tvg-id="ElevenSports2Portugal.pt" ,Eleven 2 HD
-https://xyzdddd.mizhls.ru/lb/premium456/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" tvg-id="ElevenSports3Portugal.pt" ,Eleven 3 HD
-https://xyzdddd.mizhls.ru/lb/premium457/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
-#EXTINF:-1 group-title="ELEVENSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbqxC-o6IvLQMrp8H6kep8qYuyZzbThVErQ&usqp=CAU" tvg-id="ElevenSports4Portugal.pt" ,Eleven 4 HD
-https://xyzdddd.mizhls.ru/lb/premium458/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1&referrer=https://ntuplay.xyz/
 
 
 
