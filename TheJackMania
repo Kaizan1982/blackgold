@@ -5507,6 +5507,39 @@ http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
+http://cord-cutter.net:8080/live/95549031/69361122/46708.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+http://cord-cutter.net:8080/live/95549031/69361122/41960.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://cord-cutter.net:8080/live/95549031/69361122/75621.m3u8
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://supersonictv.live:8080/live/144264/661943/21795.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
+http://cord-cutter.net:8080/live/95549031/69361122/38.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
+http://cord-cutter.net:8080/live/95549031/69361122/46710.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
+http://cord-cutter.net:8080/live/95549031/69361122/36.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
+http://supersonictv.live:8080/live/144264/661943/21811.ts
+
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" group-title="BOCAH" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
+http://supersonictv.live:8080/live/144264/661943/21810.ts
+
+#EXTINF:-1 group-title="BOCAH" tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
+http://cord-cutter.net:8080/live/95549031/69361122/9235.m3u8
+
+#EXTINF:-1 group-title="BOCAH" tvg-id="MoonbugKids.uk",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 
 
                      ######### SPORTS M4TCH RUSSIA #########
@@ -5531,10 +5564,21 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
-          ########## RUSS CHN ############
+          ########## ITV CHN ############
 
+#EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="ITV" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://cord-cutter.net:8080/live/95549031/69361122/53651.ts
 
-          
+#EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="ITV" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://cord-cutter.net:8080/live/95549031/69361122/53671.ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="ITV" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://cord-cutter.net:8080/live/95549031/69361122/53665.ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="ITV" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://cord-cutter.net:8080/live/95549031/69361122/53666.ts
+
+         
           ######### RUSS KNOWLEDGE #########
 
 
